@@ -1,6 +1,6 @@
 {
  "what": "Identity of the released builds: SHA-256 and size of every file of the Windows build folder and of the Android APK.",
- "build": "Built with Dev/Tools/build_release.ps1 (Unity 6000.3.8f1, PilotBuild.BuildWindows / BuildAndroid) from a project copy opened as X:\\DC2-Dev.",
+ "build": "Built with Dev/Tools/build_release.ps1 (Unity 6000.3.8f1, PilotBuild.BuildWindows / BuildAndroid) from the tree of the first v1.0.0 commit, opened as X:\\DC2-Dev. The Windows zip holds these files under \"Dino Cap 2/\", each entry dated 1980-01-01.",
  "windows": [
   {
    "path": "D3D12/D3D12Core.dll",
@@ -15,7 +15,7 @@
   {
    "path": "Dino Cap 2_Data/Managed/Assembly-CSharp.dll",
    "size": 338432,
-   "sha256": "88ef5c8d3f2398ff693d103f75e7fabfb055045801b6781d0132171dab419679"
+   "sha256": "c03ef2e08e37c869386bb3f3c326dddfd3385ac151b9438f2ff4530b37d75ac4"
   },
   {
    "path": "Dino Cap 2_Data/Managed/Mono.Security.dll",
@@ -565,7 +565,7 @@
   {
    "path": "Dino Cap 2_Data/boot.config",
    "size": 156,
-   "sha256": "ccf6d8c6a66891c3ad35545e45be56c4140e90945d1cda77a55453c8a8fc0b67"
+   "sha256": "30d5cac33f9e01781acbcab220dac6609a874b2b93af4315cdc2ce53c1d39eb9"
   },
   {
    "path": "Dino Cap 2_Data/globalgamemanagers",
@@ -720,7 +720,17 @@
  ],
  "android": {
   "path": "Dino Cap 2.apk",
-  "size": 52137158,
-  "sha256": "08b67ec47998dadd65c46afa3b076b8d11320276a171e8d5e4d719b3e917a9a7"
- }
+  "size": 52136242,
+  "sha256": "268afd4823f71838d54a050e6225a92eb863d33ddd37894cb46a9d2d35628b44"
+ },
+ "release_assets": [
+  {
+   "name": "Dino-Cap-2-v1.0.0-Windows-x64.zip",
+   "sha256": "4f5c0d80b9c87b2e05af513b96e2e72b9145952a25eb27ba4c3b0ce740e1e3cd"
+  },
+  {
+   "name": "Dino-Cap-2-v1.0.0-Android.apk",
+   "sha256": "268afd4823f71838d54a050e6225a92eb863d33ddd37894cb46a9d2d35628b44"
+  }
+ ]
 }

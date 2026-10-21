@@ -16,8 +16,8 @@ Compiling, launching, playing and matching the original are separate levels; eac
 
 | File | SHA-256 |
 |---|---|
-| `Dino Cap 2.apk` | `08b67ec47998dadd65c46afa3b076b8d11320276a171e8d5e4d719b3e917a9a7` |
-| Windows `Dino Cap 2_Data/Managed/Assembly-CSharp.dll` | `88ef5c8d3f2398ff693d103f75e7fabfb055045801b6781d0132171dab419679` |
+| `Dino Cap 2.apk` | `268afd4823f71838d54a050e6225a92eb863d33ddd37894cb46a9d2d35628b44` |
+| Windows `Dino Cap 2_Data/Managed/Assembly-CSharp.dll` | `c03ef2e08e37c869386bb3f3c326dddfd3385ac151b9438f2ff4530b37d75ac4` |
 | Original IPA (not distributed) | `6cec1c949b1507a82a48997b8796adb2ab47e66524b43c3e9b3e8b5a3c940038` |
 
 The Windows `.exe` is Unity's launcher stub (the same in every build); the whole folder's per-file hashes in [release_manifest.json](release_manifest.json) identify a Windows build. The phone performance run and FIG-02 are historical: they used an earlier APK of the same code line, built before the final rename, the splash change and the negative-cash fix. The final APK was not launched on the phone (user decision).
