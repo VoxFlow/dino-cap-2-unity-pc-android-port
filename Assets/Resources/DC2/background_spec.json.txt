@@ -1,0 +1,786 @@
+{
+ "schema_version": 1,
+ "provenance": "NATIVE",
+ "binary_sha256": "0ba6bc2b2c92a045a13af1ca37af9389f81f8848ae81bcb892423e7eae01cdd8",
+ "variants": [
+  {
+   "id": 0,
+   "layers": [
+    {
+     "slot": 112,
+     "x": -480.0,
+     "y": 116.0,
+     "period": 1024.0,
+     "containerHeight": 400.0,
+     "walkVelocityFactor": 0.75,
+     "children": [
+      {
+       "frame": "beijing_1Frame",
+       "width": 512.0,
+       "height": 464.0,
+       "layer": 1,
+       "nativeCreate": "0xdd5fe"
+      },
+      {
+       "frame": "beijing_2Frame",
+       "width": 512.0,
+       "height": 464.0,
+       "layer": 1,
+       "nativeCreate": "0xdd5fe"
+      },
+      {
+       "frame": "beijing_1Frame",
+       "width": 512.0,
+       "height": 464.0,
+       "layer": 1,
+       "nativeCreate": "0xdd5fe"
+      },
+      {
+       "frame": "beijing_2Frame",
+       "width": 512.0,
+       "height": 464.0,
+       "layer": 1,
+       "nativeCreate": "0xdd5fe"
+      }
+     ]
+    },
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": -208.8000030517578,
+     "period": 1024.0,
+     "containerHeight": 248.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "dimian_m1Frame",
+       "width": 512.0,
+       "height": 280.0,
+       "layer": 2,
+       "nativeCreate": "0xdd97c"
+      },
+      {
+       "frame": "dimian_m2Frame",
+       "width": 512.0,
+       "height": 280.0,
+       "layer": 2,
+       "nativeCreate": "0xdd97c"
+      },
+      {
+       "frame": "dimian_m1Frame",
+       "width": 512.0,
+       "height": 280.0,
+       "layer": 2,
+       "nativeCreate": "0xdd97c"
+      },
+      {
+       "frame": "dimian_m2Frame",
+       "width": 512.0,
+       "height": 280.0,
+       "layer": 2,
+       "nativeCreate": "0xdd97c"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "layers": [
+    {
+     "slot": 112,
+     "x": -480.0,
+     "y": 167.60000610351562,
+     "period": 960.0,
+     "containerHeight": 368.0,
+     "walkVelocityFactor": 0.75,
+     "children": [
+      {
+       "frame": "beijing2_1Frame",
+       "width": 960.0,
+       "height": 368.0,
+       "layer": 1,
+       "nativeCreate": "0xdcd56"
+      },
+      {
+       "frame": "beijing2_1Frame",
+       "width": 960.0,
+       "height": 368.0,
+       "layer": 1,
+       "nativeCreate": "0xdcd56"
+      },
+      {
+       "frame": "beijing2_1Frame",
+       "width": 960.0,
+       "height": 368.0,
+       "layer": 1,
+       "nativeCreate": "0xdcd56"
+      },
+      {
+       "frame": "beijing2_1Frame",
+       "width": 960.0,
+       "height": 368.0,
+       "layer": 1,
+       "nativeCreate": "0xdcd56"
+      }
+     ]
+    },
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": -154.0,
+     "period": 960.0,
+     "containerHeight": 332.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "beijing2_2Frame",
+       "width": 960.0,
+       "height": 332.0,
+       "layer": 3,
+       "nativeCreate": "0xdd066"
+      },
+      {
+       "frame": "beijing2_2Frame",
+       "width": 960.0,
+       "height": 332.0,
+       "layer": 3,
+       "nativeCreate": "0xdd066"
+      },
+      {
+       "frame": "beijing2_2Frame",
+       "width": 960.0,
+       "height": 332.0,
+       "layer": 3,
+       "nativeCreate": "0xdd066"
+      },
+      {
+       "frame": "beijing2_2Frame",
+       "width": 960.0,
+       "height": 332.0,
+       "layer": 3,
+       "nativeCreate": "0xdd066"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -200.8000030517578,
+     "period": 960.0,
+     "containerHeight": 268.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "beijing2_4Frame",
+       "width": 960.0,
+       "height": 300.0,
+       "layer": 10,
+       "nativeCreate": "0xdd342"
+      },
+      {
+       "frame": "beijing2_4Frame",
+       "width": 960.0,
+       "height": 300.0,
+       "layer": 10,
+       "nativeCreate": "0xdd342"
+      },
+      {
+       "frame": "beijing2_4Frame",
+       "width": 960.0,
+       "height": 300.0,
+       "layer": 10,
+       "nativeCreate": "0xdd342"
+      },
+      {
+       "frame": "beijing2_4Frame",
+       "width": 960.0,
+       "height": 300.0,
+       "layer": 10,
+       "nativeCreate": "0xdd342"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "layers": [
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": 12.800000190734863,
+     "period": 852.0,
+     "containerHeight": 640.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "back_endFrame",
+       "width": 852.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xddd5e"
+      },
+      {
+       "frame": "back_endFrame",
+       "width": 852.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xddd5e"
+      },
+      {
+       "frame": "back_endFrame",
+       "width": 852.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xddd5e"
+      },
+      {
+       "frame": "back_endFrame",
+       "width": 852.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xddd5e"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -206.8000030517578,
+     "period": 852.0,
+     "containerHeight": 252.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "back_frontFrame",
+       "width": 852.0,
+       "height": 284.0,
+       "layer": 12,
+       "nativeCreate": "0xde0a0"
+      },
+      {
+       "frame": "back_frontFrame",
+       "width": 852.0,
+       "height": 284.0,
+       "layer": 12,
+       "nativeCreate": "0xde0a0"
+      },
+      {
+       "frame": "back_frontFrame",
+       "width": 852.0,
+       "height": 284.0,
+       "layer": 12,
+       "nativeCreate": "0xde0a0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "layers": [
+    {
+     "slot": 112,
+     "x": -480.0,
+     "y": 182.8000030517578,
+     "period": 960.0,
+     "containerHeight": 350.0,
+     "walkVelocityFactor": 0.75,
+     "children": [
+      {
+       "frame": "beijing3_1Frame",
+       "width": 960.0,
+       "height": 334.0,
+       "layer": 1,
+       "nativeCreate": "0xde3b6"
+      },
+      {
+       "frame": "beijing3_1Frame",
+       "width": 960.0,
+       "height": 334.0,
+       "layer": 1,
+       "nativeCreate": "0xde3b6"
+      },
+      {
+       "frame": "beijing3_1Frame",
+       "width": 960.0,
+       "height": 334.0,
+       "layer": 1,
+       "nativeCreate": "0xde3b6"
+      },
+      {
+       "frame": "beijing3_1Frame",
+       "width": 960.0,
+       "height": 334.0,
+       "layer": 1,
+       "nativeCreate": "0xde3b6"
+      }
+     ]
+    },
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": -46.0,
+     "period": 960.0,
+     "containerHeight": 492.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "beijing3_2Frame",
+       "width": 960.0,
+       "height": 492.0,
+       "layer": 2,
+       "nativeCreate": "0xde6b2"
+      },
+      {
+       "frame": "beijing3_2Frame",
+       "width": 960.0,
+       "height": 492.0,
+       "layer": 2,
+       "nativeCreate": "0xde6b2"
+      },
+      {
+       "frame": "beijing3_2Frame",
+       "width": 960.0,
+       "height": 492.0,
+       "layer": 2,
+       "nativeCreate": "0xde6b2"
+      },
+      {
+       "frame": "beijing3_2Frame",
+       "width": 960.0,
+       "height": 492.0,
+       "layer": 2,
+       "nativeCreate": "0xde6b2"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -236.0,
+     "period": 960.0,
+     "containerHeight": 278.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "beijing3_4Frame",
+       "width": 960.0,
+       "height": 226.8000030517578,
+       "layer": 10,
+       "nativeCreate": "0xde93e"
+      },
+      {
+       "frame": "beijing3_4Frame",
+       "width": 960.0,
+       "height": 226.8000030517578,
+       "layer": 10,
+       "nativeCreate": "0xde93e"
+      },
+      {
+       "frame": "beijing3_4Frame",
+       "width": 960.0,
+       "height": 226.8000030517578,
+       "layer": 10,
+       "nativeCreate": "0xde93e"
+      },
+      {
+       "frame": "beijing3_4Frame",
+       "width": 960.0,
+       "height": 226.8000030517578,
+       "layer": 10,
+       "nativeCreate": "0xde93e"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "layers": [
+    {
+     "slot": 112,
+     "x": -480.0,
+     "y": 190.8000030517578,
+     "period": 960.0,
+     "containerHeight": 286.0,
+     "walkVelocityFactor": 1.0,
+     "children": [
+      {
+       "frame": "beijing4_1Frame",
+       "width": 960.0,
+       "height": 311.6000061035156,
+       "layer": 0,
+       "nativeCreate": "0xdecc6"
+      },
+      {
+       "frame": "beijing4_1Frame",
+       "width": 960.0,
+       "height": 311.6000061035156,
+       "layer": 0,
+       "nativeCreate": "0xdecc6"
+      },
+      {
+       "frame": "beijing4_1Frame",
+       "width": 960.0,
+       "height": 311.6000061035156,
+       "layer": 0,
+       "nativeCreate": "0xdecc6"
+      },
+      {
+       "frame": "beijing4_1Frame",
+       "width": 960.0,
+       "height": 311.6000061035156,
+       "layer": 0,
+       "nativeCreate": "0xdecc6"
+      }
+     ]
+    },
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": -100.0,
+     "period": 960.0,
+     "containerHeight": 440.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "beijing4_2Frame",
+       "width": 960.0,
+       "height": 440.0,
+       "layer": 3,
+       "nativeCreate": "0xdef3a"
+      },
+      {
+       "frame": "beijing4_2Frame",
+       "width": 960.0,
+       "height": 440.0,
+       "layer": 3,
+       "nativeCreate": "0xdef3a"
+      },
+      {
+       "frame": "beijing4_2Frame",
+       "width": 960.0,
+       "height": 440.0,
+       "layer": 3,
+       "nativeCreate": "0xdef3a"
+      },
+      {
+       "frame": "beijing4_2Frame",
+       "width": 960.0,
+       "height": 440.0,
+       "layer": 3,
+       "nativeCreate": "0xdef3a"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -232.0,
+     "period": 960.0,
+     "containerHeight": 206.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "beijing4_4Frame",
+       "width": 960.0,
+       "height": 222.0,
+       "layer": 10,
+       "nativeCreate": "0xdf21c"
+      },
+      {
+       "frame": "beijing4_4Frame",
+       "width": 960.0,
+       "height": 222.0,
+       "layer": 10,
+       "nativeCreate": "0xdf21c"
+      },
+      {
+       "frame": "beijing4_4Frame",
+       "width": 960.0,
+       "height": 222.0,
+       "layer": 10,
+       "nativeCreate": "0xdf21c"
+      },
+      {
+       "frame": "beijing4_4Frame",
+       "width": 960.0,
+       "height": 222.0,
+       "layer": 10,
+       "nativeCreate": "0xdf21c"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "layers": [
+    {
+     "slot": 112,
+     "x": -480.0,
+     "y": 182.47999572753906,
+     "period": 960.0,
+     "containerHeight": 286.0,
+     "walkVelocityFactor": 0.75,
+     "children": [
+      {
+       "frame": "beijing5_1Frame",
+       "width": 960.0,
+       "height": 338.4800109863281,
+       "layer": 0,
+       "nativeCreate": "0xdf5c4"
+      },
+      {
+       "frame": "beijing5_1Frame",
+       "width": 960.0,
+       "height": 338.4800109863281,
+       "layer": 0,
+       "nativeCreate": "0xdf5c4"
+      },
+      {
+       "frame": "beijing5_1Frame",
+       "width": 960.0,
+       "height": 338.4800109863281,
+       "layer": 0,
+       "nativeCreate": "0xdf5c4"
+      },
+      {
+       "frame": "beijing5_1Frame",
+       "width": 960.0,
+       "height": 338.4800109863281,
+       "layer": 0,
+       "nativeCreate": "0xdf5c4"
+      }
+     ]
+    },
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": -168.0,
+     "period": 960.0,
+     "containerHeight": 370.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "beijing5_2Frame",
+       "width": 960.0,
+       "height": 370.0,
+       "layer": 3,
+       "nativeCreate": "0xdf8ec"
+      },
+      {
+       "frame": "beijing5_2Frame",
+       "width": 960.0,
+       "height": 370.0,
+       "layer": 3,
+       "nativeCreate": "0xdf8ec"
+      },
+      {
+       "frame": "beijing5_2Frame",
+       "width": 960.0,
+       "height": 370.0,
+       "layer": 3,
+       "nativeCreate": "0xdf8ec"
+      },
+      {
+       "frame": "beijing5_2Frame",
+       "width": 960.0,
+       "height": 370.0,
+       "layer": 3,
+       "nativeCreate": "0xdf8ec"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -189.0,
+     "period": 1700.0,
+     "containerHeight": 328.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "beijing5_3_2Frame",
+       "width": 952.0,
+       "height": 328.0,
+       "layer": 15,
+       "nativeCreate": "0xdfbb2"
+      },
+      {
+       "frame": "beijing5_3_1Frame",
+       "width": 748.0,
+       "height": 328.0,
+       "layer": 15,
+       "nativeCreate": "0xdfbb2"
+      },
+      {
+       "frame": "beijing5_3_2Frame",
+       "width": 952.0,
+       "height": 328.0,
+       "layer": 15,
+       "nativeCreate": "0xdfbb2"
+      },
+      {
+       "frame": "beijing5_3_1Frame",
+       "width": 748.0,
+       "height": 328.0,
+       "layer": 15,
+       "nativeCreate": "0xdfbb2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "layers": [
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": 12.800000190734863,
+     "period": 960.0,
+     "containerHeight": 640.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "beijing7_sub1Frame",
+       "width": 960.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xdffee"
+      },
+      {
+       "frame": "beijing7_sub1Frame",
+       "width": 960.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xdffee"
+      },
+      {
+       "frame": "beijing7_sub1Frame",
+       "width": 960.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xdffee"
+      },
+      {
+       "frame": "beijing7_sub1Frame",
+       "width": 960.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xdffee"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -226.8000030517578,
+     "period": 960.0,
+     "containerHeight": 214.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "beijing7_sub2Frame",
+       "width": 960.0,
+       "height": 246.0,
+       "layer": 12,
+       "nativeCreate": "0xe0360"
+      },
+      {
+       "frame": "beijing7_sub2Frame",
+       "width": 960.0,
+       "height": 246.0,
+       "layer": 12,
+       "nativeCreate": "0xe0360"
+      },
+      {
+       "frame": "beijing7_sub2Frame",
+       "width": 960.0,
+       "height": 246.0,
+       "layer": 12,
+       "nativeCreate": "0xe0360"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "layers": [
+    {
+     "slot": 116,
+     "x": -480.0,
+     "y": 12.800000190734863,
+     "period": 1024.0,
+     "containerHeight": 640.0,
+     "walkVelocityFactor": 0.0,
+     "children": [
+      {
+       "frame": "beijing8_sub2Frame",
+       "width": 1024.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xe0710"
+      },
+      {
+       "frame": "beijing8_sub2Frame",
+       "width": 1024.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xe0710"
+      },
+      {
+       "frame": "beijing8_sub2Frame",
+       "width": 1024.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xe0710"
+      },
+      {
+       "frame": "beijing8_sub2Frame",
+       "width": 1024.0,
+       "height": 672.0,
+       "layer": 0,
+       "nativeCreate": "0xe0710"
+      }
+     ]
+    },
+    {
+     "slot": 120,
+     "x": -480.0,
+     "y": -246.8000030517578,
+     "period": 1024.0,
+     "containerHeight": 162.0,
+     "walkVelocityFactor": -0.2,
+     "children": [
+      {
+       "frame": "beijing8_sub1Frame",
+       "width": 1024.0,
+       "height": 194.0,
+       "layer": 12,
+       "nativeCreate": "0xe0a8c"
+      },
+      {
+       "frame": "beijing8_sub1Frame",
+       "width": 1024.0,
+       "height": 194.0,
+       "layer": 12,
+       "nativeCreate": "0xe0a8c"
+      },
+      {
+       "frame": "beijing8_sub1Frame",
+       "width": 1024.0,
+       "height": 194.0,
+       "layer": 12,
+       "nativeCreate": "0xe0a8c"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

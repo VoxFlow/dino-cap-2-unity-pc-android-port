@@ -1,0 +1,1913 @@
+{
+ "target": "iPad v1.3; retina frame-size halving disabled",
+ "frames": [
+  {
+   "name": "whiteFrame",
+   "texture": "DC2/Image/white",
+   "x": 1,
+   "y": 1,
+   "w": 1,
+   "h": 1,
+   "nativeCall": "0x6f998"
+  },
+  {
+   "name": "gang1Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 0,
+   "y": 0,
+   "w": 608,
+   "h": 164,
+   "nativeCall": "0x6fbc4"
+  },
+  {
+   "name": "tou0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 608,
+   "y": 0,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x6fdf4"
+  },
+  {
+   "name": "tou0005Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 758,
+   "y": 0,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x6feec"
+  },
+  {
+   "name": "tou0006Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 608,
+   "y": 150,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x6ffe8"
+  },
+  {
+   "name": "tou0007Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 758,
+   "y": 150,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x700e0"
+  },
+  {
+   "name": "tou0008Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 0,
+   "y": 164,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x702f4"
+  },
+  {
+   "name": "tou0009Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 150,
+   "y": 164,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x703e8"
+  },
+  {
+   "name": "tou0010Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 300,
+   "y": 164,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x704e2"
+  },
+  {
+   "name": "tou0011Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 450,
+   "y": 164,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x705dc"
+  },
+  {
+   "name": "tou0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 600,
+   "y": 300,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x707fc"
+  },
+  {
+   "name": "tou0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 750,
+   "y": 300,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x708f4"
+  },
+  {
+   "name": "tou0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 0,
+   "y": 314,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x709f2"
+  },
+  {
+   "name": "tui0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 908,
+   "y": 0,
+   "w": 50,
+   "h": 60,
+   "nativeCall": "0x70aee"
+  },
+  {
+   "name": "tui0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 958,
+   "y": 0,
+   "w": 50,
+   "h": 60,
+   "nativeCall": "0x70d24"
+  },
+  {
+   "name": "tui0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 908,
+   "y": 60,
+   "w": 50,
+   "h": 60,
+   "nativeCall": "0x70e1a"
+  },
+  {
+   "name": "tui0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 958,
+   "y": 60,
+   "w": 50,
+   "h": 60,
+   "nativeCall": "0x70f14"
+  },
+  {
+   "name": "sishou0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 908,
+   "y": 120,
+   "w": 90,
+   "h": 55,
+   "nativeCall": "0x710f8"
+  },
+  {
+   "name": "sishou0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 908,
+   "y": 175,
+   "w": 90,
+   "h": 55,
+   "nativeCall": "0x711fa"
+  },
+  {
+   "name": "sishou0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 908,
+   "y": 230,
+   "w": 90,
+   "h": 55,
+   "nativeCall": "0x712f4"
+  },
+  {
+   "name": "sishou0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 908,
+   "y": 285,
+   "w": 90,
+   "h": 55,
+   "nativeCall": "0x713f4"
+  },
+  {
+   "name": "shou20001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 150,
+   "y": 314,
+   "w": 67,
+   "h": 63,
+   "nativeCall": "0x71610"
+  },
+  {
+   "name": "shou20002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 217,
+   "y": 314,
+   "w": 67,
+   "h": 63,
+   "nativeCall": "0x71712"
+  },
+  {
+   "name": "shou20003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 284,
+   "y": 314,
+   "w": 67,
+   "h": 63,
+   "nativeCall": "0x7180a"
+  },
+  {
+   "name": "shou20004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 351,
+   "y": 314,
+   "w": 67,
+   "h": 63,
+   "nativeCall": "0x71906"
+  },
+  {
+   "name": "shou0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 418,
+   "y": 314,
+   "w": 55,
+   "h": 60,
+   "nativeCall": "0x71b2c"
+  },
+  {
+   "name": "shou0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 473,
+   "y": 314,
+   "w": 55,
+   "h": 60,
+   "nativeCall": "0x71c2e"
+  },
+  {
+   "name": "shou0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 528,
+   "y": 314,
+   "w": 55,
+   "h": 60,
+   "nativeCall": "0x71d28"
+  },
+  {
+   "name": "shou0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 900,
+   "y": 340,
+   "w": 55,
+   "h": 60,
+   "nativeCall": "0x71f12"
+  },
+  {
+   "name": "shenti0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 418,
+   "y": 374,
+   "w": 90,
+   "h": 80,
+   "nativeCall": "0x7200e"
+  },
+  {
+   "name": "shenti0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 955,
+   "y": 340,
+   "w": 66,
+   "h": 65,
+   "nativeCall": "0x72110"
+  },
+  {
+   "name": "shenti0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 508,
+   "y": 374,
+   "w": 90,
+   "h": 80,
+   "nativeCall": "0x72208"
+  },
+  {
+   "name": "shenti0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 150,
+   "y": 377,
+   "w": 90,
+   "h": 80,
+   "nativeCall": "0x7243e"
+  },
+  {
+   "name": "koushou0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 240,
+   "y": 377,
+   "w": 60,
+   "h": 60,
+   "nativeCall": "0x7253a"
+  },
+  {
+   "name": "koushou0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 300,
+   "y": 377,
+   "w": 60,
+   "h": 60,
+   "nativeCall": "0x7263a"
+  },
+  {
+   "name": "koushou0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 900,
+   "y": 405,
+   "w": 60,
+   "h": 60,
+   "nativeCall": "0x72732"
+  },
+  {
+   "name": "koushou0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 960,
+   "y": 405,
+   "w": 60,
+   "h": 60,
+   "nativeCall": "0x7295a"
+  },
+  {
+   "name": "shoulijian02Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 598,
+   "y": 450,
+   "w": 195,
+   "h": 190,
+   "nativeCall": "0x72a56"
+  },
+  {
+   "name": "shoulijian03Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 240,
+   "y": 454,
+   "w": 195,
+   "h": 190,
+   "nativeCall": "0x72b58"
+  },
+  {
+   "name": "shoulijian01Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 0,
+   "y": 464,
+   "w": 195,
+   "h": 190,
+   "nativeCall": "0x72d46"
+  },
+  {
+   "name": "huoyan0001Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 793,
+   "y": 465,
+   "w": 192,
+   "h": 94,
+   "nativeCall": "0x72e42"
+  },
+  {
+   "name": "huoyan0002Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 793,
+   "y": 559,
+   "w": 192,
+   "h": 94,
+   "nativeCall": "0x72f3e"
+  },
+  {
+   "name": "huoyan0003Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 435,
+   "y": 640,
+   "w": 192,
+   "h": 94,
+   "nativeCall": "0x73042"
+  },
+  {
+   "name": "huoyan0004Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 195,
+   "y": 644,
+   "w": 192,
+   "h": 94,
+   "nativeCall": "0x73272"
+  },
+  {
+   "name": "daoguangFrame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 435,
+   "y": 454,
+   "w": 75,
+   "h": 62,
+   "nativeCall": "0x73376"
+  },
+  {
+   "name": "fire_flower2Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 360,
+   "y": 377,
+   "w": 30,
+   "h": 20,
+   "nativeCall": "0x73472"
+  },
+  {
+   "name": "fireFrame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 627,
+   "y": 653,
+   "w": 326,
+   "h": 116,
+   "nativeCall": "0x73576"
+  },
+  {
+   "name": "firelightFrame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 0,
+   "y": 654,
+   "w": 176,
+   "h": 178,
+   "nativeCall": "0x737b0"
+  },
+  {
+   "name": "fire_flowerFrame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 510,
+   "y": 454,
+   "w": 80,
+   "h": 22,
+   "nativeCall": "0x738b0"
+  },
+  {
+   "name": "tou0012Frame",
+   "texture": "DC2/Image/ip/body0_h",
+   "x": 387,
+   "y": 734,
+   "w": 150,
+   "h": 150,
+   "nativeCall": "0x739aa"
+  },
+  {
+   "name": "Lbullet1Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 1,
+   "y": 0,
+   "w": 79,
+   "h": 75,
+   "nativeCall": "0x73bcc"
+  },
+  {
+   "name": "Lbullet2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 81,
+   "y": 0,
+   "w": 79,
+   "h": 74,
+   "nativeCall": "0x73cc8"
+  },
+  {
+   "name": "Lbullet3Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 161,
+   "y": 0,
+   "w": 79,
+   "h": 74,
+   "nativeCall": "0x73dc2"
+  },
+  {
+   "name": "Lbullet4Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 241,
+   "y": 0,
+   "w": 79,
+   "h": 73,
+   "nativeCall": "0x73ebc"
+  },
+  {
+   "name": "Lbullet5Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 321,
+   "y": 0,
+   "w": 79,
+   "h": 74,
+   "nativeCall": "0x740ca"
+  },
+  {
+   "name": "LdoneFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 400,
+   "y": 0,
+   "w": 101,
+   "h": 33,
+   "nativeCall": "0x741c6"
+  },
+  {
+   "name": "LaddhpFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 400,
+   "y": 33,
+   "w": 112,
+   "h": 36,
+   "nativeCall": "0x742c0"
+  },
+  {
+   "name": "L07Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 0,
+   "y": 228,
+   "w": 130,
+   "h": 130,
+   "nativeCall": "0x743b8"
+  },
+  {
+   "name": "LstartFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 0,
+   "y": 431,
+   "w": 205,
+   "h": 81,
+   "nativeCall": "0x745d4"
+  },
+  {
+   "name": "Lc4Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 130,
+   "y": 228,
+   "w": 67,
+   "h": 46,
+   "nativeCall": "0x746d0"
+  },
+  {
+   "name": "Lb1Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 272,
+   "y": 224,
+   "w": 98,
+   "h": 49,
+   "nativeCall": "0x747ca"
+  },
+  {
+   "name": "Lb2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 197,
+   "y": 228,
+   "w": 75,
+   "h": 46,
+   "nativeCall": "0x749b2"
+  },
+  {
+   "name": "Lc1Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 370,
+   "y": 224,
+   "w": 52,
+   "h": 51,
+   "nativeCall": "0x74aac"
+  },
+  {
+   "name": "Lb3Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 0,
+   "y": 358,
+   "w": 99,
+   "h": 61,
+   "nativeCall": "0x74ba8"
+  },
+  {
+   "name": "Lc2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 130,
+   "y": 274,
+   "w": 49,
+   "h": 53,
+   "nativeCall": "0x74ca2"
+  },
+  {
+   "name": "Lb4Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 179,
+   "y": 274,
+   "w": 89,
+   "h": 53,
+   "nativeCall": "0x74ec8"
+  },
+  {
+   "name": "Lc3Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 422,
+   "y": 224,
+   "w": 81,
+   "h": 60,
+   "nativeCall": "0x74fc2"
+  },
+  {
+   "name": "Lf1Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 99,
+   "y": 372,
+   "w": 73,
+   "h": 59,
+   "nativeCall": "0x750be"
+  },
+  {
+   "name": "Ld1Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 268,
+   "y": 274,
+   "w": 93,
+   "h": 47,
+   "nativeCall": "0x751bc"
+  },
+  {
+   "name": "Ld2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 178,
+   "y": 327,
+   "w": 90,
+   "h": 46,
+   "nativeCall": "0x753d6"
+  },
+  {
+   "name": "Ld3Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 268,
+   "y": 321,
+   "w": 83,
+   "h": 47,
+   "nativeCall": "0x754d4"
+  },
+  {
+   "name": "Ld4Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 361,
+   "y": 284,
+   "w": 66,
+   "h": 66,
+   "nativeCall": "0x755ce"
+  },
+  {
+   "name": "Le2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 427,
+   "y": 388,
+   "w": 85,
+   "h": 52,
+   "nativeCall": "0x756cc"
+  },
+  {
+   "name": "Lg4Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 427,
+   "y": 284,
+   "w": 71,
+   "h": 49,
+   "nativeCall": "0x758f0"
+  },
+  {
+   "name": "Lf2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 427,
+   "y": 333,
+   "w": 75,
+   "h": 47,
+   "nativeCall": "0x759ee"
+  },
+  {
+   "name": "Lf3Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 351,
+   "y": 350,
+   "w": 75,
+   "h": 40,
+   "nativeCall": "0x75aea"
+  },
+  {
+   "name": "Lg2Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 427,
+   "y": 448,
+   "w": 85,
+   "h": 44,
+   "nativeCall": "0x75cc6"
+  },
+  {
+   "name": "LtimeFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 172,
+   "y": 373,
+   "w": 169,
+   "h": 20,
+   "nativeCall": "0x75dc0"
+  },
+  {
+   "name": "LmoneyFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 172,
+   "y": 393,
+   "w": 169,
+   "h": 20,
+   "nativeCall": "0x75ebe"
+  },
+  {
+   "name": "LoverkillFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 343,
+   "y": 492,
+   "w": 169,
+   "h": 20,
+   "nativeCall": "0x75fba"
+  },
+  {
+   "name": "Le1Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 341,
+   "y": 390,
+   "w": 84,
+   "h": 42,
+   "nativeCall": "0x761c4"
+  },
+  {
+   "name": "LoptionFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 362,
+   "y": 434,
+   "w": 65,
+   "h": 56,
+   "nativeCall": "0x762be"
+  },
+  {
+   "name": "LxuepingFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 315,
+   "y": 432,
+   "w": 45,
+   "h": 58,
+   "nativeCall": "0x763bc"
+  },
+  {
+   "name": "Loption_dFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 130,
+   "y": 327,
+   "w": 43,
+   "h": 44,
+   "nativeCall": "0x764b8"
+  },
+  {
+   "name": "LkillFrame",
+   "texture": "DC2/Image/lifemode",
+   "x": 286,
+   "y": 486,
+   "w": 29,
+   "h": 26,
+   "nativeCall": "0x766d6"
+  },
+  {
+   "name": "Lg3Frame",
+   "texture": "DC2/Image/lifemode",
+   "x": 205,
+   "y": 413,
+   "w": 86,
+   "h": 49,
+   "nativeCall": "0x767d0"
+  },
+  {
+   "name": "b1Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 0,
+   "y": 0,
+   "w": 79,
+   "h": 76,
+   "nativeCall": "0x76902"
+  },
+  {
+   "name": "b2Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 79,
+   "y": 0,
+   "w": 96,
+   "h": 92,
+   "nativeCall": "0x76ae8"
+  },
+  {
+   "name": "b3Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 175,
+   "y": 0,
+   "w": 79,
+   "h": 77,
+   "nativeCall": "0x76be6"
+  },
+  {
+   "name": "b4Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 254,
+   "y": 0,
+   "w": 139,
+   "h": 54,
+   "nativeCall": "0x76ce0"
+  },
+  {
+   "name": "dahuoFrame",
+   "texture": "DC2/Image/k_all",
+   "x": 254,
+   "y": 54,
+   "w": 146,
+   "h": 181,
+   "nativeCall": "0x76dde"
+  },
+  {
+   "name": "daoxue0001Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 400,
+   "y": 0,
+   "w": 88,
+   "h": 94,
+   "nativeCall": "0x76fe8"
+  },
+  {
+   "name": "daoxue0002Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 0,
+   "y": 92,
+   "w": 88,
+   "h": 94,
+   "nativeCall": "0x770e6"
+  },
+  {
+   "name": "g1Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 88,
+   "y": 92,
+   "w": 120,
+   "h": 63,
+   "nativeCall": "0x771e0"
+  },
+  {
+   "name": "g2Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 400,
+   "y": 94,
+   "w": 92,
+   "h": 86,
+   "nativeCall": "0x772de"
+  },
+  {
+   "name": "g3Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 0,
+   "y": 186,
+   "w": 183,
+   "h": 206,
+   "nativeCall": "0x774e0"
+  },
+  {
+   "name": "gutou1Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 88,
+   "y": 155,
+   "w": 61,
+   "h": 23,
+   "nativeCall": "0x775de"
+  },
+  {
+   "name": "hui1Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 400,
+   "y": 180,
+   "w": 111,
+   "h": 89,
+   "nativeCall": "0x776da"
+  },
+  {
+   "name": "hui2Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 183,
+   "y": 155,
+   "w": 54,
+   "h": 121,
+   "nativeCall": "0x778be"
+  },
+  {
+   "name": "qiang0001Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 237,
+   "y": 235,
+   "w": 114,
+   "h": 89,
+   "nativeCall": "0x779ba"
+  },
+  {
+   "name": "qiang0002Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 351,
+   "y": 269,
+   "w": 114,
+   "h": 89,
+   "nativeCall": "0x77ab8"
+  },
+  {
+   "name": "s3Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 208,
+   "y": 77,
+   "w": 40,
+   "h": 33,
+   "nativeCall": "0x77bb2"
+  },
+  {
+   "name": "s4Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 208,
+   "y": 110,
+   "w": 33,
+   "h": 28,
+   "nativeCall": "0x77dca"
+  },
+  {
+   "name": "suirou1Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 183,
+   "y": 324,
+   "w": 79,
+   "h": 19,
+   "nativeCall": "0x77ec6"
+  },
+  {
+   "name": "suirou2Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 351,
+   "y": 235,
+   "w": 46,
+   "h": 25,
+   "nativeCall": "0x77fc4"
+  },
+  {
+   "name": "suirou3Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 183,
+   "y": 276,
+   "w": 50,
+   "h": 30,
+   "nativeCall": "0x780be"
+  },
+  {
+   "name": "suirou4Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 465,
+   "y": 269,
+   "w": 42,
+   "h": 42,
+   "nativeCall": "0x782dc"
+  },
+  {
+   "name": "suirou5Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 465,
+   "y": 311,
+   "w": 47,
+   "h": 46,
+   "nativeCall": "0x783d8"
+  },
+  {
+   "name": "xiaohuo0001Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 262,
+   "y": 324,
+   "w": 39,
+   "h": 60,
+   "nativeCall": "0x784d6"
+  },
+  {
+   "name": "xiaohuo0002Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 301,
+   "y": 324,
+   "w": 39,
+   "h": 60,
+   "nativeCall": "0x785d0"
+  },
+  {
+   "name": "xiaohuo0003Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 183,
+   "y": 343,
+   "w": 39,
+   "h": 60,
+   "nativeCall": "0x787e8"
+  },
+  {
+   "name": "xiaohuo0004Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 222,
+   "y": 343,
+   "w": 39,
+   "h": 60,
+   "nativeCall": "0x788e4"
+  },
+  {
+   "name": "xiaohuo0005Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 465,
+   "y": 357,
+   "w": 39,
+   "h": 60,
+   "nativeCall": "0x789e2"
+  },
+  {
+   "name": "xiaohuo0006Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 340,
+   "y": 358,
+   "w": 39,
+   "h": 60,
+   "nativeCall": "0x78bae"
+  },
+  {
+   "name": "xue2Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 0,
+   "y": 76,
+   "w": 29,
+   "h": 3,
+   "nativeCall": "0x78cac"
+  },
+  {
+   "name": "xue4Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 29,
+   "y": 76,
+   "w": 35,
+   "h": 10,
+   "nativeCall": "0x78da8"
+  },
+  {
+   "name": "xue5Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 208,
+   "y": 138,
+   "w": 42,
+   "h": 11,
+   "nativeCall": "0x78ea6"
+  },
+  {
+   "name": "xue6Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 88,
+   "y": 178,
+   "w": 42,
+   "h": 8,
+   "nativeCall": "0x790ba"
+  },
+  {
+   "name": "xue7Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 130,
+   "y": 178,
+   "w": 42,
+   "h": 8,
+   "nativeCall": "0x791b8"
+  },
+  {
+   "name": "xue30001Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 0,
+   "y": 392,
+   "w": 111,
+   "h": 95,
+   "nativeCall": "0x792b4"
+  },
+  {
+   "name": "xue30002Frame",
+   "texture": "DC2/Image/k_all",
+   "x": 111,
+   "y": 403,
+   "w": 111,
+   "h": 95,
+   "nativeCall": "0x793b0"
+  },
+  {
+   "name": "xueFrame",
+   "texture": "DC2/Image/k_all",
+   "x": 183,
+   "y": 306,
+   "w": 37,
+   "h": 17,
+   "nativeCall": "0x795b6"
+  },
+  {
+   "name": "yingziFrame",
+   "texture": "DC2/Image/k_all",
+   "x": 222,
+   "y": 403,
+   "w": 98,
+   "h": 14,
+   "nativeCall": "0x796b4"
+  },
+  {
+   "name": "bozi1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 0,
+   "y": 0,
+   "w": 59,
+   "h": 38,
+   "nativeCall": "0x797cc"
+  },
+  {
+   "name": "chibang1-2Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 59,
+   "y": 0,
+   "w": 80,
+   "h": 202,
+   "nativeCall": "0x799bc"
+  },
+  {
+   "name": "chibang1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 139,
+   "y": 0,
+   "w": 90,
+   "h": 220,
+   "nativeCall": "0x79abc"
+  },
+  {
+   "name": "chibang1_0001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 229,
+   "y": 0,
+   "w": 90,
+   "h": 220,
+   "nativeCall": "0x79bc0"
+  },
+  {
+   "name": "chibang1_0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 319,
+   "y": 0,
+   "w": 90,
+   "h": 220,
+   "nativeCall": "0x79cc0"
+  },
+  {
+   "name": "chibang1_xia0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 409,
+   "y": 0,
+   "w": 74,
+   "h": 151,
+   "nativeCall": "0x79eca"
+  },
+  {
+   "name": "chibang1_xia0004Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 483,
+   "y": 0,
+   "w": 74,
+   "h": 151,
+   "nativeCall": "0x79fc8"
+  },
+  {
+   "name": "chibang2-2Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 557,
+   "y": 0,
+   "w": 89,
+   "h": 220,
+   "nativeCall": "0x7a0c6"
+  },
+  {
+   "name": "chibang2Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 646,
+   "y": 0,
+   "w": 80,
+   "h": 202,
+   "nativeCall": "0x7a28c"
+  },
+  {
+   "name": "chibang3Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 726,
+   "y": 0,
+   "w": 74,
+   "h": 151,
+   "nativeCall": "0x7a38a"
+  },
+  {
+   "name": "huo2_0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 726,
+   "y": 151,
+   "w": 227,
+   "h": 339,
+   "nativeCall": "0x7a486"
+  },
+  {
+   "name": "jing0001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 800,
+   "y": 0,
+   "w": 59,
+   "h": 38,
+   "nativeCall": "0x7a584"
+  },
+  {
+   "name": "jing0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 859,
+   "y": 0,
+   "w": 59,
+   "h": 38,
+   "nativeCall": "0x7a78c"
+  },
+  {
+   "name": "k5shenti0001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 918,
+   "y": 0,
+   "w": 92,
+   "h": 119,
+   "nativeCall": "0x7a88a"
+  },
+  {
+   "name": "shaohui_01Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 409,
+   "y": 151,
+   "w": 125,
+   "h": 220,
+   "nativeCall": "0x7a986"
+  },
+  {
+   "name": "k5shenti0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 0,
+   "y": 202,
+   "w": 92,
+   "h": 119,
+   "nativeCall": "0x7aa84"
+  },
+  {
+   "name": "shenti1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 92,
+   "y": 220,
+   "w": 92,
+   "h": 119,
+   "nativeCall": "0x7ac8c"
+  },
+  {
+   "name": "sui10001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 184,
+   "y": 220,
+   "w": 142,
+   "h": 197,
+   "nativeCall": "0x7ad8a"
+  },
+  {
+   "name": "sui10002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 534,
+   "y": 220,
+   "w": 142,
+   "h": 197,
+   "nativeCall": "0x7ae86"
+  },
+  {
+   "name": "suipian1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 0,
+   "y": 38,
+   "w": 46,
+   "h": 43,
+   "nativeCall": "0x7af84"
+  },
+  {
+   "name": "suipian2Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 800,
+   "y": 38,
+   "w": 50,
+   "h": 25,
+   "nativeCall": "0x7b190"
+  },
+  {
+   "name": "teshutou0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 0,
+   "y": 339,
+   "w": 142,
+   "h": 197,
+   "nativeCall": "0x7b28e"
+  },
+  {
+   "name": "teshutou0003Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 326,
+   "y": 371,
+   "w": 142,
+   "h": 197,
+   "nativeCall": "0x7b38a"
+  },
+  {
+   "name": "tou1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 142,
+   "y": 417,
+   "w": 142,
+   "h": 164,
+   "nativeCall": "0x7b55a"
+  },
+  {
+   "name": "tou1_0001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 468,
+   "y": 417,
+   "w": 142,
+   "h": 164,
+   "nativeCall": "0x7b658"
+  },
+  {
+   "name": "tou1_0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 610,
+   "y": 490,
+   "w": 142,
+   "h": 164,
+   "nativeCall": "0x7b756"
+  },
+  {
+   "name": "tou2_0001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 752,
+   "y": 490,
+   "w": 101,
+   "h": 115,
+   "nativeCall": "0x7b852"
+  },
+  {
+   "name": "tou2_0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 853,
+   "y": 490,
+   "w": 101,
+   "h": 115,
+   "nativeCall": "0x7ba4c"
+  },
+  {
+   "name": "xiaba1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 0,
+   "y": 536,
+   "w": 101,
+   "h": 115,
+   "nativeCall": "0x7bb4a"
+  },
+  {
+   "name": "yanzhuFrame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 850,
+   "y": 38,
+   "w": 45,
+   "h": 38,
+   "nativeCall": "0x7bc46"
+  },
+  {
+   "name": "zhua0001Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 800,
+   "y": 63,
+   "w": 47,
+   "h": 51,
+   "nativeCall": "0x7bd42"
+  },
+  {
+   "name": "zhua0002Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 847,
+   "y": 76,
+   "w": 47,
+   "h": 51,
+   "nativeCall": "0x7bf52"
+  },
+  {
+   "name": "zhuaziFrame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 0,
+   "y": 81,
+   "w": 56,
+   "h": 61,
+   "nativeCall": "0x7c050"
+  },
+  {
+   "name": "yaneff1Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 326,
+   "y": 220,
+   "w": 72,
+   "h": 71,
+   "nativeCall": "0x7c14e"
+  },
+  {
+   "name": "yaneff2Frame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 326,
+   "y": 291,
+   "w": 72,
+   "h": 70,
+   "nativeCall": "0x7c326"
+  },
+  {
+   "name": "p4flashFrame",
+   "texture": "DC2/Image/ip/k5_h",
+   "x": 101,
+   "y": 581,
+   "w": 166,
+   "h": 392,
+   "nativeCall": "0x7c424"
+  },
+  {
+   "name": "shandian02Frame",
+   "texture": "DC2/Image/weather",
+   "x": 0,
+   "y": 0,
+   "w": 52,
+   "h": 132,
+   "nativeCall": "0x7c55c"
+  },
+  {
+   "name": "yintianFrame",
+   "texture": "DC2/Image/weather",
+   "x": 52,
+   "y": 0,
+   "w": 128,
+   "h": 128,
+   "nativeCall": "0x7c652"
+  },
+  {
+   "name": "shandian01Frame",
+   "texture": "DC2/Image/weather",
+   "x": 180,
+   "y": 0,
+   "w": 52,
+   "h": 132,
+   "nativeCall": "0x7c856"
+  },
+  {
+   "name": "yuFrame",
+   "texture": "DC2/Image/weather",
+   "x": 232,
+   "y": 0,
+   "w": 5,
+   "h": 162,
+   "nativeCall": "0x7c94e"
+  },
+  {
+   "name": "sd_baiFrame",
+   "texture": "DC2/Image/weather",
+   "x": 238,
+   "y": 1,
+   "w": 14,
+   "h": 14,
+   "nativeCall": "0x7ca44"
+  },
+  {
+   "name": "yuhuaFrame",
+   "texture": "DC2/Image/weather",
+   "x": 58,
+   "y": 128,
+   "w": 20,
+   "h": 10,
+   "nativeCall": "0x7cb3c"
+  },
+  {
+   "name": "yeziFrame",
+   "texture": "DC2/Image/weather",
+   "x": 0,
+   "y": 132,
+   "w": 58,
+   "h": 74,
+   "nativeCall": "0x7cd38"
+  },
+  {
+   "name": "p4moveFrame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 0,
+   "y": 0,
+   "w": 197,
+   "h": 318,
+   "nativeCall": "0x7ce50"
+  },
+  {
+   "name": "yuanli20003Frame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 197,
+   "y": 0,
+   "w": 130,
+   "h": 130,
+   "nativeCall": "0x7cf4c"
+  },
+  {
+   "name": "yuanli20002Frame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 197,
+   "y": 260,
+   "w": 130,
+   "h": 130,
+   "nativeCall": "0x7d10e"
+  },
+  {
+   "name": "yuanli20001Frame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 197,
+   "y": 130,
+   "w": 130,
+   "h": 130,
+   "nativeCall": "0x7d206"
+  },
+  {
+   "name": "p1moveFrame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 327,
+   "y": 0,
+   "w": 143,
+   "h": 149,
+   "nativeCall": "0x7d304"
+  },
+  {
+   "name": "p3moveFrame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 327,
+   "y": 149,
+   "w": 143,
+   "h": 149,
+   "nativeCall": "0x7d400"
+  },
+  {
+   "name": "levelup_starFrame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 470,
+   "y": 0,
+   "w": 33,
+   "h": 33,
+   "nativeCall": "0x7d5f0"
+  },
+  {
+   "name": "levelup_bottomFrame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 327,
+   "y": 298,
+   "w": 81,
+   "h": 81,
+   "nativeCall": "0x7d6ea"
+  },
+  {
+   "name": "levelup_lineFrame",
+   "texture": "DC2/Image/ip/rotate1_h",
+   "x": 503,
+   "y": 0,
+   "w": 2,
+   "h": 35,
+   "nativeCall": "0x7d7e8"
+  },
+  {
+   "name": "p2move2Frame",
+   "texture": "DC2/Image/rotate2",
+   "x": 0,
+   "y": 0,
+   "w": 125,
+   "h": 125,
+   "nativeCall": "0x7d8f4"
+  },
+  {
+   "name": "p2move3Frame",
+   "texture": "DC2/Image/rotate2",
+   "x": 125,
+   "y": 0,
+   "w": 125,
+   "h": 125,
+   "nativeCall": "0x7daee"
+  },
+  {
+   "name": "p2move4Frame",
+   "texture": "DC2/Image/rotate2",
+   "x": 0,
+   "y": 125,
+   "w": 125,
+   "h": 125,
+   "nativeCall": "0x7dbe0"
+  },
+  {
+   "name": "p2moveFrame",
+   "texture": "DC2/Image/rotate2",
+   "x": 125,
+   "y": 125,
+   "w": 125,
+   "h": 125,
+   "nativeCall": "0x7dcd4"
+  },
+  {
+   "name": "yuanli0001Frame",
+   "texture": "DC2/Image/ip/fireeff_h",
+   "x": 0,
+   "y": 0,
+   "w": 1024,
+   "h": 162,
+   "nativeCall": "0x7ddec"
+  },
+  {
+   "name": "yuanli0003Frame",
+   "texture": "DC2/Image/ip/fireeff_h",
+   "x": 0,
+   "y": 162,
+   "w": 1024,
+   "h": 162,
+   "nativeCall": "0x7dfc8"
+  },
+  {
+   "name": "yuanli0002Frame",
+   "texture": "DC2/Image/ip/fireeff_h",
+   "x": 0,
+   "y": 324,
+   "w": 1024,
+   "h": 162,
+   "nativeCall": "0x7e0c4"
+  },
+  {
+   "name": "levelup_xgFrame",
+   "texture": "DC2/Image/levelup",
+   "x": 0,
+   "y": 0,
+   "w": 28,
+   "h": 111,
+   "nativeCall": "0x7e1d4"
+  },
+  {
+   "name": "levelup_pgFrame",
+   "texture": "DC2/Image/levelup",
+   "x": 122,
+   "y": 25,
+   "w": 134,
+   "h": 91,
+   "nativeCall": "0x7e38e"
+  },
+  {
+   "name": "levelup_dmgFrame",
+   "texture": "DC2/Image/levelup",
+   "x": 185,
+   "y": 1,
+   "w": 71,
+   "h": 24,
+   "nativeCall": "0x7e488"
+  },
+  {
+   "name": "levelup_qgFrame",
+   "texture": "DC2/Image/levelup",
+   "x": 117,
+   "y": 116,
+   "w": 139,
+   "h": 140,
+   "nativeCall": "0x7e57e"
+  },
+  {
+   "name": "levelup_textFrame",
+   "texture": "DC2/Image/levelup",
+   "x": 0,
+   "y": 200,
+   "w": 117,
+   "h": 56,
+   "nativeCall": "0x7e678"
+  },
+  {
+   "name": "ui_bg_allFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 0,
+   "y": 0,
+   "w": 480,
+   "h": 320,
+   "nativeCall": "0x7e888"
+  },
+  {
+   "name": "ui_map_point_bgFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 481,
+   "y": 0,
+   "w": 46,
+   "h": 20,
+   "nativeCall": "0x7e982"
+  },
+  {
+   "name": "icon_move_lineFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 527,
+   "y": 0,
+   "w": 141,
+   "h": 26,
+   "nativeCall": "0x7ea78"
+  },
+  {
+   "name": "%Frame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 668,
+   "y": 0,
+   "w": 22,
+   "h": 23,
+   "nativeCall": "0x7eb72"
+  },
+  {
+   "name": "icon_move_pointFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 690,
+   "y": 0,
+   "w": 17,
+   "h": 15,
+   "nativeCall": "0x7ed4c"
+  },
+  {
+   "name": "loadingFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 707,
+   "y": 0,
+   "w": 230,
+   "h": 44,
+   "nativeCall": "0x7ee2e"
+  },
+  {
+   "name": "ui_game_time_iconFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 937,
+   "y": 0,
+   "w": 60,
+   "h": 70,
+   "nativeCall": "0x7ef0e"
+  },
+  {
+   "name": "Lkill_hFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 480,
+   "y": 26,
+   "w": 58,
+   "h": 52,
+   "nativeCall": "0x7eff0"
+  },
+  {
+   "name": "dayFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 538,
+   "y": 26,
+   "w": 79,
+   "h": 37,
+   "nativeCall": "0x7f1be"
+  },
+  {
+   "name": "Lbullet0Frame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 617,
+   "y": 26,
+   "w": 80,
+   "h": 74,
+   "nativeCall": "0x7f2a0"
+  },
+  {
+   "name": "ui_btn_retryFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 697,
+   "y": 70,
+   "w": 258,
+   "h": 101,
+   "nativeCall": "0x7f37e"
+  },
+  {
+   "name": "ui_btn_mapFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 480,
+   "y": 171,
+   "w": 258,
+   "h": 101,
+   "nativeCall": "0x7f460"
+  },
+  {
+   "name": "ui_btn_resumeFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 738,
+   "y": 171,
+   "w": 258,
+   "h": 101,
+   "nativeCall": "0x7f626"
+  },
+  {
+   "name": "ui_btn_rollFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 538,
+   "y": 63,
+   "w": 79,
+   "h": 79,
+   "nativeCall": "0x7f706"
+  },
+  {
+   "name": "ui_game_goldFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 955,
+   "y": 70,
+   "w": 46,
+   "h": 44,
+   "nativeCall": "0x7f7e4"
+  },
+  {
+   "name": "icon_noneFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 480,
+   "y": 272,
+   "w": 95,
+   "h": 85,
+   "nativeCall": "0x7f8c6"
+  },
+  {
+   "name": "op_musicFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 575,
+   "y": 272,
+   "w": 212,
+   "h": 59,
+   "nativeCall": "0x7fa92"
+  },
+  {
+   "name": "op_on1Frame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 787,
+   "y": 272,
+   "w": 104,
+   "h": 41,
+   "nativeCall": "0x7fb74"
+  },
+  {
+   "name": "op_off1Frame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 891,
+   "y": 272,
+   "w": 104,
+   "h": 41,
+   "nativeCall": "0x7fc52"
+  },
+  {
+   "name": "op_shareFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 787,
+   "y": 313,
+   "w": 191,
+   "h": 59,
+   "nativeCall": "0x7fd34"
+  },
+  {
+   "name": "op_reset_peofileFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 0,
+   "y": 320,
+   "w": 454,
+   "h": 52,
+   "nativeCall": "0x7feee"
+  },
+  {
+   "name": "op_reviewFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 454,
+   "y": 357,
+   "w": 261,
+   "h": 56,
+   "nativeCall": "0x7ffd0"
+  },
+  {
+   "name": "op_soundFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 0,
+   "y": 372,
+   "w": 212,
+   "h": 59,
+   "nativeCall": "0x800ae"
+  },
+  {
+   "name": "op_supportFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 715,
+   "y": 372,
+   "w": 274,
+   "h": 58,
+   "nativeCall": "0x80190"
+  },
+  {
+   "name": "op_titleFrame",
+   "texture": "DC2/Image/ip/uicontrol_h",
+   "x": 212,
+   "y": 413,
+   "w": 332,
+   "h": 91,
+   "nativeCall": "0x80356"
+  }
+ ]
+}

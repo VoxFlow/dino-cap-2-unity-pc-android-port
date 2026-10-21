@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>404</x>
+        <y>4.2</y>
+        <width>0.264957</width>
+        <height>0.206667</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>356.765</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="6">
+    <Sprite name="com1">
+        <x>194</x>
+        <y>-108</y>
+        <width>0.264957</width>
+        <height>0.206667</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>342.174</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="12">
+    <Sprite name="com1">
+        <x>-43</x>
+        <y>-132.8</y>
+        <width>0.264957</width>
+        <height>0.206667</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>305.983</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="17">
+    <Sprite name="com1">
+        <x>-127</x>
+        <y>-106.8</y>
+        <width>0.264957</width>
+        <height>0.206667</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>293.855</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="21">
+    <Sprite name="com1">
+        <x>-224</x>
+        <y>-89.8</y>
+        <width>0.264957</width>
+        <height>0.206667</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>316.73</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="25">
+    <Sprite name="com1">
+        <x>-392</x>
+        <y>-78</y>
+        <width>0.264957</width>
+        <height>0.206667</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>328.944</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>

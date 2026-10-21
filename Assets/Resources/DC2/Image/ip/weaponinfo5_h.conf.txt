@@ -1,0 +1,7 @@
+[Frame]
+Count = 4
+Frame0 = (p5weapon1 0 0 417 296)
+Frame1 = (p5weapon2 419 0 417 296)
+Frame2 = (p5weapon3 0 298 417 296)
+Frame3 = (p5weapon4 419 298 417 296)
+

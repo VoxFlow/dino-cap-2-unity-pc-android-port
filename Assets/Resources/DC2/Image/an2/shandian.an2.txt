@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>250</x>
+        <y>68</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>30.1518</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shandian02</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="1">
+    <Sprite name="com1">
+        <x>252</x>
+        <y>-33</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>5.55551</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shandian02</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="2">
+    <Sprite name="com1">
+        <x>252</x>
+        <y>-33</y>
+        <width>0</width>
+        <height>0</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>5.55551</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shandian02</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>252</x>
+        <y>-33</y>
+        <width>0</width>
+        <height>0</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>5.55551</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shandian01</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="6">
+    <Sprite name="com2">
+        <x>252</x>
+        <y>-33</y>
+        <width>0</width>
+        <height>0</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>5.55551</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shandian01</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="7">
+    <Sprite name="com2">
+        <x>252</x>
+        <y>-33</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>5.55551</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shandian01</image>
+    </Sprite>
+</AnimFrame>

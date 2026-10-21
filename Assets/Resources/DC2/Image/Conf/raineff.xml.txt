@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Effect>
+   <Emitter name="UntitledEmitter" texture="yuFrame" fixaspect="0" fixangle="-20" fixforcangle="110" orientaion="FIXED" type="LINEX">
+      <DataKey name="particlelife_base">
+         <Key Time="0.000000" Value="0.683544" />
+      </DataKey>
+      <DataKey name="particlelife_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="quantity_base">
+         <Key Time="0.000000" Value="70.278481" />
+      </DataKey>
+      <DataKey name="quantity_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="sizex_base">
+         <Key Time="0.000000" Value="2.00000" />
+      </DataKey>
+      <DataKey name="sizex_var">
+         <Key Time="0.000000" Value="0.986076" />
+      </DataKey>
+      <DataKey name="sizex_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="sizey_base">
+         <Key Time="0.000000" Value="80.000000" />
+      </DataKey>
+      <DataKey name="sizey_var">
+         <Key Time="0.000000" Value="10.000000" />
+      </DataKey>
+      <DataKey name="sizey_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="speed_base">
+         <Key Time="0.000000" Value="200.202530" />
+      </DataKey>
+      <DataKey name="speed_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="speed_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="spin_base">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="spin_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="spin_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="fixedforce_base">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="fixedforce_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="fixedforce_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="randommotion_base">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="randommotion_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="randommotion_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="emissionforce_base">
+         <Key Time="0.000000" Value="5.000000" />
+      </DataKey>
+      <DataKey name="emissionforce_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="emissionangle_base">
+         <Key Time="0.000000" Value="-110.532" />
+      </DataKey>
+      <DataKey name="emissionangle_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="emissionarc_base">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="emissionarc_var">
+         <Key Time="0.000000" Value="0.000000" />
+      </DataKey>
+      <DataKey name="red_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="green_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="blue_life">
+         <Key Time="0.000000" Value="1.000000" />
+      </DataKey>
+      <DataKey name="visibility_life">
+         <Key Time="0.000000" Value="0.800000" />
+      </DataKey>
+   </Emitter>
+</Effect>

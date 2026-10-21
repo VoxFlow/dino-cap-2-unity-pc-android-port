@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>106.5</x>
+        <y>7.5</y>
+        <width>0</width>
+        <height>0</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>10.8879</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>78</x>
+        <y>-2.5</y>
+        <width>1</width>
+        <height>0.606742</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>1</layer>
+        <color>ffffffff</color>
+        <image>firelight</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>75.5</x>
+        <y>2.5</y>
+        <width>0.233129</width>
+        <height>2.05172</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>fire</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>77</x>
+        <y>34</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>61.1502</rotation>
+        <layer>3</layer>
+        <color>ffffffff</color>
+        <image>fire_flower</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>73</x>
+        <y>-27</y>
+        <width>1.1</width>
+        <height>0.636364</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>308.851</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower</image>
+    </Sprite>
+    <Sprite name="com7">
+        <x>76</x>
+        <y>9</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>24.1455</rotation>
+        <layer>7</layer>
+        <color>ffffffff</color>
+        <image>fire_flower</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="2">
+    <Sprite name="com1">
+        <x>106.5</x>
+        <y>7.5</y>
+        <width>1.2</width>
+        <height>-0.1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>10.8879</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>84</x>
+        <y>0.5</y>
+        <width>1.25</width>
+        <height>0.696629</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>1</layer>
+        <color>ffffffff</color>
+        <image>firelight</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>111</x>
+        <y>1</y>
+        <width>0.693252</width>
+        <height>0.448276</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>fire</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>94</x>
+        <y>68</y>
+        <width>0.5</width>
+        <height>0.454545</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>54.6629</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>96</x>
+        <y>-26.5</y>
+        <width>0.7</width>
+        <height>0.545455</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>337.751</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower</image>
+    </Sprite>
+    <Sprite name="com7">
+        <x>106</x>
+        <y>31</y>
+        <width>0.75</width>
+        <height>0.454545</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>31.6698</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="3">
+    <Sprite name="com1">
+        <x>144</x>
+        <y>2</y>
+        <width>0.733333</width>
+        <height>0.6</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>fire_flower2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>78</x>
+        <y>-3</y>
+        <width>1</width>
+        <height>0.595506</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>1</layer>
+        <color>ffffffff</color>
+        <image>firelight</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>125.5</x>
+        <y>0</y>
+        <width>0.822086</width>
+        <height>0.0689655</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>fire</image>
+    </Sprite>
+</AnimFrame>

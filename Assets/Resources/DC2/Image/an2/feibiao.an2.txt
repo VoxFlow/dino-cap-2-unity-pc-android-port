@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>16</x>
+        <y>46.5</y>
+        <width>1.1641</width>
+        <height>0.605263</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>15.4826</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shoulijian03</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="1">
+    <Sprite name="com1">
+        <x>20</x>
+        <y>55</y>
+        <width>1.20513</width>
+        <height>0.589474</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>353.054</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shoulijian03</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="2">
+    <Sprite name="com1">
+        <x>13.5</x>
+        <y>38.5</y>
+        <width>1.12821</width>
+        <height>0.805263</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>348.018</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shoulijian03</image>
+    </Sprite>
+</AnimFrame>

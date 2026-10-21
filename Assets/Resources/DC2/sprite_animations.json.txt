@@ -1,0 +1,1351 @@
+{
+ "animations": [
+  {
+   "name": "D4Anim",
+   "frames": [
+    "D4-1Frame",
+    "D4-2Frame"
+   ]
+  },
+  {
+   "name": "yuanli20001Anim",
+   "frames": [
+    "yuanli20001Frame",
+    "yuanli20002Frame",
+    "yuanli20003Frame"
+   ]
+  },
+  {
+   "name": "yuanli0001Anim",
+   "frames": [
+    "yuanli0001Frame",
+    "yuanli0002Frame",
+    "yuanli0003Frame"
+   ]
+  },
+  {
+   "name": "xue3Anim",
+   "frames": [
+    "xue30001Frame",
+    "xue30002Frame"
+   ]
+  },
+  {
+   "name": "chibang3Anim",
+   "frames": [
+    "chibang3Frame",
+    "chibang1_xia0002Frame"
+   ]
+  },
+  {
+   "name": "chibang2Anim",
+   "frames": [
+    "chibang2Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "chibang1Anim",
+   "frames": [
+    "chibang1Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "shenti1Anim",
+   "frames": [
+    "shenti1Frame",
+    "k5shenti0001Frame"
+   ]
+  },
+  {
+   "name": "bozi1Anim",
+   "frames": [
+    "bozi1Frame",
+    "jing0001Frame"
+   ]
+  },
+  {
+   "name": "xiaba1Anim",
+   "frames": [
+    "xiaba1Frame",
+    "tou2_0001Frame"
+   ]
+  },
+  {
+   "name": "tou1Anim",
+   "frames": [
+    "tou1Frame",
+    "tou1_0001Frame"
+   ]
+  },
+  {
+   "name": "zhuaziAnim",
+   "frames": [
+    "zhuaziFrame",
+    "zhua0001Frame"
+   ]
+  },
+  {
+   "name": "F1Anim",
+   "frames": [
+    "zhua0001Frame",
+    "zhua0001Frame"
+   ]
+  },
+  {
+   "name": "p4moveAnim",
+   "frames": [
+    "p2moveFrame",
+    "p2move2Frame",
+    "p2move3Frame",
+    "p2move4Frame"
+   ]
+  },
+  {
+   "name": "qiangxueAnim",
+   "frames": [
+    "qiang0001Frame",
+    "qiang0002Frame"
+   ]
+  },
+  {
+   "name": "daoxueAnim",
+   "frames": [
+    "daoxue0001Frame",
+    "daoxue0002Frame"
+   ]
+  },
+  {
+   "name": "xiaohuo0001Anim",
+   "frames": [
+    "xiaohuo0001Frame",
+    "xiaohuo0002Frame",
+    "xiaohuo0003Frame",
+    "xiaohuo0004Frame",
+    "xiaohuo0005Frame",
+    "xiaohuo0006Frame"
+   ]
+  },
+  {
+   "name": "xiaohuo1Anim",
+   "frames": [
+    "xiaohuo0001Frame",
+    "xiaohuo0002Frame",
+    "xiaohuo0003Frame",
+    "xiaohuo0004Frame",
+    "xiaohuo0005Frame",
+    "xiaohuo0006Frame"
+   ]
+  },
+  {
+   "name": "xiaohuo2Anim",
+   "frames": [
+    "xiaohuo0004Frame",
+    "xiaohuo0005Frame",
+    "xiaohuo0006Frame",
+    "xiaohuo0001Frame",
+    "xiaohuo0002Frame",
+    "xiaohuo0003Frame"
+   ]
+  },
+  {
+   "name": "huoyanAnim",
+   "frames": [
+    "huoyan0001Frame",
+    "huoyan0002Frame",
+    "huoyan0003Frame",
+    "huoyan0004Frame"
+   ]
+  },
+  {
+   "name": "k3shenAnim",
+   "frames": [
+    "k3shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k3tou2Anim",
+   "frames": [
+    "k3tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k3xiabaAnim",
+   "frames": [
+    "k3xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k3t1Anim",
+   "frames": [
+    "k3t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k3t2Anim",
+   "frames": [
+    "k3t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k3t3Anim",
+   "frames": [
+    "k3t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k3t4Anim",
+   "frames": [
+    "k3t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k3t5Anim",
+   "frames": [
+    "k3t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k3t6Anim",
+   "frames": [
+    "k3t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k3zhuaAnim",
+   "frames": [
+    "k3zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k101shenAnim",
+   "frames": [
+    "k101shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k101touAnim",
+   "frames": [
+    "k101tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k101xiabaAnim",
+   "frames": [
+    "k101xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k101t1Anim",
+   "frames": [
+    "k101t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k101t2Anim",
+   "frames": [
+    "k101t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k101t3Anim",
+   "frames": [
+    "k101t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k101t4Anim",
+   "frames": [
+    "k101t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k101t5Anim",
+   "frames": [
+    "k101t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k101t6Anim",
+   "frames": [
+    "k101t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k101zhuaAnim",
+   "frames": [
+    "k101zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k11shenAnim",
+   "frames": [
+    "k11shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k11touAnim",
+   "frames": [
+    "k11tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k11xiabaAnim",
+   "frames": [
+    "k11xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k11t1Anim",
+   "frames": [
+    "k11t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k11t2Anim",
+   "frames": [
+    "k11t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k11t3Anim",
+   "frames": [
+    "k11t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k11t4Anim",
+   "frames": [
+    "k11t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k11t5Anim",
+   "frames": [
+    "k11t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k11t6Anim",
+   "frames": [
+    "k11t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k11zhuaAnim",
+   "frames": [
+    "k11zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k111shenAnim",
+   "frames": [
+    "k111shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k111touAnim",
+   "frames": [
+    "k111tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k111xiabaAnim",
+   "frames": [
+    "k111xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k111t1Anim",
+   "frames": [
+    "k111t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k111t2Anim",
+   "frames": [
+    "k111t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k111t3Anim",
+   "frames": [
+    "k111t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k111t4Anim",
+   "frames": [
+    "k111t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k111t5Anim",
+   "frames": [
+    "k111t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k111t6Anim",
+   "frames": [
+    "k111t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k111zhuaAnim",
+   "frames": [
+    "k111zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k4shenAnim",
+   "frames": [
+    "k4shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k4tou2Anim",
+   "frames": [
+    "k4tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k4xiabaAnim",
+   "frames": [
+    "k4xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k4t1Anim",
+   "frames": [
+    "k4t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k4t2Anim",
+   "frames": [
+    "k4t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k4t3Anim",
+   "frames": [
+    "k4t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k4t4Anim",
+   "frames": [
+    "k4t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k4t5Anim",
+   "frames": [
+    "k4t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k4t6Anim",
+   "frames": [
+    "k4t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k4zhuaAnim",
+   "frames": [
+    "k4zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k21shenAnim",
+   "frames": [
+    "k21shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k21touAnim",
+   "frames": [
+    "k21tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k21xiabaAnim",
+   "frames": [
+    "k21xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k21t1Anim",
+   "frames": [
+    "k21t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k21t2Anim",
+   "frames": [
+    "k21t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k21t3Anim",
+   "frames": [
+    "k21t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k21t4Anim",
+   "frames": [
+    "k21t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k21t5Anim",
+   "frames": [
+    "k21t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k21t6Anim",
+   "frames": [
+    "k21t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k21zhuaAnim",
+   "frames": [
+    "k21zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k211shenAnim",
+   "frames": [
+    "k211shenFrame",
+    "k3gtshentiFrame"
+   ]
+  },
+  {
+   "name": "k211touAnim",
+   "frames": [
+    "k211tou2Frame",
+    "k3gttouFrame"
+   ]
+  },
+  {
+   "name": "k211xiabaAnim",
+   "frames": [
+    "k211xiabaFrame",
+    "k3gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k211t1Anim",
+   "frames": [
+    "k211t1Frame",
+    "k3gttui1Frame"
+   ]
+  },
+  {
+   "name": "k211t2Anim",
+   "frames": [
+    "k211t2Frame",
+    "k3gttui2Frame"
+   ]
+  },
+  {
+   "name": "k211t3Anim",
+   "frames": [
+    "k211t3Frame",
+    "k3gttui3Frame"
+   ]
+  },
+  {
+   "name": "k211t4Anim",
+   "frames": [
+    "k211t4Frame",
+    "k3gttui4Frame"
+   ]
+  },
+  {
+   "name": "k211t5Anim",
+   "frames": [
+    "k211t5Frame",
+    "k3gttui5Frame"
+   ]
+  },
+  {
+   "name": "k211t6Anim",
+   "frames": [
+    "k211t6Frame",
+    "k3gttui6Frame"
+   ]
+  },
+  {
+   "name": "k211zhuaAnim",
+   "frames": [
+    "k211zhuaFrame",
+    "k3gtzuaFrame"
+   ]
+  },
+  {
+   "name": "k2shenAnim",
+   "frames": [
+    "k2shenFrame",
+    "k2gtshenFrame"
+   ]
+  },
+  {
+   "name": "k2tou2Anim",
+   "frames": [
+    "k2tou2Frame",
+    "k2gttouFrame"
+   ]
+  },
+  {
+   "name": "k2xiabaAnim",
+   "frames": [
+    "k2xiabaFrame",
+    "k2gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k2tui1Anim",
+   "frames": [
+    "k2tui1Frame",
+    "k2gttui1Frame"
+   ]
+  },
+  {
+   "name": "k2tui2Anim",
+   "frames": [
+    "k2tui2Frame",
+    "k2gttui2Frame"
+   ]
+  },
+  {
+   "name": "k2tui3Anim",
+   "frames": [
+    "k2tui3Frame",
+    "k2gttui3Frame"
+   ]
+  },
+  {
+   "name": "k2tui4Anim",
+   "frames": [
+    "k2tui4Frame",
+    "k2gttui4Frame"
+   ]
+  },
+  {
+   "name": "k2tui5Anim",
+   "frames": [
+    "k2tui5Frame",
+    "k2gttui5Frame"
+   ]
+  },
+  {
+   "name": "k2tui6Anim",
+   "frames": [
+    "k2tui6Frame",
+    "k2gttui6Frame"
+   ]
+  },
+  {
+   "name": "k2zhuaAnim",
+   "frames": [
+    "k2zhuaFrame",
+    "k2gtzhuaFrame"
+   ]
+  },
+  {
+   "name": "k301shenAnim",
+   "frames": [
+    "k301shenFrame",
+    "k2gtshenFrame"
+   ]
+  },
+  {
+   "name": "k301touAnim",
+   "frames": [
+    "k301tou2Frame",
+    "k2gttouFrame"
+   ]
+  },
+  {
+   "name": "k301xiabaAnim",
+   "frames": [
+    "k301xiabaFrame",
+    "k2gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k301tui1Anim",
+   "frames": [
+    "k301tui1Frame",
+    "k2gttui1Frame"
+   ]
+  },
+  {
+   "name": "k301tui2Anim",
+   "frames": [
+    "k301tui2Frame",
+    "k2gttui2Frame"
+   ]
+  },
+  {
+   "name": "k301tui3Anim",
+   "frames": [
+    "k301tui3Frame",
+    "k2gttui3Frame"
+   ]
+  },
+  {
+   "name": "k301tui4Anim",
+   "frames": [
+    "k301tui4Frame",
+    "k2gttui4Frame"
+   ]
+  },
+  {
+   "name": "k301tui5Anim",
+   "frames": [
+    "k301tui5Frame",
+    "k2gttui5Frame"
+   ]
+  },
+  {
+   "name": "k301tui6Anim",
+   "frames": [
+    "k301tui6Frame",
+    "k2gttui6Frame"
+   ]
+  },
+  {
+   "name": "k301zhuaAnim",
+   "frames": [
+    "k301zhuaFrame",
+    "k2gtzhuaFrame"
+   ]
+  },
+  {
+   "name": "k31shenAnim",
+   "frames": [
+    "k31shenFrame",
+    "k2gtshenFrame"
+   ]
+  },
+  {
+   "name": "k31touAnim",
+   "frames": [
+    "k31tou2Frame"
+   ]
+  },
+  {
+   "name": "k31xiabaAnim",
+   "frames": [
+    "k31xiabaFrame",
+    "k2gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k31tui1Anim",
+   "frames": [
+    "k31tui1Frame",
+    "k2gttui1Frame"
+   ]
+  },
+  {
+   "name": "k31tui2Anim",
+   "frames": [
+    "k31tui2Frame",
+    "k2gttui2Frame"
+   ]
+  },
+  {
+   "name": "k31tui3Anim",
+   "frames": [
+    "k31tui3Frame",
+    "k2gttui3Frame"
+   ]
+  },
+  {
+   "name": "k31tui4Anim",
+   "frames": [
+    "k31tui4Frame",
+    "k2gttui4Frame"
+   ]
+  },
+  {
+   "name": "k31tui5Anim",
+   "frames": [
+    "k31tui5Frame",
+    "k2gttui5Frame"
+   ]
+  },
+  {
+   "name": "k31tui6Anim",
+   "frames": [
+    "k31tui6Frame",
+    "k2gttui6Frame"
+   ]
+  },
+  {
+   "name": "k31zhuaAnim",
+   "frames": [
+    "k31zhuaFrame",
+    "k2gtzhuaFrame"
+   ]
+  },
+  {
+   "name": "k311shenAnim",
+   "frames": [
+    "k311shenFrame",
+    "k2gtshenFrame"
+   ]
+  },
+  {
+   "name": "k311touAnim",
+   "frames": [
+    "k311tou2Frame",
+    "k2gttouFrame"
+   ]
+  },
+  {
+   "name": "k311xiabaAnim",
+   "frames": [
+    "k311xiabaFrame",
+    "k2gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k311tui1Anim",
+   "frames": [
+    "k311tui1Frame",
+    "k2gttui1Frame"
+   ]
+  },
+  {
+   "name": "k311tui2Anim",
+   "frames": [
+    "k311tui2Frame",
+    "k2gttui2Frame"
+   ]
+  },
+  {
+   "name": "k311tui3Anim",
+   "frames": [
+    "k311tui3Frame",
+    "k2gttui3Frame"
+   ]
+  },
+  {
+   "name": "k311tui4Anim",
+   "frames": [
+    "k311tui4Frame",
+    "k2gttui4Frame"
+   ]
+  },
+  {
+   "name": "k311tui5Anim",
+   "frames": [
+    "k311tui5Frame",
+    "k2gttui5Frame"
+   ]
+  },
+  {
+   "name": "k311tui6Anim",
+   "frames": [
+    "k311tui6Frame",
+    "k2gttui6Frame"
+   ]
+  },
+  {
+   "name": "k311zhuaAnim",
+   "frames": [
+    "k311zhuaFrame",
+    "k2gtzhuaFrame"
+   ]
+  },
+  {
+   "name": "k32shenAnim",
+   "frames": [
+    "k32shenFrame",
+    "k2gtshenFrame"
+   ]
+  },
+  {
+   "name": "k32touAnim",
+   "frames": [
+    "k32tou2Frame",
+    "k2gttouFrame"
+   ]
+  },
+  {
+   "name": "k32xiabaAnim",
+   "frames": [
+    "k32xiabaFrame",
+    "k2gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k32tui1Anim",
+   "frames": [
+    "k32tui1Frame",
+    "k2gttui1Frame"
+   ]
+  },
+  {
+   "name": "k32tui2Anim",
+   "frames": [
+    "k32tui2Frame",
+    "k2gttui2Frame"
+   ]
+  },
+  {
+   "name": "k32tui3Anim",
+   "frames": [
+    "k32tui3Frame",
+    "k2gttui3Frame"
+   ]
+  },
+  {
+   "name": "k32tui4Anim",
+   "frames": [
+    "k32tui4Frame",
+    "k2gttui4Frame"
+   ]
+  },
+  {
+   "name": "k32tui5Anim",
+   "frames": [
+    "k32tui5Frame",
+    "k2gttui5Frame"
+   ]
+  },
+  {
+   "name": "k32tui6Anim",
+   "frames": [
+    "k32tui6Frame",
+    "k2gttui6Frame"
+   ]
+  },
+  {
+   "name": "k32zhuaAnim",
+   "frames": [
+    "k32zhuaFrame",
+    "k2gtzhuaFrame"
+   ]
+  },
+  {
+   "name": "k321shenAnim",
+   "frames": [
+    "k321shenFrame",
+    "k2gtshenFrame"
+   ]
+  },
+  {
+   "name": "k321touAnim",
+   "frames": [
+    "k321tou2Frame",
+    "k2gttouFrame"
+   ]
+  },
+  {
+   "name": "k321xiabaAnim",
+   "frames": [
+    "k321xiabaFrame",
+    "k2gtxiabaFrame"
+   ]
+  },
+  {
+   "name": "k321tui1Anim",
+   "frames": [
+    "k321tui1Frame",
+    "k2gttui1Frame"
+   ]
+  },
+  {
+   "name": "k321tui2Anim",
+   "frames": [
+    "k321tui2Frame",
+    "k2gttui2Frame"
+   ]
+  },
+  {
+   "name": "k321tui3Anim",
+   "frames": [
+    "k321tui3Frame",
+    "k2gttui3Frame"
+   ]
+  },
+  {
+   "name": "k321tui4Anim",
+   "frames": [
+    "k321tui4Frame",
+    "k2gttui4Frame"
+   ]
+  },
+  {
+   "name": "k321tui5Anim",
+   "frames": [
+    "k321tui5Frame",
+    "k2gttui5Frame"
+   ]
+  },
+  {
+   "name": "k321tui6Anim",
+   "frames": [
+    "k321tui6Frame",
+    "k2gttui6Frame"
+   ]
+  },
+  {
+   "name": "k321zhuaAnim",
+   "frames": [
+    "k321zhuaFrame",
+    "k2gtzhuaFrame"
+   ]
+  },
+  {
+   "name": "k501chibang3Anim",
+   "frames": [
+    "k501chibang3Frame",
+    "chibang1_xia0002Frame"
+   ]
+  },
+  {
+   "name": "k501chibang2Anim",
+   "frames": [
+    "k501chibang2Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k501chibang1Anim",
+   "frames": [
+    "k501chibang1Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k501shenti1Anim",
+   "frames": [
+    "k501shenti1Frame",
+    "k5shenti0001Frame"
+   ]
+  },
+  {
+   "name": "k501bozi1Anim",
+   "frames": [
+    "k501bozi1Frame",
+    "jing0001Frame"
+   ]
+  },
+  {
+   "name": "k501xiaba1Anim",
+   "frames": [
+    "k501xiaba1Frame",
+    "tou2_0001Frame"
+   ]
+  },
+  {
+   "name": "k501tou1Anim",
+   "frames": [
+    "k501tou1Frame",
+    "tou1_0001Frame"
+   ]
+  },
+  {
+   "name": "k501zhuaziAnim",
+   "frames": [
+    "k501zhuaziFrame",
+    "zhua0001Frame"
+   ]
+  },
+  {
+   "name": "k51chibang3Anim",
+   "frames": [
+    "k51chibang3Frame",
+    "chibang1_xia0002Frame"
+   ]
+  },
+  {
+   "name": "k51chibang2Anim",
+   "frames": [
+    "k51chibang2Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k51chibang1Anim",
+   "frames": [
+    "k51chibang1Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k51shenti1Anim",
+   "frames": [
+    "k51shenti1Frame",
+    "k5shenti0001Frame"
+   ]
+  },
+  {
+   "name": "k51bozi1Anim",
+   "frames": [
+    "k51bozi1Frame",
+    "jing0001Frame"
+   ]
+  },
+  {
+   "name": "k51xiaba1Anim",
+   "frames": [
+    "k51xiaba1Frame",
+    "tou2_0001Frame"
+   ]
+  },
+  {
+   "name": "k51tou1Anim",
+   "frames": [
+    "k51tou1Frame",
+    "tou1_0001Frame"
+   ]
+  },
+  {
+   "name": "k51zhuaziAnim",
+   "frames": [
+    "k51zhuaziFrame",
+    "zhua0001Frame"
+   ]
+  },
+  {
+   "name": "k511chibang3Anim",
+   "frames": [
+    "k511chibang3Frame",
+    "chibang1_xia0002Frame"
+   ]
+  },
+  {
+   "name": "k511chibang2Anim",
+   "frames": [
+    "k511chibang2Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k511chibang1Anim",
+   "frames": [
+    "k511chibang1Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k511shenti1Anim",
+   "frames": [
+    "k511shenti1Frame",
+    "k5shenti0001Frame"
+   ]
+  },
+  {
+   "name": "k511bozi1Anim",
+   "frames": [
+    "k511bozi1Frame",
+    "jing0001Frame"
+   ]
+  },
+  {
+   "name": "k511xiaba1Anim",
+   "frames": [
+    "k511xiaba1Frame",
+    "tou2_0001Frame"
+   ]
+  },
+  {
+   "name": "k511tou1Anim",
+   "frames": [
+    "k511tou1Frame",
+    "tou1_0001Frame"
+   ]
+  },
+  {
+   "name": "k511zhuaziAnim",
+   "frames": [
+    "k511zhuaziFrame",
+    "zhua0001Frame"
+   ]
+  },
+  {
+   "name": "k52chibang3Anim",
+   "frames": [
+    "k52chibang3Frame",
+    "chibang1_xia0002Frame"
+   ]
+  },
+  {
+   "name": "k52chibang2Anim",
+   "frames": [
+    "k52chibang2Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k52chibang1Anim",
+   "frames": [
+    "k52chibang1Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k52shenti1Anim",
+   "frames": [
+    "k52shenti1Frame",
+    "k5shenti0001Frame"
+   ]
+  },
+  {
+   "name": "k52bozi1Anim",
+   "frames": [
+    "k52bozi1Frame",
+    "jing0001Frame"
+   ]
+  },
+  {
+   "name": "k52xiaba1Anim",
+   "frames": [
+    "k52xiaba1Frame",
+    "tou2_0001Frame"
+   ]
+  },
+  {
+   "name": "k52tou1Anim",
+   "frames": [
+    "k52tou1Frame",
+    "tou1_0001Frame"
+   ]
+  },
+  {
+   "name": "k52zhuaziAnim",
+   "frames": [
+    "k52zhuaziFrame",
+    "zhua0001Frame"
+   ]
+  },
+  {
+   "name": "k521chibang3Anim",
+   "frames": [
+    "k521chibang3Frame",
+    "chibang1_xia0002Frame"
+   ]
+  },
+  {
+   "name": "k521chibang2Anim",
+   "frames": [
+    "k521chibang2Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k521chibang1Anim",
+   "frames": [
+    "k521chibang1Frame",
+    "chibang1_0002Frame"
+   ]
+  },
+  {
+   "name": "k521shenti1Anim",
+   "frames": [
+    "k521shenti1Frame",
+    "k5shenti0001Frame"
+   ]
+  },
+  {
+   "name": "k521bozi1Anim",
+   "frames": [
+    "k521bozi1Frame",
+    "jing0001Frame"
+   ]
+  },
+  {
+   "name": "k521xiaba1Anim",
+   "frames": [
+    "k521xiaba1Frame",
+    "tou2_0001Frame"
+   ]
+  },
+  {
+   "name": "k521tou1Anim",
+   "frames": [
+    "k521tou1Frame",
+    "tou1_0001Frame"
+   ]
+  },
+  {
+   "name": "k521zhuaziAnim",
+   "frames": [
+    "k521zhuaziFrame",
+    "zhua0001Frame"
+   ]
+  }
+ ]
+}

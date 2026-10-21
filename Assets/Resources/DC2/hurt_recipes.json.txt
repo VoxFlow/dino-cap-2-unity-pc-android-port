@@ -1,0 +1,2569 @@
+{
+ "recipes": [
+  {
+   "hero": 0,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A1",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x1892c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x18bb8"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18bc0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15g_ca_pBehitDataE",
+     "pc": "0xb9fca"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A1",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ]
+  },
+  {
+   "hero": 0,
+   "slot": 1,
+   "weapon_type": 2,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C1",
+     "scale": 1.0,
+     "pc": "0xba0ee"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x1892c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x18c78"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18c80"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p3BehitDataE",
+     "pc": "0xba0e2"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C1",
+     "scale": 1.0,
+     "pc": "0xba0ee"
+    }
+   ]
+  },
+  {
+   "hero": 0,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 1,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D2",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x18968"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x18f4c"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18f54"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p4BehitDataE",
+     "pc": "0xba21a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D2",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ]
+  },
+  {
+   "hero": 0,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x1892c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x1905e"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x19066"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p5BehitDataE",
+     "pc": "0xba2a6"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ]
+  },
+  {
+   "hero": 0,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 1,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F2",
+     "scale": 1.0,
+     "pc": "0xba352"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x18968"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x1914a"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x19152"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p6BehitDataE",
+     "pc": "0xba346"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F2",
+     "scale": 1.0,
+     "pc": "0xba352"
+    }
+   ]
+  },
+  {
+   "hero": 1,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd594"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd5a2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xd5b2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd5c2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd5d2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0006",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a050"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 3,
+     "pc": "0x6a0f0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_2pBaseBehitDataE",
+     "pc": "0x189c6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x18bb8"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18bc0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15g_ca_pBehitDataE",
+     "pc": "0xb9fca"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ]
+  },
+  {
+   "hero": 1,
+   "slot": 1,
+   "weapon_type": 1,
+   "weapon_subtype": 3,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0002",
+     "scale": 1.0,
+     "pc": "0xd5ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd5fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd60c"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xd61c"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd62c"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0006",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B4",
+     "scale": 1.0,
+     "pc": "0xba062"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a0a0"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 4,
+     "pc": "0x6a12c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_2p2BaseBehitDataE",
+     "pc": "0x18a02"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x18c12"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18c1a"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p2BehitDataE",
+     "pc": "0xba056"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B4",
+     "scale": 1.0,
+     "pc": "0xba062"
+    }
+   ]
+  },
+  {
+   "hero": 1,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 3,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0002",
+     "scale": 1.0,
+     "pc": "0xd5ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd5fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd60c"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xd61c"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd62c"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0006",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D4",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a0a0"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 4,
+     "pc": "0x6a12c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_2p2BaseBehitDataE",
+     "pc": "0x18a02"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x18faa"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18fb2"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p4BehitDataE",
+     "pc": "0xba21a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D4",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ]
+  },
+  {
+   "hero": 1,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd594"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd5a2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xd5b2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd5c2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd5d2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0006",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a050"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 3,
+     "pc": "0x6a0f0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_2pBaseBehitDataE",
+     "pc": "0x189c6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x1905e"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x19066"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p5BehitDataE",
+     "pc": "0xba2a6"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ]
+  },
+  {
+   "hero": 1,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 4,
+   "source": "Image/an2/p2_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd594"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd5a2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xd5b2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd5c2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd5d2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0006",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    }
+   ],
+   "keys": [],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 3,
+     "pc": "0x69f7a"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20t_ca_2pBaseBehitDataE",
+     "pc": "0xba3ce"
+    }
+   ]
+  },
+  {
+   "hero": 2,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 3,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd648"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd656"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd666"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd676"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xd686"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0005",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A4",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a18e"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 5,
+     "pc": "0x6a22e"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_3pBaseBehitDataE",
+     "pc": "0x18a60"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x18bb8"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18bc0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15g_ca_pBehitDataE",
+     "pc": "0xb9fca"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A4",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ]
+  },
+  {
+   "hero": 2,
+   "slot": 1,
+   "weapon_type": 2,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd648"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd656"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd666"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd676"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xd686"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0005",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C2",
+     "scale": 1.0,
+     "pc": "0xba0ee"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a18e"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 5,
+     "pc": "0x6a22e"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_3pBaseBehitDataE",
+     "pc": "0x18a60"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x18c78"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18c80"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p3BehitDataE",
+     "pc": "0xba0e2"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C2",
+     "scale": 1.0,
+     "pc": "0xba0ee"
+    }
+   ]
+  },
+  {
+   "hero": 2,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd6a2"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd6b2"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd6c0"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd6d0"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd6e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0005",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D3",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a1de"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 6,
+     "pc": "0x6a26a"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_3p2BaseBehitDataE",
+     "pc": "0x18a9c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x18f4c"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18f54"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p4BehitDataE",
+     "pc": "0xba21a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D3",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ]
+  },
+  {
+   "hero": 2,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 0,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd6a2"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd6b2"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd6c0"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd6d0"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd6e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0005",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "E1",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a1de"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 6,
+     "pc": "0x6a26a"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_3p2BaseBehitDataE",
+     "pc": "0x18a9c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x1900a"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x19012"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p5BehitDataE",
+     "pc": "0xba2a6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "E1",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ]
+  },
+  {
+   "hero": 2,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd6a2"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd6b2"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd6c0"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd6d0"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd6e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0005",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F3",
+     "scale": 1.0,
+     "pc": "0xba352"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a1de"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 6,
+     "pc": "0x6a26a"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_3p2BaseBehitDataE",
+     "pc": "0x18a9c"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x1914a"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x19152"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p6BehitDataE",
+     "pc": "0xba346"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F3",
+     "scale": 1.0,
+     "pc": "0xba352"
+    }
+   ]
+  },
+  {
+   "hero": 3,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd6fc"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd70a"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd71a"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd72a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd73a"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0007",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a4a0"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 7,
+     "pc": "0x6a5c2"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_4pBaseBehitDataE",
+     "pc": "0x18afa"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x18bb8"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18bc0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15g_ca_pBehitDataE",
+     "pc": "0xb9fca"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9fd6"
+    }
+   ]
+  },
+  {
+   "hero": 3,
+   "slot": 1,
+   "weapon_type": 1,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0004",
+     "scale": 1.0,
+     "pc": "0xd756"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd766"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd774"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd784"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd794"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0007",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B3",
+     "scale": 1.0,
+     "pc": "0xba062"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a576"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 8,
+     "pc": "0x6a5fe"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_4p2BaseBehitDataE",
+     "pc": "0x18b36"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x18c12"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18c1a"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p2BehitDataE",
+     "pc": "0xba056"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B3",
+     "scale": 1.0,
+     "pc": "0xba062"
+    }
+   ]
+  },
+  {
+   "hero": 3,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 0,
+   "source": "Image/an2/pd_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0001",
+     "scale": 1.0,
+     "pc": "0xd53a"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd54a"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd558"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd568"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd578"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0004",
+     "scale": 1.0,
+     "pc": "0xd756"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd766"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd774"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd784"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd794"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0007",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D1",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 2,
+     "pc": "0x69ff4"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_p2BaseBehitDataE",
+     "pc": "0x6a576"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 8,
+     "pc": "0x6a5fe"
+    },
+    {
+     "clone_from": "__ZN7DinoCap21g_ca_4p2BaseBehitDataE",
+     "pc": "0x18b36"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16t_ca_p2BehitDataE",
+     "pc": "0x18f4c"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x18f54"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p4BehitDataE",
+     "pc": "0xba21a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D1",
+     "scale": 1.0,
+     "pc": "0xba226"
+    }
+   ]
+  },
+  {
+   "hero": 3,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd6fc"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd70a"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd71a"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd72a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd73a"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0007",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a4a0"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 7,
+     "pc": "0x6a5c2"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_4pBaseBehitDataE",
+     "pc": "0x18afa"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x1905e"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x19066"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p5BehitDataE",
+     "pc": "0xba2a6"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba2b2"
+    }
+   ]
+  },
+  {
+   "hero": 3,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 3,
+   "source": "Image/an2/p_behit.a2b",
+   "images": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4e0"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0001",
+     "scale": 1.0,
+     "pc": "0xd4ee"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20001",
+     "scale": 1.0,
+     "pc": "0xd4fe"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0001",
+     "scale": 1.0,
+     "pc": "0xd50e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0001",
+     "scale": 1.0,
+     "pc": "0xd51e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0011",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd6fc"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd70a"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd71a"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd72a"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd73a"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0007",
+     "scale": 1.0,
+     "pc": "0xdaf4"
+    },
+    {
+     "action": "image",
+     "part": "com15",
+     "reference": "shoulijian01",
+     "scale": 1.0,
+     "pc": "0xba352"
+    }
+   ],
+   "keys": [
+    7
+   ],
+   "sprite_animations": [],
+   "interval": 0.025,
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 1,
+     "pc": "0x69fe6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap19g_ca_pBaseBehitDataE",
+     "pc": "0x6a4a0"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation16PlayerChangeHeadEi",
+     "arg_word": 7,
+     "pc": "0x6a5c2"
+    },
+    {
+     "clone_from": "__ZN7DinoCap20g_ca_4pBaseBehitDataE",
+     "pc": "0x18afa"
+    },
+    {
+     "clone_from": "__ZN7DinoCap15t_ca_pBehitDataE",
+     "pc": "0x19198"
+    },
+    {
+     "action": "key",
+     "frame": 7,
+     "pc": "0x191a0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap16g_ca_p6BehitDataE",
+     "pc": "0xba346"
+    },
+    {
+     "action": "image",
+     "part": "com15",
+     "reference": "shoulijian01",
+     "scale": 1.0,
+     "pc": "0xba352"
+    }
+   ]
+  }
+ ]
+}

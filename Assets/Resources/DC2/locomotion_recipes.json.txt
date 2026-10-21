@@ -1,0 +1,2150 @@
+{
+ "recipes": [
+  {
+   "pose": "stand",
+   "hero": 0,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A1",
+     "scale": 1.0,
+     "pc": "0xb9f96"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 0,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A1",
+     "scale": 1.0,
+     "pc": "0xb9f76"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 0,
+   "slot": 1,
+   "weapon_type": 2,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C1",
+     "scale": 1.0,
+     "pc": "0xba0ae"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 0,
+   "slot": 1,
+   "weapon_type": 2,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C1",
+     "scale": 1.0,
+     "pc": "0xba08e"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 0,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 1,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D2",
+     "scale": 1.0,
+     "pc": "0xbabb0"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 0,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 1,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D2",
+     "scale": 1.0,
+     "pc": "0xbab90"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 0,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba272"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 0,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba252"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 0,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 1,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F2",
+     "scale": 1.0,
+     "pc": "0xba312"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 0,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 1,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F2",
+     "scale": 1.0,
+     "pc": "0xba2f2"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 1,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcea4"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xceb2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcec2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xced2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xcee2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9f96"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 1,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcea4"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xceb2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcec2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xced2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xcee2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9f76"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 1,
+   "slot": 1,
+   "weapon_type": 1,
+   "weapon_subtype": 3,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0002",
+     "scale": 1.0,
+     "pc": "0xcefe"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf0e"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf1c"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcf2c"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xcf3c"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xcf4c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf5e"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf6c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcf7c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcf8c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcf9c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B4",
+     "scale": 1.0,
+     "pc": "0xba022"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 1,
+   "slot": 1,
+   "weapon_type": 1,
+   "weapon_subtype": 3,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0002",
+     "scale": 1.0,
+     "pc": "0xcefe"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf0e"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf1c"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcf2c"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xcf3c"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xcf4c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf5e"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf6c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcf7c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcf8c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcf9c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B4",
+     "scale": 1.0,
+     "pc": "0xba002"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 1,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 3,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0002",
+     "scale": 1.0,
+     "pc": "0xcefe"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf0e"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf1c"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcf2c"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xcf3c"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xcf4c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf5e"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf6c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcf7c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcf8c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcf9c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D4",
+     "scale": 1.0,
+     "pc": "0xba1d8"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 1,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 3,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0002",
+     "scale": 1.0,
+     "pc": "0xcefe"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf0e"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcf1c"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcf2c"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xcf3c"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xcf4c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf5e"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf6c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcf7c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcf8c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcf9c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D4",
+     "scale": 1.0,
+     "pc": "0xba1b8"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 1,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcea4"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xceb2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcec2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xced2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xcee2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba272"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 1,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xcea4"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xceb2"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xcec2"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xced2"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xcee2"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba252"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 1,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 4,
+   "source": "Image/an2/p2_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd400"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd410"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd420"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd430"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd43e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "yuanli20001",
+     "scale": 1.0,
+     "pc": "0xba312"
+    },
+    {
+     "action": "sprite_animation",
+     "part": "com1",
+     "pc": "0xba3ba"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 1,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 4,
+   "source": "Image/an2/p2_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd400"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xd410"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd420"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xd430"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xd43e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "yuanli20001",
+     "scale": 1.0,
+     "pc": "0xba2f2"
+    },
+    {
+     "action": "sprite_animation",
+     "part": "com1",
+     "pc": "0xba3b2"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 2,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 3,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfb8"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfc6"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcfd6"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcfe6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcff6"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd006"
+    },
+    {
+     "action": "image",
+     "part": "roll",
+     "reference": "p3move",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A4",
+     "scale": 1.0,
+     "pc": "0xb9f96"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 2,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 3,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfb8"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfc6"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcfd6"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcfe6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcff6"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd006"
+    },
+    {
+     "action": "image",
+     "part": "roll",
+     "reference": "p3move",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A4",
+     "scale": 1.0,
+     "pc": "0xb9f76"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 2,
+   "slot": 1,
+   "weapon_type": 2,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfb8"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfc6"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcfd6"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcfe6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcff6"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd006"
+    },
+    {
+     "action": "image",
+     "part": "roll",
+     "reference": "p3move",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C2",
+     "scale": 1.0,
+     "pc": "0xba0ae"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 2,
+   "slot": 1,
+   "weapon_type": 2,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfb8"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcfc6"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcfd6"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcfe6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcff6"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd006"
+    },
+    {
+     "action": "image",
+     "part": "roll",
+     "reference": "p3move",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "C2",
+     "scale": 1.0,
+     "pc": "0xba08e"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 2,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd022"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd032"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd040"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd050"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd060"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D3",
+     "scale": 1.0,
+     "pc": "0xba1d8"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 2,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd022"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd032"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd040"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd050"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd060"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D3",
+     "scale": 1.0,
+     "pc": "0xba1b8"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 2,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 0,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd022"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd032"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd040"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd050"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd060"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "E1",
+     "scale": 1.0,
+     "pc": "0xba272"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 2,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 0,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd022"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd032"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd040"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd050"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd060"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "E1",
+     "scale": 1.0,
+     "pc": "0xba252"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 2,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd022"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd032"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd040"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd050"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd060"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F3",
+     "scale": 1.0,
+     "pc": "0xba312"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 2,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0003",
+     "scale": 1.0,
+     "pc": "0xd022"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd032"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xd040"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xd050"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xd060"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "F3",
+     "scale": 1.0,
+     "pc": "0xba2f2"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 3,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0d6"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0e4"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd0f4"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd104"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd114"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9f96"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 3,
+   "slot": 0,
+   "weapon_type": 0,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0d6"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0e4"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd0f4"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd104"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd114"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "A2",
+     "scale": 1.0,
+     "pc": "0xb9f76"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 3,
+   "slot": 1,
+   "weapon_type": 1,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0004",
+     "scale": 1.0,
+     "pc": "0xd130"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd140"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd14e"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd15e"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd16e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B3",
+     "scale": 1.0,
+     "pc": "0xba022"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 3,
+   "slot": 1,
+   "weapon_type": 1,
+   "weapon_subtype": 2,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0004",
+     "scale": 1.0,
+     "pc": "0xd130"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd140"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd14e"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd15e"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd16e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "B3",
+     "scale": 1.0,
+     "pc": "0xba002"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 3,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 0,
+   "source": "Image/an2/pd_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0004",
+     "scale": 1.0,
+     "pc": "0xd130"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd140"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd14e"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd15e"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd16e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D1",
+     "scale": 1.0,
+     "pc": "0xbabb0"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 3,
+   "slot": 2,
+   "weapon_type": 3,
+   "weapon_subtype": 0,
+   "source": "Image/an2/pd_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "shou0004",
+     "scale": 1.0,
+     "pc": "0xd130"
+    },
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd140"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd14e"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd15e"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd16e"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "D1",
+     "scale": 1.0,
+     "pc": "0xbab90"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 3,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0d6"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0e4"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd0f4"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd104"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd114"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba272"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 3,
+   "slot": 3,
+   "weapon_type": 4,
+   "weapon_subtype": 1,
+   "source": "Image/an2/p_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0d6"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd0e4"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd0f4"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd104"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd114"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com1",
+     "reference": "E2",
+     "scale": 1.0,
+     "pc": "0xba252"
+    }
+   ]
+  },
+  {
+   "pose": "stand",
+   "hero": 3,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 3,
+   "source": "Image/an2/p4_stand.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd3a6"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd3b6"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd3c6"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd3d6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd3e4"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com15",
+     "reference": "shoulijian01",
+     "scale": 1.0,
+     "pc": "0xba312"
+    }
+   ]
+  },
+  {
+   "pose": "move",
+   "hero": 3,
+   "slot": 4,
+   "weapon_type": 5,
+   "weapon_subtype": 3,
+   "source": "Image/an2/p4_move.a2b",
+   "events": [
+    {
+     "action": "image",
+     "part": "yyj1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd3a6"
+    },
+    {
+     "action": "image",
+     "part": "yyj2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd3b6"
+    },
+    {
+     "action": "image",
+     "part": "yyj3",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd3c6"
+    },
+    {
+     "action": "image",
+     "part": "yyj4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd3d6"
+    },
+    {
+     "action": "image",
+     "part": "yyj5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd3e4"
+    },
+    {
+     "action": "image",
+     "part": "yyj6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "image",
+     "part": "com15",
+     "reference": "shoulijian01",
+     "scale": 1.0,
+     "pc": "0xba2f2"
+    }
+   ]
+  }
+ ]
+}

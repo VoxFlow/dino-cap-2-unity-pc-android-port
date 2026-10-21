@@ -1,0 +1,9 @@
+# Store every file byte-for-byte as it is on disk (no line-ending conversion), so the repository equals the audited candidate set.
+* -text
+# Binary assets: no diff or merge attempts.
+*.png binary
+*.jpg binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
+*.bytes binary

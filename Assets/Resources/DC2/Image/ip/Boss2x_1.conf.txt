@@ -1,0 +1,19 @@
+[Frame]
+Count = 16
+Frame0 = (boss_t1 0 0 409 374)
+Frame1 = (boss_t6 411 0 402 352)
+Frame2 = (boss_w5 411 354 391 360)
+Frame3 = (boss_yanjiang3 0 376 193 381)
+Frame4 = (boss_w2 195 716 336 277)
+Frame5 = (boss_t2 533 716 319 227)
+Frame6 = (boss_b2 195 376 214 314)
+Frame7 = (boss_yanjiang1 0 759 161 225)
+Frame8 = (boss_z3 804 354 217 96)
+Frame9 = (boss_x2 815 0 187 122)
+Frame10 = (boss_bs_fx2 815 124 186 96)
+Frame11 = (boss_z3_fx9 815 222 176 74)
+Frame12 = (boss_z1 804 452 172 110)
+Frame13 = (boss_bs_fx1 804 564 171 93)
+Frame14 = (boss_yan4 854 659 146 140)
+Frame15 = (boss_yan1 854 801 136 131)
+

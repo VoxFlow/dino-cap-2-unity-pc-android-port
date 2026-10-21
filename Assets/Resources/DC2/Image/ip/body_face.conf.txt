@@ -1,0 +1,15 @@
+[Frame]
+Count = 12
+Frame0 = (tou0004_nu1 0 0 150 150)
+Frame1 = (tou0003_nu3 152 0 150 150)
+Frame2 = (tou0003_nu2 304 0 150 150)
+Frame3 = (tou0003_nu1 456 0 150 150)
+Frame4 = (tou0002_nu3 608 0 150 150)
+Frame5 = (tou0002_nu2 760 0 150 150)
+Frame6 = (tou0002_nu1 0 152 150 150)
+Frame7 = (tou0001_nu3 152 152 150 150)
+Frame8 = (tou0001_nu2 304 152 150 150)
+Frame9 = (tou0001_nu1 456 152 150 150)
+Frame10 = (tou0004_nu2 608 152 150 150)
+Frame11 = (tou0004_nu3 760 152 150 150)
+

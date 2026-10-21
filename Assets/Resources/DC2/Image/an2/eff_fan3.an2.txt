@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>57.5</x>
+        <y>-158.5</y>
+        <width>0.982906</width>
+        <height>0.86</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>267.104</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="6">
+    <Sprite name="com1">
+        <x>-161.5</x>
+        <y>-66.5</y>
+        <width>0.982906</width>
+        <height>0.86</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>358.685</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="12">
+    <Sprite name="com1">
+        <x>-519.5</x>
+        <y>27.5</y>
+        <width>0.982906</width>
+        <height>0.86</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>87.3953</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yezi</image>
+    </Sprite>
+</AnimFrame>

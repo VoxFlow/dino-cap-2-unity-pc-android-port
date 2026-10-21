@@ -1,0 +1,22 @@
+[Frame]
+Count = 19
+Frame0 = (ui_p4_info 0 0 515 357)
+Frame1 = (ui_p3_info 0 359 515 357)
+Frame2 = (ui_gold_bg 517 0 362 69)
+Frame3 = (ui_title_trvern 517 71 345 134)
+Frame4 = (ui_btn_iap 517 207 340 82)
+Frame5 = (ui_go_bg 517 291 136 242)
+Frame6 = (ui_exp_bg 655 291 212 56)
+Frame7 = (ui_btn_back 655 349 208 62)
+Frame8 = (ui_btn_go 655 413 174 77)
+Frame9 = (ui_btn_hired 831 413 174 77)
+Frame10 = (ui_p5_icon_g 655 492 146 173)
+Frame11 = (ui_p1_icon_g 803 492 146 173)
+Frame12 = (ui_p2_icon_g 517 667 146 173)
+Frame13 = (ui_p3_icon_g 665 667 146 173)
+Frame14 = (ui_p4_icon_g 813 667 146 173)
+Frame15 = (ui_select 881 0 140 140)
+Frame16 = (ui_btn_back_img 864 142 138 54)
+Frame17 = (ui_icon_bg 869 198 121 112)
+Frame18 = (ui_gold 869 312 46 44)
+

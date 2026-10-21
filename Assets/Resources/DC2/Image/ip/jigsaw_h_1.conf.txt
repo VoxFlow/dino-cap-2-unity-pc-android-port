@@ -1,0 +1,17 @@
+[Frame]
+Count = 14
+Frame0 = (jigsaw_map05_03 0 0 100 100)
+Frame1 = (jigsaw_map05_04 102 0 100 100)
+Frame2 = (jigsaw_map05_05 204 0 100 100)
+Frame3 = (jigsaw_map05_06 306 0 100 100)
+Frame4 = (jigsaw_map05_07 408 0 100 100)
+Frame5 = (jigsaw_map05_08 510 0 100 100)
+Frame6 = (jigsaw_map05_09 612 0 100 100)
+Frame7 = (jigsaw_map05_10 714 0 100 100)
+Frame8 = (jigsaw_map05_11 816 0 100 100)
+Frame9 = (jigsaw_map05_12 918 0 100 100)
+Frame10 = (jigsaw_map05_13 0 102 100 100)
+Frame11 = (jigsaw_map05_14 102 102 100 100)
+Frame12 = (jigsaw_map05_15 204 102 100 100)
+Frame13 = (jigsaw_map05_16 306 102 100 100)
+

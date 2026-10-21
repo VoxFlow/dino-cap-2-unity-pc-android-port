@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<mapPoint posx="8" posy="68" bg="1" type="kill" num="20">
+      <enimy>
+		    <dianocap>5</dianocap>
+			<dianocap>2</dianocap>
+		
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="1"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="kill" num="25">
+      <enimy>
+		    <dianocap>1</dianocap>
+			<dianocap>9</dianocap>
+			<dianocap>6</dianocap>
+
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="2"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="kill" num="30">
+      <enimy>
+		    <dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>10</dianocap>
+	
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="3"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="kill" num="35">
+      <enimy>
+		    <dianocap>3</dianocap>
+			<dianocap>13</dianocap>
+			<dianocap>16</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="4"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="kill" num="35">
+      <enimy>
+		    <dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>12</dianocap>
+			<dianocap>18</dianocap>
+		
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>  
+        </award>
+        <level value="5"></level>
+      </missionInfo>
+</mapPoint>
+
+
+
+
+
+<mapPoint posx="8" posy="68" bg="1" type="time" num="60">
+      <enimy>
+		    <dianocap>1</dianocap>
+			<dianocap>6</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="1"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="time" num="70">
+      <enimy>
+		    <dianocap>1</dianocap>
+			<dianocap>9</dianocap>
+			<dianocap>7</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="2"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="time" num="70">
+      <enimy>
+			<dianocap>4</dianocap>
+			<dianocap>15</dianocap>
+			<dianocap>5</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="3"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="time" num="70">
+      <enimy>
+			<dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>17</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="4"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="time" num="70">
+      <enimy>
+			<dianocap>2</dianocap>
+			<dianocap>5</dianocap>
+			<dianocap>11</dianocap>
+			<dianocap>19</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="5"></level>
+      </missionInfo>
+</mapPoint>
+
+
+
+
+
+<mapPoint posx="8" posy="68" bg="1" type="run" num="4000">
+      <enimy>
+		    <dianocap>2</dianocap>
+			<dianocap>10</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="1"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="run" num="4500">
+      <enimy>
+		    <dianocap>2</dianocap>
+			<dianocap>6</dianocap>
+			<dianocap>8</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="2"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="run" num="4500">
+      <enimy>
+		    <dianocap>3</dianocap>
+			<dianocap>14</dianocap>
+			<dianocap>7</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="3"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="run" num="4500">
+      <enimy>
+		    <dianocap>2</dianocap>
+			<dianocap>15</dianocap>
+			<dianocap>12</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="4"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="run" num="4500">
+      <enimy>
+		    <dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>8</dianocap>
+			<dianocap>19</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="5"></level>
+      </missionInfo>
+</mapPoint>
+
+
+
+
+
+
+<mapPoint posx="8" posy="68" bg="1" type="egg" num="1200">
+      <enimy>
+		    <dianocap>1</dianocap>
+			<dianocap>8</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="1"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="1"></level>
+      </missionInfo>
+</mapPoint>
+
+<mapPoint posx="8" posy="68" bg="1" type="egg" num="1200">
+      <enimy>
+		    <dianocap>2</dianocap>
+			<dianocap>10</dianocap>
+			<dianocap>5</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="2"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="2"></level>
+      </missionInfo>
+</mapPoint>
+
+<mapPoint posx="8" posy="68" bg="1" type="egg" num="1400">
+      <enimy>
+		    <dianocap>1</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>12</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="2"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="3"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="egg" num="1400">
+      <enimy>
+		    <dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>17</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="2"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="4"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="egg" num="1500">
+      <enimy>
+		    <dianocap>3</dianocap>
+			<dianocap>6</dianocap>
+			<dianocap>13</dianocap>
+			<dianocap>18</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="5"></level>
+      </missionInfo>
+</mapPoint>
+
+
+<mapPoint posx="8" posy="68" bg="1" type="arena" num="40">
+      <enimy>
+		    <dianocap>2</dianocap>
+			<dianocap>6</dianocap>
+			<dianocap>5</dianocap>
+			<dianocap>1</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="1"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="arena" num="60">
+      <enimy>
+		    <dianocap>1</dianocap>
+			<dianocap>5</dianocap>
+			<dianocap>10</dianocap>
+			<dianocap>7</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="2"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="arena" num="80">
+      <enimy>
+		    <dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>11</dianocap>
+			<dianocap>3</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="3"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="arena" num="100">
+      <enimy>
+		    <dianocap>2</dianocap>
+			<dianocap>12</dianocap>
+			<dianocap>17</dianocap>
+			<dianocap>5</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="4"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="arena" num="120">
+      <enimy>
+		    <dianocap>3</dianocap>
+			<dianocap>7</dianocap>
+			<dianocap>9</dianocap>
+			<dianocap>19</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="5"></level>
+      </missionInfo>
+</mapPoint>
+
+
+
+
+
+<mapPoint posx="8" posy="68" bg="1" type="boss" num="35">
+      <enimy>
+		    <dianocap>1</dianocap>
+			
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>  
+        </award>
+        <level value="1"></level>
+      </missionInfo>
+</mapPoint>
+<mapPoint posx="8" posy="68" bg="1" type="boss" num="20">
+      <enimy>
+		    
+			<dianocap>2</dianocap>
+            <dianocap>5</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="2"></level>
+      </missionInfo>
+</mapPoint>
+
+<mapPoint posx="8" posy="68" bg="1" type="boss" num="20">
+      <enimy>
+		    
+			<dianocap>3</dianocap>
+			<dianocap>6</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="3"></level>
+      </missionInfo>
+</mapPoint>
+
+<mapPoint posx="8" posy="68" bg="1" type="boss" num="20">
+      <enimy>
+		    
+			<dianocap>4</dianocap>
+			<dianocap>7</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="4"></level>
+      </missionInfo>
+</mapPoint>
+
+<mapPoint posx="8" posy="68" bg="1" type="boss" num="20">
+      <enimy>
+		    
+			<dianocap>2</dianocap>
+      </enimy>
+      <missionInfo>
+        <name value="3000M"></name>
+        <info value="3000M"></info>
+        <award value="weapon">
+          <awardtype>1</awardtype>
+          <awardtype>2</awardtype>
+        </award>
+        <level value="5"></level>
+      </missionInfo>
+</mapPoint>
+
+
+
+
+
+
+
+
+
+
+
+</config>

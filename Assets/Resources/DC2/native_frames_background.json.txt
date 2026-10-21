@@ -1,0 +1,382 @@
+{
+ "frames": [
+  {
+   "name": "beijing2_1Frame",
+   "texture": "DC2/Image/ip/beijing2_h",
+   "x": 1,
+   "y": 1,
+   "w": 958,
+   "h": 334,
+   "nativeCall": "0xeaaa6"
+  },
+  {
+   "name": "beijing2_2Frame",
+   "texture": "DC2/Image/ip/beijing2_h",
+   "x": 1,
+   "y": 337,
+   "w": 958,
+   "h": 331,
+   "nativeCall": "0xeab98"
+  },
+  {
+   "name": "beijing2_4Frame",
+   "texture": "DC2/Image/ip/beijing2_h",
+   "x": 1,
+   "y": 668,
+   "w": 958,
+   "h": 268,
+   "nativeCall": "0xeac88"
+  },
+  {
+   "name": "beijing2_tree_3Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 0,
+   "y": 1,
+   "w": 182,
+   "h": 222,
+   "nativeCall": "0xeae82"
+  },
+  {
+   "name": "beijing2_tanke_2Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 182,
+   "y": 0,
+   "w": 425,
+   "h": 155,
+   "nativeCall": "0xeaf72"
+  },
+  {
+   "name": "beijing2_tanke_1Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 607,
+   "y": 0,
+   "w": 372,
+   "h": 146,
+   "nativeCall": "0xeb062"
+  },
+  {
+   "name": "beijing2_3_2Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 607,
+   "y": 146,
+   "w": 262,
+   "h": 202,
+   "nativeCall": "0xeb154"
+  },
+  {
+   "name": "beijing2_3_1Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 182,
+   "y": 155,
+   "w": 389,
+   "h": 195,
+   "nativeCall": "0xeb344"
+  },
+  {
+   "name": "beijing2_paiFrame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 869,
+   "y": 146,
+   "w": 81,
+   "h": 156,
+   "nativeCall": "0xeb436"
+  },
+  {
+   "name": "beijing2_tree_1Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 572,
+   "y": 348,
+   "w": 220,
+   "h": 98,
+   "nativeCall": "0xeb526"
+  },
+  {
+   "name": "beijing2_tree_2Frame",
+   "texture": "DC2/Image/ip/beijing2_sub_h",
+   "x": 790,
+   "y": 349,
+   "w": 188,
+   "h": 213,
+   "nativeCall": "0xeb618"
+  },
+  {
+   "name": "back_endFrame",
+   "texture": "DC2/Image/ip/lifeback_h",
+   "x": 1,
+   "y": 0,
+   "w": 850,
+   "h": 639,
+   "nativeCall": "0xec572"
+  },
+  {
+   "name": "back_frontFrame",
+   "texture": "DC2/Image/ip/lifeback_h",
+   "x": 1,
+   "y": 639,
+   "w": 850,
+   "h": 252,
+   "nativeCall": "0xec664"
+  },
+  {
+   "name": "beijing3_1Frame",
+   "texture": "DC2/Image/ip/beijing3_h",
+   "x": 1,
+   "y": 0,
+   "w": 958,
+   "h": 301,
+   "nativeCall": "0xeca26"
+  },
+  {
+   "name": "beijing3_2Frame",
+   "texture": "DC2/Image/ip/beijing3_h",
+   "x": 1,
+   "y": 302,
+   "w": 958,
+   "h": 522,
+   "nativeCall": "0xecafe"
+  },
+  {
+   "name": "beijing3_4Frame",
+   "texture": "DC2/Image/ip/beijing3_sub_h",
+   "x": 1,
+   "y": 0,
+   "w": 958,
+   "h": 278,
+   "nativeCall": "0xecbea"
+  },
+  {
+   "name": "beijing3_3_3Frame",
+   "texture": "DC2/Image/ip/beijing3_sub_h",
+   "x": 0,
+   "y": 279,
+   "w": 482,
+   "h": 318,
+   "nativeCall": "0xeccc2"
+  },
+  {
+   "name": "beijing3_3_1Frame",
+   "texture": "DC2/Image/ip/beijing3_sub_h",
+   "x": 482,
+   "y": 279,
+   "w": 482,
+   "h": 318,
+   "nativeCall": "0xece90"
+  },
+  {
+   "name": "beijing3_3_2Frame",
+   "texture": "DC2/Image/ip/beijing3_sub_h",
+   "x": 0,
+   "y": 598,
+   "w": 482,
+   "h": 318,
+   "nativeCall": "0xecf68"
+  },
+  {
+   "name": "beijing3_shitouFrame",
+   "texture": "DC2/Image/ip/beijing3_sub_h",
+   "x": 482,
+   "y": 597,
+   "w": 126,
+   "h": 52,
+   "nativeCall": "0xed048"
+  },
+  {
+   "name": "beijing3_shuFrame",
+   "texture": "DC2/Image/ip/beijing3_sub_h",
+   "x": 608,
+   "y": 597,
+   "w": 291,
+   "h": 368,
+   "nativeCall": "0xed126"
+  },
+  {
+   "name": "beijing3_shu_3Frame",
+   "texture": "DC2/Image/ip/beijing3_sub1_h",
+   "x": 0,
+   "y": 0,
+   "w": 442,
+   "h": 331,
+   "nativeCall": "0xed2f4"
+  },
+  {
+   "name": "beijing3_dizangsFrame",
+   "texture": "DC2/Image/ip/beijing3_sub1_h",
+   "x": 442,
+   "y": 0,
+   "w": 180,
+   "h": 101,
+   "nativeCall": "0xed3cc"
+  },
+  {
+   "name": "beijing3_dizangFrame",
+   "texture": "DC2/Image/ip/beijing3_sub1_h",
+   "x": 622,
+   "y": 0,
+   "w": 61,
+   "h": 101,
+   "nativeCall": "0xed4ac"
+  },
+  {
+   "name": "beijing3_shu_2Frame",
+   "texture": "DC2/Image/ip/beijing3_sub1_h",
+   "x": 683,
+   "y": 0,
+   "w": 290,
+   "h": 357,
+   "nativeCall": "0xed58a"
+  },
+  {
+   "name": "beijing4_1Frame",
+   "texture": "DC2/Image/ip/beijing4_h",
+   "x": 1,
+   "y": 0,
+   "w": 958,
+   "h": 285,
+   "nativeCall": "0xee42c"
+  },
+  {
+   "name": "beijing4_2Frame",
+   "texture": "DC2/Image/ip/beijing4_h",
+   "x": 1,
+   "y": 286,
+   "w": 958,
+   "h": 439,
+   "nativeCall": "0xee504"
+  },
+  {
+   "name": "beijing4_4Frame",
+   "texture": "DC2/Image/ip/beijing4_h",
+   "x": 1,
+   "y": 726,
+   "w": 958,
+   "h": 204,
+   "nativeCall": "0xee5da"
+  },
+  {
+   "name": "beijing4_obj_4Frame",
+   "texture": "DC2/Image/ip/beijing4_sub_h",
+   "x": 644,
+   "y": 1,
+   "w": 181,
+   "h": 173,
+   "nativeCall": "0xee6c4"
+  },
+  {
+   "name": "beijing4_obj_1Frame",
+   "texture": "DC2/Image/ip/beijing4_sub_h",
+   "x": 0,
+   "y": 1,
+   "w": 354,
+   "h": 187,
+   "nativeCall": "0xee88c"
+  },
+  {
+   "name": "beijing4_obj_3Frame",
+   "texture": "DC2/Image/ip/beijing4_sub_h",
+   "x": 0,
+   "y": 189,
+   "w": 294,
+   "h": 166,
+   "nativeCall": "0xee96e"
+  },
+  {
+   "name": "beijing4_obj_2Frame",
+   "texture": "DC2/Image/ip/beijing4_sub_h",
+   "x": 354,
+   "y": 1,
+   "w": 290,
+   "h": 175,
+   "nativeCall": "0xeea4c"
+  },
+  {
+   "name": "beijing5_2Frame",
+   "texture": "DC2/Image/ip/beijing5_h",
+   "x": 1,
+   "y": 0,
+   "w": 958,
+   "h": 370,
+   "nativeCall": "0xef27a conf"
+  },
+  {
+   "name": "beijing5_1Frame",
+   "texture": "DC2/Image/ip/beijing5_h",
+   "x": 1,
+   "y": 372,
+   "w": 958,
+   "h": 335,
+   "nativeCall": "0xef27a conf"
+  },
+  {
+   "name": "beijing5_3_1Frame",
+   "texture": "DC2/Image/ip/beijing5_h",
+   "x": 0,
+   "y": 709,
+   "w": 748,
+   "h": 309,
+   "nativeCall": "0xef27a conf"
+  },
+  {
+   "name": "beijing5_3_2Frame",
+   "texture": "DC2/Image/ip/beijing5_h_1",
+   "x": 0,
+   "y": 0,
+   "w": 953,
+   "h": 328,
+   "nativeCall": "0xef29c conf"
+  },
+  {
+   "name": "beijing5_obj2Frame",
+   "texture": "DC2/Image/ip/beijing5_h_1",
+   "x": 0,
+   "y": 330,
+   "w": 641,
+   "h": 340,
+   "nativeCall": "0xef29c conf"
+  },
+  {
+   "name": "beijing5_obj1Frame",
+   "texture": "DC2/Image/ip/beijing5_h_1",
+   "x": 0,
+   "y": 672,
+   "w": 608,
+   "h": 304,
+   "nativeCall": "0xef29c conf"
+  },
+  {
+   "name": "beijing7_sub1Frame",
+   "texture": "DC2/Image/ip/beijing7_h",
+   "x": 1,
+   "y": 0,
+   "w": 958,
+   "h": 640,
+   "nativeCall": "0xef380"
+  },
+  {
+   "name": "beijing7_sub2Frame",
+   "texture": "DC2/Image/ip/beijing7_h",
+   "x": 1,
+   "y": 640,
+   "w": 958,
+   "h": 213,
+   "nativeCall": "0xef454"
+  },
+  {
+   "name": "beijing8_sub2Frame",
+   "texture": "DC2/Image/ip/beijing8_h",
+   "x": 0,
+   "y": 0,
+   "w": 1024,
+   "h": 640,
+   "nativeCall": "0xef81c"
+  },
+  {
+   "name": "beijing8_sub1Frame",
+   "texture": "DC2/Image/ip/beijing8_h",
+   "x": 0,
+   "y": 640,
+   "w": 1024,
+   "h": 161,
+   "nativeCall": "0xef8f0"
+  }
+ ]
+}

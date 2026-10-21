@@ -1,0 +1,945 @@
+{"ea": "0x1EA990", "name": "DinoCap::lifeModeScene::DropItem(Triniti2D::Vector2)::C.173", "referenced_by": ["0xE1470"]}
+{"ea": "0x2011C8", "name": "sel_name", "referenced_by": ["0xBDB4", "0xC5718"]}
+{"ea": "0x2011D0", "name": "sel_x", "referenced_by": ["0xBDB4"]}
+{"ea": "0x2011D4", "name": "sel_y", "referenced_by": ["0xBDB4"]}
+{"ea": "0x2011D8", "name": "sel_width", "referenced_by": ["0xBDB4"]}
+{"ea": "0x2011E0", "name": "sel_height", "referenced_by": ["0xBDB4"]}
+{"ea": "0x201204", "name": "sel_layer_0", "referenced_by": ["0xBDB4"]}
+{"ea": "0x201218", "name": "sel_image", "referenced_by": ["0xBDB4"]}
+{"ea": "0x201C0C", "name": "sel_frame_0", "referenced_by": ["0xF3A4"]}
+{"ea": "0x2238BA", "name": "GCC_except_table3", "referenced_by": ["0x700C"]}
+{"ea": "0x2238D8", "name": "GCC_except_table4", "referenced_by": ["0x77A4"]}
+{"ea": "0x2238E2", "name": "GCC_except_table5", "referenced_by": ["0x7988"]}
+{"ea": "0x2238F2", "name": "GCC_except_table6", "referenced_by": ["0x7DBC"]}
+{"ea": "0x2239AF", "name": "GCC_except_table7", "referenced_by": ["0x97F8"]}
+{"ea": "0x2239E7", "name": "GCC_except_table5_0", "referenced_by": ["0xA3BA"]}
+{"ea": "0x2239EF", "name": "GCC_except_table6_0", "referenced_by": ["0xA4D0"]}
+{"ea": "0x2239F7", "name": "GCC_except_table7_0", "referenced_by": ["0xA6CC"]}
+{"ea": "0x223A09", "name": "GCC_except_table8", "referenced_by": ["0xAEA0"]}
+{"ea": "0x223A58", "name": "GCC_except_table9_0", "referenced_by": ["0xB8EC"]}
+{"ea": "0x223A6A", "name": "GCC_except_table16", "referenced_by": ["0xBDB4"]}
+{"ea": "0x223A76", "name": "GCC_except_table18", "referenced_by": ["0xC100"]}
+{"ea": "0x223A7C", "name": "GCC_except_table19", "referenced_by": ["0xC2DA"]}
+{"ea": "0x223A82", "name": "GCC_except_table20", "referenced_by": ["0xC4DA"]}
+{"ea": "0x223A92", "name": "GCC_except_table22", "referenced_by": ["0xC9C4"]}
+{"ea": "0x223AAA", "name": "GCC_except_table23", "referenced_by": ["0xCC8A"]}
+{"ea": "0x223AB6", "name": "GCC_except_table24", "referenced_by": ["0xEDBC"]}
+{"ea": "0x223AC0", "name": "GCC_except_table26", "referenced_by": ["0xF014"]}
+{"ea": "0x223AC6", "name": "GCC_except_table27", "referenced_by": ["0xF14E"]}
+{"ea": "0x223ACC", "name": "GCC_except_table28", "referenced_by": ["0xF4B0"]}
+{"ea": "0x223AEE", "name": "GCC_except_table3_3", "referenced_by": ["0x10CBC"]}
+{"ea": "0x223B56", "name": "GCC_except_table7_2", "referenced_by": ["0x11C9C"]}
+{"ea": "0x223B64", "name": "GCC_except_table9_1", "referenced_by": ["0x1226C"]}
+{"ea": "0x223B78", "name": "GCC_except_table10_0", "referenced_by": ["0x12756"]}
+{"ea": "0x223B80", "name": "GCC_except_table11_0", "referenced_by": ["0x12CA8"]}
+{"ea": "0x223C25", "name": "GCC_except_table12", "referenced_by": ["0x140FC"]}
+{"ea": "0x223C2B", "name": "GCC_except_table13", "referenced_by": ["0x1442A"]}
+{"ea": "0x223C33", "name": "GCC_except_table14", "referenced_by": ["0x14918"]}
+{"ea": "0x223C53", "name": "GCC_except_table4_2", "referenced_by": ["0x16248"]}
+{"ea": "0x223C5B", "name": "GCC_except_table5_3", "referenced_by": ["0x16478"]}
+{"ea": "0x223C65", "name": "GCC_except_table6_2", "referenced_by": ["0x16AF0"]}
+{"ea": "0x223C83", "name": "GCC_except_table6_3", "referenced_by": ["0x174DE"]}
+{"ea": "0x223CA1", "name": "GCC_except_table8_2", "referenced_by": ["0x17818"]}
+{"ea": "0x223CD1", "name": "GCC_except_table16_0", "referenced_by": ["0x1A36C"]}
+{"ea": "0x223CD9", "name": "GCC_except_table17_0", "referenced_by": ["0x1A448"]}
+{"ea": "0x224CEC", "name": "GCC_except_table24_0", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x224E09", "name": "GCC_except_table29", "referenced_by": ["0x59AD6"]}
+{"ea": "0x224E43", "name": "GCC_except_table31", "referenced_by": ["0x5A1F0"]}
+{"ea": "0x224E6F", "name": "GCC_except_table35", "referenced_by": ["0x5A6B0"]}
+{"ea": "0x224E7B", "name": "GCC_except_table2_6", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x2264D6", "name": "GCC_except_table1_5", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x226550", "name": "GCC_except_table3_6", "referenced_by": ["0x94E8E"]}
+{"ea": "0x226564", "name": "GCC_except_table8_3", "referenced_by": ["0x9546C"]}
+{"ea": "0x226570", "name": "GCC_except_table9_2", "referenced_by": ["0x956B6"]}
+{"ea": "0x226578", "name": "GCC_except_table10_1", "referenced_by": ["0x957E0"]}
+{"ea": "0x226584", "name": "GCC_except_table11_1", "referenced_by": ["0x95DC0"]}
+{"ea": "0x226590", "name": "GCC_except_table12_1", "referenced_by": ["0x95F7A"]}
+{"ea": "0x22659C", "name": "GCC_except_table13_1", "referenced_by": ["0x960FE"]}
+{"ea": "0x2265AA", "name": "GCC_except_table15_0", "referenced_by": ["0x963F0"]}
+{"ea": "0x2265BA", "name": "GCC_except_table17_1", "referenced_by": ["0x9725A"]}
+{"ea": "0x2265C6", "name": "GCC_except_table18_1", "referenced_by": ["0x974FA"]}
+{"ea": "0x2265CE", "name": "GCC_except_table19_1", "referenced_by": ["0x9760A"]}
+{"ea": "0x2265F0", "name": "GCC_except_table20_1", "referenced_by": ["0x979D2"]}
+{"ea": "0x226612", "name": "GCC_except_table23_1", "referenced_by": ["0x984C4"]}
+{"ea": "0x22661A", "name": "GCC_except_table24_1", "referenced_by": ["0x9877C"]}
+{"ea": "0x226622", "name": "GCC_except_table25_0", "referenced_by": ["0x98880"]}
+{"ea": "0x22662A", "name": "GCC_except_table26_1", "referenced_by": ["0x989A8"]}
+{"ea": "0x2267BB", "name": "GCC_except_table29_0", "referenced_by": ["0x9AAE8"]}
+{"ea": "0x2267D7", "name": "GCC_except_table30_0", "referenced_by": ["0x9AFF2"]}
+{"ea": "0x226996", "name": "GCC_except_table31_0", "referenced_by": ["0xA14B4"]}
+{"ea": "0x22699E", "name": "GCC_except_table32_0", "referenced_by": ["0xA26E0"]}
+{"ea": "0x2269C4", "name": "GCC_except_table33_0", "referenced_by": ["0xA2E50"]}
+{"ea": "0x2269E2", "name": "GCC_except_table34_0", "referenced_by": ["0xA348E"]}
+{"ea": "0x2269F2", "name": "GCC_except_table35_0", "referenced_by": ["0xA3A40"]}
+{"ea": "0x2269FA", "name": "GCC_except_table36", "referenced_by": ["0xA3DF0"]}
+{"ea": "0x226A02", "name": "GCC_except_table37", "referenced_by": ["0xA4124"]}
+{"ea": "0x226A95", "name": "GCC_except_table39", "referenced_by": ["0xA64CE"]}
+{"ea": "0x226A9D", "name": "GCC_except_table40", "referenced_by": ["0xA671E"]}
+{"ea": "0x226AA5", "name": "GCC_except_table41", "referenced_by": ["0xA69AE"]}
+{"ea": "0x226AB5", "name": "GCC_except_table42", "referenced_by": ["0xA6F70"]}
+{"ea": "0x226AC1", "name": "GCC_except_table43", "referenced_by": ["0xA72E2"]}
+{"ea": "0x226AC9", "name": "GCC_except_table44", "referenced_by": ["0xA7434"]}
+{"ea": "0x226EEE", "name": "GCC_except_table46", "referenced_by": ["0xB7DB0"]}
+{"ea": "0x226EF6", "name": "GCC_except_table47", "referenced_by": ["0xB7F5E"]}
+{"ea": "0x226EFE", "name": "GCC_except_table3_7", "referenced_by": ["0xB8C90"]}
+{"ea": "0x226F04", "name": "GCC_except_table5_6", "referenced_by": ["0xB9990"]}
+{"ea": "0x226F0C", "name": "GCC_except_table6_5", "referenced_by": ["0xBAC3C"]}
+{"ea": "0x226F14", "name": "GCC_except_table7_5", "referenced_by": ["0xBAEAC"]}
+{"ea": "0x226F8E", "name": "GCC_except_table12_2", "referenced_by": ["0xBC106"]}
+{"ea": "0x226F96", "name": "GCC_except_table13_2", "referenced_by": ["0xBC222"]}
+{"ea": "0x226FA2", "name": "GCC_except_table15_1", "referenced_by": ["0xBC6BA"]}
+{"ea": "0x226FAE", "name": "GCC_except_table17_2", "referenced_by": ["0xBCBB8"]}
+{"ea": "0x226FB6", "name": "GCC_except_table18_2", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x226FBE", "name": "GCC_except_table19_2", "referenced_by": ["0xBD7C8"]}
+{"ea": "0x226FC4", "name": "GCC_except_table20_2", "referenced_by": ["0xBD978"]}
+{"ea": "0x226FCA", "name": "GCC_except_table21_2", "referenced_by": ["0xBDFB8"]}
+{"ea": "0x226FDE", "name": "GCC_except_table22_0", "referenced_by": ["0xBE65C"]}
+{"ea": "0x226FEA", "name": "GCC_except_table23_2", "referenced_by": ["0xBEB28"]}
+{"ea": "0x226FF2", "name": "GCC_except_table24_2", "referenced_by": ["0xBEDA6"]}
+{"ea": "0x226FFA", "name": "GCC_except_table25_1", "referenced_by": ["0xBF0EA"]}
+{"ea": "0x227002", "name": "GCC_except_table26_2", "referenced_by": ["0xBF406"]}
+{"ea": "0x22700A", "name": "GCC_except_table27_1", "referenced_by": ["0xBF784"]}
+{"ea": "0x22701E", "name": "GCC_except_table28_2", "referenced_by": ["0xBFE94"]}
+{"ea": "0x22702C", "name": "GCC_except_table29_1", "referenced_by": ["0xC0336"]}
+{"ea": "0x227036", "name": "GCC_except_table30_1", "referenced_by": ["0xC076A"]}
+{"ea": "0x227338", "name": "GCC_except_table39_0", "referenced_by": ["0xC5E26"]}
+{"ea": "0x227344", "name": "GCC_except_table40_0", "referenced_by": ["0xC6232"]}
+{"ea": "0x227366", "name": "GCC_except_table1_9", "referenced_by": ["0xC966E"]}
+{"ea": "0x22736E", "name": "GCC_except_table3_11", "referenced_by": ["0xC97E4"]}
+{"ea": "0x227376", "name": "GCC_except_table4_8", "referenced_by": ["0xC999A"]}
+{"ea": "0x227386", "name": "GCC_except_table5_10", "referenced_by": ["0xC9CE0"]}
+{"ea": "0x2273AA", "name": "GCC_except_table6_9", "referenced_by": ["0xCA2A4"]}
+{"ea": "0x227446", "name": "GCC_except_table16_4", "referenced_by": ["0xCBAF4"]}
+{"ea": "0x227476", "name": "GCC_except_table18_5", "referenced_by": ["0xCC018"]}
+{"ea": "0x227490", "name": "GCC_except_table19_4", "referenced_by": ["0xCC6F0"]}
+{"ea": "0x227498", "name": "GCC_except_table20_5", "referenced_by": ["0xCC9E4"]}
+{"ea": "0x2274A0", "name": "GCC_except_table21_4", "referenced_by": ["0xCCC50"]}
+{"ea": "0x2274A8", "name": "GCC_except_table22_3", "referenced_by": ["0xCCECC"]}
+{"ea": "0x2274B0", "name": "GCC_except_table23_5", "referenced_by": ["0xCD05A"]}
+{"ea": "0x2274B8", "name": "GCC_except_table24_4", "referenced_by": ["0xCD1E2"]}
+{"ea": "0x2274C6", "name": "GCC_except_table0_12", "referenced_by": ["0xCE1EC"]}
+{"ea": "0x2274D2", "name": "GCC_except_table1_11", "referenced_by": ["0xCE384"]}
+{"ea": "0x2274FA", "name": "GCC_except_table6_10", "referenced_by": ["0xCED0C"]}
+{"ea": "0x227506", "name": "GCC_except_table7_9", "referenced_by": ["0xCF05E"]}
+{"ea": "0x22754A", "name": "GCC_except_table3_13", "referenced_by": ["0xCFDB4"]}
+{"ea": "0x227556", "name": "GCC_except_table6_11", "referenced_by": ["0xD0024"]}
+{"ea": "0x227562", "name": "GCC_except_table7_10", "referenced_by": ["0xD0608"]}
+{"ea": "0x22756A", "name": "GCC_except_table11_7", "referenced_by": ["0xD09DC"]}
+{"ea": "0x227574", "name": "GCC_except_table12_7", "referenced_by": ["0xD0ED6"]}
+{"ea": "0x22757C", "name": "GCC_except_table13_7", "referenced_by": ["0xD105A"]}
+{"ea": "0x22758A", "name": "GCC_except_table16_5", "referenced_by": ["0xD15E4"]}
+{"ea": "0x227596", "name": "GCC_except_table18_6", "referenced_by": ["0xD1F90"]}
+{"ea": "0x22771B", "name": "GCC_except_table21_5", "referenced_by": ["0xD41BA"]}
+{"ea": "0x22775F", "name": "GCC_except_table23_6", "referenced_by": ["0xD5308"]}
+{"ea": "0x227767", "name": "GCC_except_table24_5", "referenced_by": ["0xD6504"]}
+{"ea": "0x227783", "name": "GCC_except_table25_3", "referenced_by": ["0xD6A0E"]}
+{"ea": "0x227942", "name": "GCC_except_table26_4", "referenced_by": ["0xDCAA6"]}
+{"ea": "0x227A43", "name": "GCC_except_table27_3", "referenced_by": ["0xE1470"]}
+{"ea": "0x227A4D", "name": "GCC_except_table28_4", "referenced_by": ["0xE1704"]}
+{"ea": "0x227A75", "name": "GCC_except_table29_3", "referenced_by": ["0xE1E62"]}
+{"ea": "0x227A7F", "name": "GCC_except_table30_3", "referenced_by": ["0xE20C0"]}
+{"ea": "0x227A87", "name": "GCC_except_table31_2", "referenced_by": ["0xE2A4C"]}
+{"ea": "0x227AB7", "name": "GCC_except_table32_2", "referenced_by": ["0xE3C54"]}
+{"ea": "0x227ABF", "name": "GCC_except_table33_2", "referenced_by": ["0xE3E8E"]}
+{"ea": "0x227AC7", "name": "GCC_except_table34_1", "referenced_by": ["0xE40DE"]}
+{"ea": "0x227ACF", "name": "GCC_except_table35_2", "referenced_by": ["0xE4438"]}
+{"ea": "0x227B56", "name": "GCC_except_table36_1", "referenced_by": ["0xE6550"]}
+{"ea": "0x227B6A", "name": "GCC_except_table37_1", "referenced_by": ["0xE6BC4"]}
+{"ea": "0x227B88", "name": "GCC_except_table38_1", "referenced_by": ["0xE7202"]}
+{"ea": "0x227E61", "name": "GCC_except_table39_1", "referenced_by": ["0xF0FF8"]}
+{"ea": "0x227E69", "name": "GCC_except_table40_1", "referenced_by": ["0xF13B4"]}
+{"ea": "0x227EF4", "name": "GCC_except_table7_11", "referenced_by": ["0xF3294"]}
+{"ea": "0x227F18", "name": "GCC_except_table8_7", "referenced_by": ["0xF3F50"]}
+{"ea": "0x227F2C", "name": "GCC_except_table9_8", "referenced_by": ["0xF4128"]}
+{"ea": "0x227F38", "name": "GCC_except_table10_7", "referenced_by": ["0xF433A"]}
+{"ea": "0x227F44", "name": "GCC_except_table11_8", "referenced_by": ["0xF45DC"]}
+{"ea": "0x227F4C", "name": "GCC_except_table12_8", "referenced_by": ["0xF47A4"]}
+{"ea": "0x227F58", "name": "GCC_except_table15_5", "referenced_by": ["0xF4AF0"]}
+{"ea": "0x227F5E", "name": "GCC_except_table16_6", "referenced_by": ["0xF4F70"]}
+{"ea": "0x227F78", "name": "GCC_except_table22_5", "referenced_by": ["0xF51F0"]}
+{"ea": "0x227F7E", "name": "GCC_except_table23_7", "referenced_by": ["0xF52C2"]}
+{"ea": "0x227F88", "name": "GCC_except_table24_6", "referenced_by": ["0xF55B0"]}
+{"ea": "0x227F90", "name": "GCC_except_table27_4", "referenced_by": ["0xF57BC"]}
+{"ea": "0x228052", "name": "GCC_except_table33_3", "referenced_by": ["0xF78A8"]}
+{"ea": "0x22809C", "name": "GCC_except_table34_2", "referenced_by": ["0xF8D3E"]}
+{"ea": "0x2280A8", "name": "GCC_except_table35_3", "referenced_by": ["0xF90DE"]}
+{"ea": "0x2280B4", "name": "GCC_except_table36_2", "referenced_by": ["0xF93C4"]}
+{"ea": "0x2280EC", "name": "GCC_except_table42_0", "referenced_by": ["0xFA3D2"]}
+{"ea": "0x2280F4", "name": "GCC_except_table43_0", "referenced_by": ["0xFA64C"]}
+{"ea": "0x228118", "name": "GCC_except_table44_0", "referenced_by": ["0xFB2E0"]}
+{"ea": "0x228150", "name": "GCC_except_table45_0", "referenced_by": ["0xFC138"]}
+{"ea": "0x228188", "name": "GCC_except_table46_0", "referenced_by": ["0xFD0C0"]}
+{"ea": "0x2281B4", "name": "GCC_except_table47_0", "referenced_by": ["0xFDF70"]}
+{"ea": "0x2281E8", "name": "GCC_except_table48", "referenced_by": ["0xFEC34"]}
+{"ea": "0x2281F4", "name": "GCC_except_table49", "referenced_by": ["0xFEF68"]}
+{"ea": "0x228246", "name": "GCC_except_table50", "referenced_by": ["0x10071E"]}
+{"ea": "0x228252", "name": "GCC_except_table51", "referenced_by": ["0x100B1E"]}
+{"ea": "0x22828E", "name": "GCC_except_table52", "referenced_by": ["0x101AD2"]}
+{"ea": "0x2282A6", "name": "GCC_except_table53", "referenced_by": ["0x10218C"]}
+{"ea": "0x228306", "name": "GCC_except_table54", "referenced_by": ["0x10363E"]}
+{"ea": "0x228382", "name": "GCC_except_table55", "referenced_by": ["0x1056DC"]}
+{"ea": "0x2283AA", "name": "GCC_except_table56", "referenced_by": ["0x10600A"]}
+{"ea": "0x2284F1", "name": "GCC_except_table57", "referenced_by": ["0x10A2E8"]}
+{"ea": "0x2284FF", "name": "GCC_except_table58", "referenced_by": ["0x10A69A"]}
+{"ea": "0x228513", "name": "GCC_except_table59", "referenced_by": ["0x10B036"]}
+{"ea": "0x22853D", "name": "GCC_except_table60", "referenced_by": ["0x10B93A"]}
+{"ea": "0x22863E", "name": "GCC_except_table4_12", "referenced_by": ["0x1102E0"]}
+{"ea": "0x2287E5", "name": "GCC_except_table0_18", "referenced_by": ["0x1155DC"]}
+{"ea": "0x2287FB", "name": "GCC_except_table2_18", "referenced_by": ["0x115AFC"]}
+{"ea": "0x22880D", "name": "GCC_except_table4_14", "referenced_by": ["0x115CC4"]}
+{"ea": "0x2289B4", "name": "GCC_except_table33_4", "referenced_by": ["0x117CFC"]}
+{"ea": "0x2289C4", "name": "GCC_except_table35_4", "referenced_by": ["0x117DAE"]}
+{"ea": "0x2289CA", "name": "GCC_except_table36_3", "referenced_by": ["0x117E7C"]}
+{"ea": "0x228A08", "name": "GCC_except_table41_2", "referenced_by": ["0x117F54"]}
+{"ea": "0x228A58", "name": "GCC_except_table46_1", "referenced_by": ["0x118036"]}
+{"ea": "0x228A92", "name": "GCC_except_table50_0", "referenced_by": ["0x118514"]}
+{"ea": "0x228AA4", "name": "GCC_except_table52_0", "referenced_by": ["0x1186E6"]}
+{"ea": "0x228AB6", "name": "GCC_except_table54_0", "referenced_by": ["0x1189EC"]}
+{"ea": "0x228ABE", "name": "GCC_except_table56_0", "referenced_by": ["0x119102"]}
+{"ea": "0x228AEE", "name": "GCC_except_table60_0", "referenced_by": ["0x1198AC"]}
+{"ea": "0x228C04", "name": "GCC_except_table38_4", "referenced_by": ["0x11D3FE"]}
+{"ea": "0x228C20", "name": "GCC_except_table39_4", "referenced_by": ["0x11D7B8"]}
+{"ea": "0x228C42", "name": "GCC_except_table3_21", "referenced_by": ["0x120098"]}
+{"ea": "0x228C4A", "name": "GCC_except_table4_18", "referenced_by": ["0x1201A8"]}
+{"ea": "0x228C56", "name": "GCC_except_table5_18", "referenced_by": ["0x12041A"]}
+{"ea": "0x228C66", "name": "GCC_except_table6_17", "referenced_by": ["0x1205B2"]}
+{"ea": "0x228C6E", "name": "GCC_except_table7_14", "referenced_by": ["0x120804"]}
+{"ea": "0x228C76", "name": "GCC_except_table8_12", "referenced_by": ["0x120AC4"]}
+{"ea": "0x228C94", "name": "GCC_except_table16_11", "referenced_by": ["0x1210EC"]}
+{"ea": "0x228C9C", "name": "GCC_except_table17_12", "referenced_by": ["0x12125E"]}
+{"ea": "0x228CAE", "name": "GCC_except_table18_10", "referenced_by": ["0x1217A8"]}
+{"ea": "0x228CCA", "name": "GCC_except_table19_7", "referenced_by": ["0x121A98"]}
+{"ea": "0x228CEA", "name": "GCC_except_table20_10", "referenced_by": ["0x122E38"]}
+{"ea": "0x228CF2", "name": "GCC_except_table21_7", "referenced_by": ["0x123106"]}
+{"ea": "0x228D06", "name": "GCC_except_table22_8", "referenced_by": ["0x1236E0"]}
+{"ea": "0x228D16", "name": "GCC_except_table23_9", "referenced_by": ["0x123B70"]}
+{"ea": "0x228D68", "name": "GCC_except_table10_10", "referenced_by": ["0x124F82"]}
+{"ea": "0x228D70", "name": "GCC_except_table11_12", "referenced_by": ["0x125072"]}
+{"ea": "0x228D7A", "name": "GCC_except_table13_11", "referenced_by": ["0x125156"]}
+{"ea": "0x228D80", "name": "GCC_except_table15_9", "referenced_by": ["0x12530C"]}
+{"ea": "0x228DAA", "name": "GCC_except_table20_11", "referenced_by": ["0x1261D2"]}
+{"ea": "0x228DB0", "name": "GCC_except_table22_9", "referenced_by": ["0x126626"]}
+{"ea": "0x228DC0", "name": "GCC_except_table24_7", "referenced_by": ["0x126804"]}
+{"ea": "0x228DC8", "name": "GCC_except_table25_6", "referenced_by": ["0x126A36"]}
+{"ea": "0x228DFE", "name": "GCC_except_table28_7", "referenced_by": ["0x126E2E"]}
+{"ea": "0x228E16", "name": "GCC_except_table29_7", "referenced_by": ["0x1270FA"]}
+{"ea": "0x228E28", "name": "GCC_except_table30_7", "referenced_by": ["0x127954"]}
+{"ea": "0x228E46", "name": "GCC_except_table31_6", "referenced_by": ["0x127DAC"]}
+{"ea": "0x228E58", "name": "GCC_except_table32_6", "referenced_by": ["0x1282B8"]}
+{"ea": "0x228E66", "name": "GCC_except_table33_6", "referenced_by": ["0x1286E4"]}
+{"ea": "0x228E6E", "name": "GCC_except_table34_5", "referenced_by": ["0x128AB4"]}
+{"ea": "0x228E82", "name": "GCC_except_table35_6", "referenced_by": ["0x1291D0"]}
+{"ea": "0x228E96", "name": "GCC_except_table36_5", "referenced_by": ["0x1298D0"]}
+{"ea": "0x228EC2", "name": "GCC_except_table37_5", "referenced_by": ["0x12A070"]}
+{"ea": "0x228EC8", "name": "GCC_except_table38_5", "referenced_by": ["0x12A178"]}
+{"ea": "0x228F04", "name": "GCC_except_table39_5", "referenced_by": ["0x12AA2C"]}
+{"ea": "0x228F0E", "name": "GCC_except_table41_3", "referenced_by": ["0x12AE48"]}
+{"ea": "0x228F16", "name": "GCC_except_table42_2", "referenced_by": ["0x12B0AC"]}
+{"ea": "0x228F1E", "name": "GCC_except_table43_2", "referenced_by": ["0x12B1BA"]}
+{"ea": "0x228F2C", "name": "GCC_except_table44_2", "referenced_by": ["0x12B65C"]}
+{"ea": "0x228F48", "name": "GCC_except_table45_2", "referenced_by": ["0x12BD44"]}
+{"ea": "0x22A0A0", "name": "__ZNKSt6vectorIPN9Triniti2D10GameObjectESaIS2_EE4sizeEv_ptr", "referenced_by": ["0x700C", "0x7BBE", "0x97F8", "0xA3BA", "0xA4D0", "0xA6CC", "0xAEA0", "0x16248", "0x16478", "0x16AF0", "0x94C3E", "0x956B6", "0x9877C", "0x98880", "0x989A8", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xC966E", "0x120098", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22A0A4", "name": "__ZN7DinoCap15g_ca_house3DataE_ptr", "referenced_by": ["0x72DC"]}
+{"ea": "0x22A0A8", "name": "__ZTIN9Triniti2D18GameObjectCallBackE_ptr", "referenced_by": ["0x6E1C", "0x71EA", "0x72DC", "0xA3BA", "0xA4D0", "0xA6CC", "0x10954", "0x10B94", "0x10CBC", "0x11784", "0x119F6", "0x11C9C", "0x1226C", "0x12756", "0x12A46", "0x156D4", "0x16248", "0x16478", "0x167A6", "0x16AF0", "0x956B6", "0x957E0", "0x96914", "0x9725A", "0x98880", "0x989A8", "0xA108A", "0xA1348", "0xA14B4", "0xA2E50", "0xA7434", "0xB7F5E", "0xB8BC6", "0xB8C90", "0xBC222", "0xBC868", "0xBCA10", "0xBCBB8", "0xBCDEA", "0xBD166", "0xBD978", "0xBDFB8", "0xBE65C", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xBF784", "0xBFE94", "0xC966E", "0xC999A", "0xCB0EA", "0xCB4FE", "0xD0024", "0xD105A", "0xD15E4", "0xD5308", "0xDCAA6", "0xE1040", "0xE1304", "0xE1470", "0xE6BC4", "0xE7202", "0xF0FF8", "0xF4AF0", "0xF4D30", "0xF4F70", "0xF8D3E", "0x115344", "0x11FBDA", "0x11FEB6", "0x1201A8", "0x1206FC", "0x120E38", "0x1210EC", "0x121A98", "0x122E38", "0x123106", "0x1236E0", "0x123B70", "0x12530C", "0x126804", "0x126A36", "0x1282B8", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22A0B0", "name": "___gxx_personality_sj0_ptr", "referenced_by": ["0x700C", "0x77A4", "0x7988", "0x7DBC", "0x97F8", "0xA3BA", "0xA4D0", "0xA6CC", "0xAEA0", "0xB8EC", "0xBDB4", "0xC100", "0xC2DA", "0xC4DA", "0xC9C4", "0xCC8A", "0xEDBC", "0xF014", "0xF14E", "0xF4B0", "0x10CBC", "0x11C9C", "0x1226C", "0x12756", "0x12CA8", "0x140FC", "0x1442A", "0x14918", "0x16248", "0x16478", "0x16AF0", "0x174DE", "0x17818", "0x1A36C", "0x1A448", "0x3B8AC", "0x59AD6", "0x5A1F0", "0x5A6B0", "0x94E8E", "0x9546C", "0x956B6", "0x957E0", "0x95DC0", "0x95F7A", "0x960FE", "0x963F0", "0x9725A", "0x974FA", "0x9760A", "0x979D2", "0x984C4", "0x9877C", "0x98880", "0x989A8", "0x9AAE8", "0x9AFF2", "0xA14B4", "0xA26E0", "0xA2E50", "0xA348E", "0xA3A40", "0xA3DF0", "0xA4124", "0xA64CE", "0xA671E", "0xA69AE", "0xA6F70", "0xA72E2", "0xA7434", "0xB7DB0", "0xB7F5E", "0xB8C90", "0xB9990", "0xBAC3C", "0xBAEAC", "0xBC106", "0xBC222", "0xBC6BA", "0xBCBB8", "0xBCDEA", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xBF406", "0xBF784", "0xBFE94", "0xC0336", "0xC076A", "0xC5E26", "0xC6232", "0xC966E", "0xC97E4", "0xC999A", "0xC9CE0", "0xCA2A4", "0xCBAF4", "0xCC018", "0xCC6F0", "0xCC9E4", "0xCCC50", "0xCCECC", "0xCD05A", "0xCD1E2", "0xCE1EC", "0xCE384", "0xCED0C", "0xCF05E", "0xCFDB4", "0xD0024", "0xD0608", "0xD09DC", "0xD0ED6", "0xD105A", "0xD15E4", "0xD1F90", "0xD41BA", "0xD5308", "0xD6504", "0xD6A0E", "0xDCAA6", "0xE1470", "0xE1704", "0xE1E62", "0xE20C0", "0xE2A4C", "0xE3C54", "0xE3E8E", "0xE40DE", "0xE4438", "0xE6550", "0xE6BC4", "0xE7202", "0xF0FF8", "0xF13B4", "0xF3294", "0xF3F50", "0xF4128", "0xF433A", "0xF45DC", "0xF47A4", "0xF4AF0", "0xF4F70", "0xF51F0", "0xF52C2", "0xF55B0", "0xF57BC", "0xF78A8", "0xF8D3E", "0xF90DE", "0xF93C4", "0xFA3D2", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0xFDF70", "0xFEC34", "0xFEF68", "0x10071E", "0x100B1E", "0x101AD2", "0x10218C", "0x10363E", "0x1056DC", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x1102E0", "0x1155DC", "0x115AFC", "0x115CC4", "0x117CFC", "0x117DAE", "0x117E7C", "0x117F54", "0x118036", "0x118514", "0x1186E6", "0x1189EC", "0x119102", "0x1198AC", "0x11D3FE", "0x11D7B8", "0x120098", "0x1201A8", "0x12041A", "0x1205B2", "0x120804", "0x120AC4", "0x1210EC", "0x12125E", "0x1217A8", "0x121A98", "0x122E38", "0x123106", "0x1236E0", "0x123B70", "0x124F82", "0x125072", "0x125156", "0x12530C", "0x1261D2", "0x126626", "0x126804", "0x126A36", "0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x1298D0", "0x12A070", "0x12A178", "0x12AA2C", "0x12AE48", "0x12B0AC", "0x12B1BA", "0x12B65C", "0x12BD44"]}
+{"ea": "0x22A0B8", "name": "__ZN7DinoCap15g_ca_house1DataE_ptr", "referenced_by": ["0x72DC"]}
+{"ea": "0x22A0C0", "name": "__ZTIN9Triniti2D13SceneCallBackE_ptr", "referenced_by": ["0x6E1C", "0x71EA", "0x7566", "0x10CBC", "0x119F6", "0x1226C", "0x12756", "0x12A46", "0x140FC", "0x15E2A", "0x15E8A", "0x15EEA", "0x16248", "0x16478", "0x16AF0", "0x957E0", "0xA108A", "0xA1348", "0xB8944", "0xB8C90", "0xB96F8", "0xBAC3C", "0xBAEAC", "0xBB054", "0xBC868", "0xBCA10", "0xBCBB8", "0xBCDEA", "0xBD166", "0xBD3C8", "0xBD668", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC076A", "0xCB0EA", "0xCB4FE", "0xD0024", "0xE1040", "0xE1304", "0x110838", "0x11FA80", "0x120CBE", "0x121A98", "0x122E38", "0x1236E0", "0x123B70", "0x124722", "0x125292", "0x12530C", "0x125C36", "0x126804", "0x126A36", "0x1270FA", "0x127342", "0x127DAC", "0x12815C", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x1298D0", "0x12AA2C", "0x12AE48", "0x12B1BA"]}
+{"ea": "0x22A0C4", "name": "__ZN7DinoCap16g_manager_WeaponE_ptr", "referenced_by": ["0x71EA", "0x1442A", "0x14918", "0x156D4", "0x16478", "0x9546C", "0xA26E0", "0xBAC3C", "0xBC222", "0xBC6BA", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xE1704", "0xF52C2", "0xF78A8", "0xFEF68", "0x10218C", "0x10B93A", "0x10E024", "0x110046", "0x110838", "0x123B70", "0x125156", "0x1261D2", "0x127954", "0x128AB4", "0x1291D0", "0x1298D0", "0x12AA2C", "0x12AE48", "0x12B1BA"]}
+{"ea": "0x22A0C8", "name": "__ZTIN7DinoCap9mainSceneE_ptr", "referenced_by": ["0x6E1C", "0x71EA", "0x7566", "0x10CBC", "0x119F6", "0x1226C", "0x12756", "0x12A46", "0x140FC", "0x15E8A", "0x15EEA", "0x16248", "0x16478", "0x16AF0", "0xB8944", "0xB8C90", "0xB96F8", "0xBAC3C", "0xBAEAC", "0xBB054", "0xBC868", "0xBCA10", "0xBCBB8", "0xBCDEA", "0xBD166", "0xBD3C8", "0xBD668", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC076A", "0xD0024", "0xE1040", "0xE1304", "0x11FA80", "0x122E38", "0x1236E0", "0x125292", "0x12530C", "0x125C36", "0x126804", "0x126A36", "0x1270FA", "0x127342", "0x127DAC", "0x12815C", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x1298D0", "0x12AA2C", "0x12AE48", "0x12B1BA"]}
+{"ea": "0x22A0CC", "name": "__ZTIN7DinoCap11playerClassE_ptr", "referenced_by": ["0x6E1C", "0x10B94", "0x11784", "0x156D4", "0x167A6", "0x96914", "0x9725A", "0xA14B4", "0xA7434", "0xB7F5E", "0xD15E4", "0xD5308", "0xE7202", "0xF0FF8", "0x11FBDA", "0x11FEB6", "0x1206FC", "0x120E38", "0x121A98", "0x123106", "0x1236E0", "0x123B70"]}
+{"ea": "0x22A0D0", "name": "__ZTIN7DinoCap13CAObjCallBackE_ptr", "referenced_by": ["0x72DC", "0xC999A"]}
+{"ea": "0x22A0D4", "name": "__ZTIN7DinoCap9itemClassE_ptr", "referenced_by": ["0x71EA", "0x115344"]}
+{"ea": "0x22A0D8", "name": "__ZN7DinoCap15g_ca_house2DataE_ptr", "referenced_by": ["0x72DC"]}
+{"ea": "0x22A0E4", "name": "__ZN7DinoCap8g_iphoneE_ptr", "referenced_by": ["0x7988", "0x7DBC", "0x97F8", "0x10A4C", "0x10CBC", "0x11784", "0x11BA4", "0x11C9C", "0x121D4", "0x1226C", "0x12756", "0x12CA8", "0x1442A", "0x16478", "0x167A6", "0x94C6C", "0x94D68", "0x95228", "0x957E0", "0x95DC0", "0x95F7A", "0x960FE", "0x96914", "0x9725A", "0x979D2", "0x984C4", "0x9AAE8", "0x9AFF2", "0xA108A", "0xA1348", "0xA14B4", "0xA2D6E", "0xA2E50", "0xA348E", "0xA38C2", "0xA3A40", "0xA3C52", "0xA3DF0", "0xA4042", "0xA4124", "0xA64CE", "0xA671E", "0xA6F70", "0xA7434", "0xB69E4", "0xB7DB0", "0xB7F5E", "0xB8C90", "0xBB054", "0xBC868", "0xBCA10", "0xBCBB8", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xC0336", "0xC5E26", "0xC6232", "0xC97E4", "0xC999A", "0xC9CE0", "0xCA2A4", "0xCB0EA", "0xCB4FE", "0xCC018", "0xCC410", "0xCC580", "0xCC900", "0xCC9E4", "0xCCB6E", "0xCCC50", "0xCCECC", "0xCD05A", "0xCE93C", "0xCED0C", "0xCF05E", "0xCFDB4", "0xD0024", "0xD0710", "0xD0850", "0xD105A", "0xD15E4", "0xD1F90", "0xD41BA", "0xD5224", "0xD5308", "0xD6504", "0xD6A0E", "0xDCAA6", "0xE1040", "0xE1304", "0xE1470", "0xE20C0", "0xE28AC", "0xE2A4C", "0xE3C54", "0xE3E8E", "0xE40DE", "0xE4356", "0xE4438", "0xE6BC4", "0xE7202", "0xF0FF8", "0xF13B4", "0xF17E6", "0xF3294", "0xF4AF0", "0xF4D30", "0xF4F70", "0xF57BC", "0xF6D42", "0xF6E24", "0xF6F00", "0xF6FC8", "0xF70AC", "0xF78A8", "0xF8D3E", "0xF90DE", "0xF93C4", "0xFA56A", "0xFA64C", "0xFB1FC", "0xFB2E0", "0xFC056", "0xFC138", "0xFCEF6", "0xFCFDC", "0xFD0C0", "0xFDF70", "0xFEC34", "0xFEF68", "0x10071E", "0x100B1E", "0x101AD2", "0x101FC2", "0x1020A8", "0x10218C", "0x10363E", "0x1056DC", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x115508", "0x1155DC", "0x11582A", "0x115CC4", "0x11FBDA", "0x120018", "0x1201A8", "0x1206FC", "0x12090A", "0x1209C0", "0x120E38", "0x12125E", "0x121A98", "0x122E38", "0x123106", "0x1236E0", "0x12530C", "0x126804", "0x127342", "0x128AB4", "0x1291D0", "0x12B1BA", "0x12B65C"]}
+{"ea": "0x22A0E8", "name": "__ZN7DinoCap10g_ground_yE_ptr", "referenced_by": ["0x10A4C", "0x11BA4", "0x11C9C", "0x95DC0", "0x9725A", "0x9AAE8", "0xA7434", "0xD5308", "0xD6504", "0xE1470", "0xE7202", "0xF4AF0", "0xF4D30"]}
+{"ea": "0x22A0F4", "name": "__ZNSt6vectorIN9Triniti2D7Vector2ESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0x97F8", "0x5A6B0", "0xA26E0", "0xE1704", "0xFDF70", "0xFEC34"]}
+{"ea": "0x22A0FC", "name": "__ZNSt6vectorIN9Triniti2D7Vector2ESaIS1_EED2Ev_ptr", "referenced_by": ["0x5A6B0", "0xA26E0", "0xE1704"]}
+{"ea": "0x22A108", "name": "__ZNKSt6vectorIN9Triniti2D7Vector2ESaIS1_EE4sizeEv_ptr", "referenced_by": ["0x5A6B0", "0xA26E0", "0xE1704", "0xF514E", "0xF90DE", "0xF93C4", "0xFDF70", "0xFEC34"]}
+{"ea": "0x22A114", "name": "__ZNSs4_Rep20_S_empty_rep_storageE_ptr", "referenced_by": ["0x97F8", "0x59AD6", "0xBFE94", "0xC0336", "0x12B1BA", "0x12B65C"]}
+{"ea": "0x22A11C", "name": "__ZNSt6vectorIPN9Triniti2D10GameObjectESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0x7566", "0x97F8", "0xAEA0", "0x119F6", "0x15E2A", "0x15E8A", "0x15EEA", "0x9AAE8", "0xCA2A4", "0xD105A", "0xD5308", "0xD6504", "0xDCAA6", "0x1210EC"]}
+{"ea": "0x22A120", "name": "__ZNKSt6vectorIPN7DinoCap7CAFrameESaIS2_EE4sizeEv_ptr", "referenced_by": ["0xA064", "0xB67C", "0xC22A", "0xC4DA", "0xC9C4", "0xCC8A", "0xEDBC", "0xEEFE", "0xF14E"]}
+{"ea": "0x22A124", "name": "__ZN9Triniti2D15_TextureManagerE_ptr", "referenced_by": ["0xA6CC", "0xB8EC", "0xBDB4", "0xC9C4", "0xCC8A", "0xEDBC", "0x174DE", "0x3B8AC", "0x59AD6", "0xA7434", "0xC9CE0", "0xCA2A4", "0xCC018", "0xE7202", "0x10600A", "0x1189EC"]}
+{"ea": "0x22A128", "name": "__ZTIN7DinoCap19CAObjSpriteCallBackE_ptr", "referenced_by": ["0xA3BA", "0xA4D0", "0xA6CC"]}
+{"ea": "0x22A12C", "name": "__ZNSt8_Rb_treeISsSt4pairIKSsPN7DinoCap8CASpriteEESt10_Select1stIS5_ESt4lessISsESaIS5_EE4findERS1__ptr", "referenced_by": ["0xA6CC", "0xC9C4", "0xCC8A", "0xEDBC", "0xEEFE", "0xF014"]}
+{"ea": "0x22A13C", "name": "__ZN7DinoCap13TiXmlDocumentD2Ev_ptr", "referenced_by": ["0xF4B0", "0xA2E50", "0xC5E26", "0xC6232", "0xE6BC4", "0xF3294"]}
+{"ea": "0x22A144", "name": "__ZSt4sortIN9__gnu_cxx17__normal_iteratorIPPN7DinoCap8CASpriteESt6vectorIS4_SaIS4_EEEEPFbPKS3_SB_EEvT_SE_T0__ptr", "referenced_by": ["0xF014", "0xF3A4"]}
+{"ea": "0x22A148", "name": "__ZNSt6vectorIcSaIcEE9push_backERKc_ptr", "referenced_by": ["0xF4B0", "0xC5E26", "0xF3294"]}
+{"ea": "0x22A154", "name": "__ZNKSt6vectorIPN7DinoCap8CASpriteESaIS2_EE4sizeEv_ptr", "referenced_by": ["0xC100", "0xC2DA", "0xEEFE"]}
+{"ea": "0x22A158", "name": "__ZNSt6vectorIPN7DinoCap7CAFrameESaIS2_EED2Ev_ptr", "referenced_by": ["0xF14E"]}
+{"ea": "0x22A15C", "name": "__ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_PKS3__ptr", "referenced_by": ["0xBDB4", "0xC4DA", "0xC9C4", "0xF4B0", "0x59AD6", "0x5A1F0", "0xC9CE0", "0x11D7B8"]}
+{"ea": "0x22A188", "name": "__ZNKSt6vectorIPN7DinoCap7CAFrameESaIS2_EE5emptyEv_ptr", "referenced_by": ["0xF14E"]}
+{"ea": "0x22A194", "name": "__ZN7DinoCap7g_scaleE_ptr", "referenced_by": ["0xB8EC", "0xBDB4", "0xC9CE0"]}
+{"ea": "0x22A198", "name": "__ZNSt3mapISsPN7DinoCap8CASpriteESt4lessISsESaISt4pairIKSsS2_EEEixERS6__ptr", "referenced_by": ["0xC100", "0xC2DA", "0xC404", "0xF014", "0xF3A4"]}
+{"ea": "0x22A1A4", "name": "__ZN9Triniti2D12_FileManagerE_ptr", "referenced_by": ["0xC4DA", "0xF4B0", "0x59AD6", "0xA2E50", "0xC5E26", "0xC6232", "0xC9CE0", "0xE6BC4", "0xF3294", "0x11D7B8"]}
+{"ea": "0x22A1C8", "name": "__ZNSt6vectorIPN7DinoCap8CASpriteESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0xC100", "0xC2DA", "0xC404", "0xF014", "0xF3A4"]}
+{"ea": "0x22A1E4", "name": "__ZN9Triniti2D15BlockReadBuffer4readEPcm_ptr", "referenced_by": ["0xB8EC", "0xC404", "0xC4DA", "0x11CAE0", "0x11D3FE"]}
+{"ea": "0x22A1EC", "name": "__ZNSt6vectorIPN7DinoCap7CAFrameESaIS2_EEaSERKS4__ptr", "referenced_by": ["0xF14E"]}
+{"ea": "0x22A1F8", "name": "__ZN9Triniti2D4LerpINS_7Vector2EEET_RKS2_S4_f_ptr", "referenced_by": ["0xB73C", "0xCD796", "0xCDA98", "0x124722"]}
+{"ea": "0x22A214", "name": "__ZNSt6vectorIcSaIcEED2Ev_ptr", "referenced_by": ["0xC4DA", "0xF4B0", "0x59AD6", "0xA2E50", "0xC5E26", "0xC6232", "0xC9CE0", "0xE6BC4", "0xF3294", "0x11D7B8"]}
+{"ea": "0x22A228", "name": "__ZNSt6vectorIPN7DinoCap7CAFrameESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0xC22A", "0xC4DA", "0xF14E", "0xF4B0"]}
+{"ea": "0x22A234", "name": "__ZNSt6vectorIPN7DinoCap7CAFrameESaIS2_EE4backEv_ptr", "referenced_by": ["0xF14E"]}
+{"ea": "0x22A24C", "name": "__ZN7DinoCap15g_player_vectorE_ptr", "referenced_by": ["0x1442A", "0x14918", "0x95228", "0x95384", "0x9546C", "0x963F0", "0x9708C", "0x97110", "0x984C4", "0xA7434", "0xB8C90", "0xB9990", "0xBAC3C", "0xBAEAC", "0xBC106", "0xBC222", "0xBC6BA", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC0336", "0xC076A", "0xCFF3A", "0xD09DC", "0xD1F90", "0xE1470", "0xE7202", "0xF4AF0", "0xF51F0", "0xF52C2", "0xF55B0", "0xF78A8", "0xFEF68", "0x100B1E", "0x10218C", "0x10363E", "0x10B93A", "0x1102E0", "0x115CC4", "0x123B70", "0x125156", "0x125292", "0x12530C", "0x1261D2", "0x127954", "0x1282B8", "0x128AB4", "0x1291D0", "0x12A070", "0x12A178", "0x12AA2C", "0x12AE48", "0x12B0AC", "0x12B1BA", "0x12B65C", "0x12BD44"]}
+{"ea": "0x22A25C", "name": "__ZN7DinoCap14g_cur_map_dataE_ptr", "referenced_by": ["0x140FC", "0x94F68", "0xA26E0", "0xA671E", "0xA69AE", "0xA7434", "0xB8944", "0xC5804", "0xD09DC", "0xD14B4", "0xD15E4", "0xE1704", "0xE1E62", "0xE232E", "0xE2A4C", "0xE40DE", "0xE6550", "0xE7202", "0xF4992", "0xFA64C", "0xFD0C0", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x125C36"]}
+{"ea": "0x22A260", "name": "__ZTIN7DinoCap11effectClassE_ptr", "referenced_by": ["0x10954", "0x119F6", "0x11C9C", "0x12A46", "0x956B6", "0x957E0", "0xA108A", "0xA1348", "0xB8BC6", "0xB8C90", "0xBC222", "0xBC868", "0xBCA10", "0xBD978", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xD0024", "0xE1040", "0xE1304", "0x1236E0"]}
+{"ea": "0x22A268", "name": "__ZTIN7DinoCap13particleClassE_ptr", "referenced_by": ["0x10CBC", "0x1226C", "0x12756", "0xBCDEA", "0x122E38", "0x126A36"]}
+{"ea": "0x22A26C", "name": "__ZN7DinoCap15g_ca_shaosiDataE_ptr", "referenced_by": ["0x10A4C"]}
+{"ea": "0x22A270", "name": "__ZN7DinoCap10g_curMapIDE_ptr", "referenced_by": ["0x140FC", "0x94F68", "0xA26E0", "0xA671E", "0xA69AE", "0xA7434", "0xB8944", "0xC5804", "0xD09DC", "0xD14B4", "0xD15E4", "0xE1704", "0xE1E62", "0xE232E", "0xE2A4C", "0xE40DE", "0xE6550", "0xE7202", "0xFA64C", "0xFD0C0", "0x10B93A", "0x125C36"]}
+{"ea": "0x22A274", "name": "__ZTIN7DinoCap13lifeModeSceneE_ptr", "referenced_by": ["0x140FC", "0xBD668", "0x120CBE", "0x121A98", "0x123B70", "0x127DAC", "0x12815C"]}
+{"ea": "0x22A27C", "name": "__ZN7DinoCap14g_p1_kill_dinoE_ptr", "referenced_by": ["0x140FC", "0xA26E0", "0xE1704"]}
+{"ea": "0x22A280", "name": "__ZN7DinoCap10g_map_infoE_ptr", "referenced_by": ["0x140FC", "0x94F68", "0xA26E0", "0xA671E", "0xA69AE", "0xA7434", "0xB8944", "0xC5804", "0xD09DC", "0xD14B4", "0xD15E4", "0xE1704", "0xE1E62", "0xE232E", "0xE2A4C", "0xE40DE", "0xE6550", "0xE7202", "0xF4992", "0xFA64C", "0xFD0C0", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x125C36"]}
+{"ea": "0x22A288", "name": "__ZTIN7DinoCap17playerNewAniClassE_ptr", "referenced_by": ["0x10B94", "0x11784", "0x156D4", "0x167A6", "0x96914", "0x9725A", "0xA14B4", "0xA7434", "0xD15E4", "0xD5308", "0xE7202", "0xF0FF8", "0xF4AF0", "0xF4D30", "0x11FBDA", "0x11FEB6", "0x1206FC", "0x120E38", "0x121A98", "0x123106", "0x1236E0", "0x123B70"]}
+{"ea": "0x22A28C", "name": "__ZN7DinoCap8mapClassC2ERKS0__ptr", "referenced_by": ["0x140FC", "0x3B8AC", "0xD15E4", "0xE1704", "0xE1E62", "0xE7202"]}
+{"ea": "0x22A290", "name": "__ZN7DinoCap9life_ModeE_ptr", "referenced_by": ["0x140FC", "0xBD668", "0xCC8B2", "0xCE384", "0x10B93A", "0x127DAC", "0x12815C"]}
+{"ea": "0x22A298", "name": "__ZN7DinoCap14g_ca_qxEffDataE_ptr", "referenced_by": ["0x12A46", "0x1236E0"]}
+{"ea": "0x22A2A4", "name": "__ZN7DinoCap15playerTypeClassC2ERKS0__ptr", "referenced_by": ["0x1442A", "0x14918", "0x9546C", "0xB9990", "0xE1470", "0xF51F0", "0xF52C2", "0xF55B0", "0xF78A8", "0xFEF68", "0x123B70", "0x12A178"]}
+{"ea": "0x22A2A8", "name": "__ZNKSt6vectorIiSaIiEE4sizeEv_ptr", "referenced_by": ["0x1442A", "0x5960A", "0x94F68", "0x96682", "0xD0CF6", "0xD14B4", "0xD5308", "0xE1470", "0xE1E62", "0xE232E", "0xE7202", "0x10B93A", "0x1189EC"]}
+{"ea": "0x22A2AC", "name": "__ZN9Triniti2D11RandomRangeEii_ptr", "referenced_by": ["0x1226C", "0x140FC", "0x1442A", "0x14918", "0x5A6B0", "0x9AAE8", "0xA108A", "0xA12E0", "0xA1310", "0xA1348", "0xA26E0", "0xD5308", "0xD6504", "0xE1040", "0xE1298", "0xE12C8", "0xE1304", "0xE1470", "0xE1704", "0xF4992", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B036", "0x12125E", "0x121A98", "0x123B70", "0x126A36", "0x1282B8", "0x1286E4", "0x1291D0"]}
+{"ea": "0x22A2B4", "name": "__ZNKSt6vectorIN7DinoCap14subWeaponClassESaIS1_EE4sizeEv_ptr", "referenced_by": ["0x95384", "0x97110", "0xB9990", "0xBAC3C", "0xCFF3A", "0x10363E", "0x12AE48"]}
+{"ea": "0x22A2B8", "name": "__ZN7DinoCap13g_player_typeE_ptr", "referenced_by": ["0x10B94", "0x11784", "0x140FC", "0x1442A", "0x14918", "0x156D4", "0x167A6", "0x95228", "0x95384", "0x9546C", "0x957E0", "0x963F0", "0x96914", "0x9708C", "0x97110", "0x9725A", "0x984C4", "0xA14B4", "0xA26E0", "0xA7434", "0xB7F5E", "0xB8C90", "0xB937C", "0xB95F8", "0xB96F8", "0xB9990", "0xBAC3C", "0xBAEAC", "0xBC222", "0xBC6BA", "0xBCDEA", "0xBD3C8", "0xBD668", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC0336", "0xC076A", "0xC5804", "0xCFF3A", "0xD0024", "0xD09DC", "0xD105A", "0xD15E4", "0xD1F90", "0xD5308", "0xE1470", "0xE1704", "0xE7202", "0xF0FF8", "0xF4992", "0xFD0C0", "0x10218C", "0x10363E", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B93A", "0x115CC4", "0x11FBDA", "0x11FEB6", "0x1206FC", "0x120E38", "0x121A98", "0x123106", "0x1236E0", "0x123B70", "0x125156", "0x125292", "0x12530C", "0x1261D2", "0x126626", "0x126A36", "0x126E2E", "0x127954", "0x127DAC", "0x12815C", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x12A070", "0x12A178", "0x12AA2C", "0x12AE48", "0x12B1BA", "0x12B65C", "0x12BD44"]}
+{"ea": "0x22A2C0", "name": "__ZNSt6vectorIPN9Triniti2D10GameObjectESaIS2_EE5eraseEN9__gnu_cxx17__normal_iteratorIPS2_S4_EE_ptr", "referenced_by": ["0x119F6"]}
+{"ea": "0x22A2C8", "name": "__ZN7DinoCap15g_jigsaw2_countE_ptr", "referenced_by": ["0x14918", "0xF47A4", "0xF78A8", "0xFEF68", "0x10218C", "0x123B70"]}
+{"ea": "0x22A2D8", "name": "__ZN7DinoCap14g_ca_dxEffDataE_ptr", "referenced_by": ["0x12A46", "0x1236E0"]}
+{"ea": "0x22A2DC", "name": "__ZN7DinoCap13g_prop_PlayerE_ptr", "referenced_by": ["0x140FC", "0x95228", "0x963F0", "0x9708C", "0x984C4", "0xA26E0", "0xA7434", "0xB8A60", "0xB95F8", "0xBB054", "0xBD166", "0xBD3C8", "0xBD978", "0xBF406", "0xC5804", "0xC5E26", "0xCA2A4", "0xD09DC", "0xD105A", "0xD1F90", "0xD5308", "0xE1704", "0xE7202", "0xF45DC", "0xF46D2", "0xF4992", "0xF52C2", "0xF55B0", "0xFD0C0", "0x100B1E", "0x101AD2", "0x10218C", "0x10363E", "0x1056DC", "0x10A2E8", "0x10A69A", "0x10B93A", "0x110838", "0x115CC4", "0x121A98", "0x123B70", "0x125D54", "0x127342", "0x1282B8", "0x1286E4", "0x12AA2C"]}
+{"ea": "0x22A2E4", "name": "__ZN7DinoCap14g_ca_dahuoDataE_ptr", "referenced_by": ["0x11C9C"]}
+{"ea": "0x22A2E8", "name": "__ZNK9Triniti2D4Rect8PtInRectERKNS_7Vector2E_ptr", "referenced_by": ["0x16248", "0x96914", "0xCD542", "0xD15E4", "0xF57BC"]}
+{"ea": "0x22A2EC", "name": "__ZTIN7DinoCap9menuSceneE_ptr", "referenced_by": ["0x15E2A"]}
+{"ea": "0x22A2F0", "name": "__ZN7DinoCap12g_b_FireDownE_ptr", "referenced_by": ["0x16AF0", "0x9636A", "0x96914", "0xA7434", "0xB7F5E", "0xBAC3C", "0xBB054", "0xBC222", "0xBD978", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xBF406", "0xC076A", "0xD0958", "0xD15E4", "0xE7202", "0xF0FF8", "0x110838", "0x125292", "0x1261D2", "0x127342", "0x1298D0", "0x12AA2C", "0x12AE48"]}
+{"ea": "0x22A2F4", "name": "__ZN7DinoCap11weaponClassC2ERKS0__ptr", "referenced_by": ["0x16478", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xF52C2", "0xF78A8", "0xFEF68", "0x10218C", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22A2F8", "name": "__ZTIN7DinoCap13dinosaurClassE_ptr", "referenced_by": ["0x16248", "0x16478", "0x16AF0", "0xBD166", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xD5308", "0x1282B8", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22A2FC", "name": "__ZTIN7DinoCap5bossNE_ptr", "referenced_by": ["0x16248", "0x16478", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xD105A", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22A300", "name": "__ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_S8__ptr", "referenced_by": ["0x59AD6", "0x117DAE", "0x118514", "0x1186E6", "0x1189EC", "0x11D3FE"]}
+{"ea": "0x22A30C", "name": "__ZNSt6vectorIbSaIbEEixEm_ptr", "referenced_by": ["0x5960A", "0xA26E0", "0xE1704", "0xE1E62"]}
+{"ea": "0x22A310", "name": "__ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_EPKS3_RKS6__ptr", "referenced_by": ["0x5A1F0"]}
+{"ea": "0x22A320", "name": "__ZN9Triniti2D6ModuleINS_13WebGameClientEE10m_instanceE_ptr", "referenced_by": ["0x979D2", "0xCBAF4", "0xD41BA", "0xF93C4"]}
+{"ea": "0x22A328", "name": "__ZNSt6vectorIcSaIcEEC2ERKS1__ptr", "referenced_by": ["0x59AD6"]}
+{"ea": "0x22A330", "name": "__ZNKSt6vectorIbSaIbEE4sizeEv_ptr", "referenced_by": ["0x5960A", "0xA26E0", "0xE1704"]}
+{"ea": "0x22A338", "name": "__ZN9Triniti2D13_AudioManagerE_ptr", "referenced_by": ["0x1A36C", "0x1A448", "0xA69AE", "0xCE384", "0xE2A4C", "0xE6550", "0xF433A", "0x10B93A"]}
+{"ea": "0x22A348", "name": "__ZN7DinoCap18g_player_eff_zidanE_ptr", "referenced_by": ["0x12530C"]}
+{"ea": "0x22A354", "name": "__ZN7DinoCap17g_player_fire_effE_ptr", "referenced_by": ["0x12530C"]}
+{"ea": "0x22A358", "name": "__ZN7DinoCap9g_prop_k4E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A35C", "name": "__ZN7DinoCap9g_prop_k2E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A360", "name": "__ZN7DinoCap20g_player_behit_shortE_ptr", "referenced_by": ["0x1282B8", "0x1298D0"]}
+{"ea": "0x22A364", "name": "__ZN7DinoCap10g_prop_k11E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A368", "name": "__ZN7DinoCap10g_prop_k15E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A374", "name": "__ZN7DinoCap16g_ca_boss_huoyanE_ptr", "referenced_by": ["0x123106"]}
+{"ea": "0x22A378", "name": "__ZN7DinoCap12g_player_dieE_ptr", "referenced_by": ["0x126A36"]}
+{"ea": "0x22A37C", "name": "__ZN7DinoCap18g_player_fire_longE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A380", "name": "__ZN7DinoCap19g_player_roll_startE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A384", "name": "__ZN7DinoCap18g_ca_levelup_2_EFFE_ptr", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x22A390", "name": "__ZN7DinoCap9g_prop_k9E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A394", "name": "__ZN7DinoCap9g_prop_k7E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A398", "name": "__ZN7DinoCap19g_player_behit_longE_ptr", "referenced_by": ["0x1282B8", "0x1298D0"]}
+{"ea": "0x22A3A4", "name": "__ZN7DinoCap14g_ca_4pDieDataE_ptr", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x22A3AC", "name": "__ZN7DinoCap10g_prop_k14E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A3C0", "name": "__ZN7DinoCap16t_ca_2pStandDataE_ptr", "referenced_by": ["0xF4D30"]}
+{"ea": "0x22A3C4", "name": "__ZN7DinoCap15g_ca_p4_RollEffE_ptr", "referenced_by": ["0xBD978"]}
+{"ea": "0x22A3CC", "name": "__ZN7DinoCap10g_prop_k17E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A3D0", "name": "__ZN7DinoCap10g_prop_k19E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A3D8", "name": "__ZN7DinoCap9g_prop_k1E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A3DC", "name": "__ZN7DinoCap14g_ca_qhEffDataE_ptr", "referenced_by": ["0xB8C90"]}
+{"ea": "0x22A3E4", "name": "__ZN7DinoCap19g_player_fire_shortE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A3E8", "name": "__ZN7DinoCap13g_ca_feng1EffE_ptr", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x22A3EC", "name": "__ZN7DinoCap19g_player_stand_longE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A3FC", "name": "__ZN7DinoCap9g_prop_k6E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A404", "name": "__ZN7DinoCap13g_ca_feng4EffE_ptr", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x22A418", "name": "__ZN7DinoCap18g_ca_levelup_3_EFFE_ptr", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x22A41C", "name": "__ZN7DinoCap15g_ca_huoyanDataE_ptr", "referenced_by": ["0xBEB28"]}
+{"ea": "0x22A428", "name": "__ZN7DinoCap19g_player_move_shortE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A434", "name": "__ZN9Triniti2D5_GameE_ptr", "referenced_by": ["0xA69AE", "0xE2A4C", "0xE6550", "0xF3F50", "0x10B93A"]}
+{"ea": "0x22A440", "name": "__ZN7DinoCap10g_prop_k16E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A458", "name": "__ZN7DinoCap16g_ca_jiguangDataE_ptr", "referenced_by": ["0xBEDA6"]}
+{"ea": "0x22A464", "name": "__ZN7DinoCap9g_prop_k3E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A46C", "name": "__ZN7DinoCap10g_prop_k10E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A474", "name": "__ZN7DinoCap17g_ca_egg_che_moveE_ptr", "referenced_by": ["0x974FA"]}
+{"ea": "0x22A478", "name": "__ZN7DinoCap13g_ca_pDieDataE_ptr", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x22A47C", "name": "__ZN7DinoCap18g_ca_egg_che_standE_ptr", "referenced_by": ["0xA7434"]}
+{"ea": "0x22A484", "name": "__ZN7DinoCap14g_lifemodetimeE_ptr", "referenced_by": ["0xA72E2", "0xD0608", "0xD0ED6", "0xE1E62", "0xE2A4C", "0xE7202", "0x10B93A"]}
+{"ea": "0x22A488", "name": "__ZN7DinoCap18g_ca_levelup_4_EFFE_ptr", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x22A494", "name": "__ZN7DinoCap9g_prop_k8E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A49C", "name": "__ZN7DinoCap15g_iphone_retinaE_ptr", "referenced_by": ["0xA7434", "0xCA2A4", "0xE7202", "0xF93C4", "0xFD0C0", "0x10600A"]}
+{"ea": "0x22A4A0", "name": "__ZN7DinoCap15g_ca_yuanliDataE_ptr", "referenced_by": ["0xBF0EA"]}
+{"ea": "0x22A4AC", "name": "__ZN7DinoCap10m_map_typeE_ptr", "referenced_by": ["0xA26E0", "0xA69AE", "0xE1704", "0xE2A4C", "0xE6550", "0xF3F50", "0xF57BC", "0xF93C4", "0x10600A", "0x10B93A"]}
+{"ea": "0x22A4B4", "name": "__ZN7DinoCap15g_lifeProperty1E_ptr", "referenced_by": ["0xD14B4"]}
+{"ea": "0x22A4CC", "name": "__ZN7DinoCap13g_ca_feng2EffE_ptr", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x22A4D4", "name": "__ZN7DinoCap14g_ca_2pDieDataE_ptr", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x22A4E0", "name": "__ZN7DinoCap16g_ca_feibiaoDataE_ptr", "referenced_by": ["0xBC868"]}
+{"ea": "0x22A4E4", "name": "__ZN7DinoCap16g_ca_shandianEffE_ptr", "referenced_by": ["0xA1348", "0xE1304"]}
+{"ea": "0x22A4E8", "name": "__ZN7DinoCap18g_player_move_longE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A4EC", "name": "__ZN7DinoCap10g_prop_k18E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A500", "name": "__ZN7DinoCap9g_prop_k5E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A508", "name": "__ZN7DinoCap10g_prop_k12E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A50C", "name": "__ZN7DinoCap18g_ca_levelup_1_EFFE_ptr", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x22A510", "name": "__ZN7DinoCap13g_ca_feng3EffE_ptr", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x22A514", "name": "__ZN7DinoCap15g_ca_jigsaw_effE_ptr", "referenced_by": ["0xF4F70"]}
+{"ea": "0x22A518", "name": "__ZN7DinoCap10g_prop_k13E_ptr", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x22A520", "name": "__ZN7DinoCap12g_player_hitE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A524", "name": "__ZN7DinoCap15g_ca_baozhaDataE_ptr", "referenced_by": ["0xBFE94", "0x12B1BA"]}
+{"ea": "0x22A52C", "name": "__ZN7DinoCap14g_ca_jupanDataE_ptr", "referenced_by": ["0xBCA10"]}
+{"ea": "0x22A530", "name": "__ZN7DinoCap12g_ca_egg_suiE_ptr", "referenced_by": ["0x9725A"]}
+{"ea": "0x22A534", "name": "__ZN7DinoCap17g_player_roll_endE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A538", "name": "__ZN7DinoCap20g_player_stand_shortE_ptr", "referenced_by": ["0x1298D0"]}
+{"ea": "0x22A53C", "name": "__ZN7DinoCap14g_ca_3pDieDataE_ptr", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x22A5C0", "name": "__ZN9Triniti2D9UIManager13CreateControlIN7DinoCap9pauseCtrlEEEPT_ii_ptr", "referenced_by": ["0x9636A", "0x96914", "0xD0958", "0xD15E4"]}
+{"ea": "0x22A5C4", "name": "__ZN7DinoCap15g_ca_K4ShaoDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A5C8", "name": "__ZN7DinoCap15g_jigsaw_levelsE_ptr", "referenced_by": ["0x96682", "0xD0CF6", "0x10B93A"]}
+{"ea": "0x22A5CC", "name": "__ZN7DinoCap15g_mission_stateE_ptr", "referenced_by": ["0xA26E0", "0xA671E", "0xA69AE", "0xE1704", "0xE40DE", "0xE6550", "0x10B93A"]}
+{"ea": "0x22A5D0", "name": "__ZN7DinoCap15g_ca_K3MoveDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A5D4", "name": "__ZN7DinoCap7g_soundE_ptr", "referenced_by": ["0xA7434", "0xCA2A4", "0xCE384", "0xCED0C", "0xE7202", "0xF433A", "0xFB2E0", "0xFC138", "0x10600A"]}
+{"ea": "0x22A5D8", "name": "__ZTIN7DinoCap12bglayerClassE_ptr", "referenced_by": ["0xDCAA6"]}
+{"ea": "0x22A5DC", "name": "__ZN7DinoCap15g_ca_K3ShaoDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A5E0", "name": "__ZN7DinoCap15g_ca_K3JumpDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A5E4", "name": "__ZNSt6vectorIiSaIiEE9push_backERKi_ptr", "referenced_by": ["0xC5E26", "0xC6232", "0xE7202", "0x10B93A", "0x12125E"]}
+{"ea": "0x22A5E8", "name": "__ZN7DinoCap14g_ca_K4DieDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A5EC", "name": "__ZN7DinoCap18g_max_bullet_countE_ptr", "referenced_by": ["0x95384", "0x97110", "0xCFF3A", "0xF46D2", "0xF55B0", "0xF78A8", "0xFEF68"]}
+{"ea": "0x22A5F0", "name": "__ZN7DinoCap6g_timeE_ptr", "referenced_by": ["0xA7434", "0xE2A4C", "0xE7202"]}
+{"ea": "0x22A5F4", "name": "__ZTIN9Triniti2D9UIControlE_ptr", "referenced_by": ["0xA38C2", "0xA3C52", "0xA69AE", "0xB69E4", "0xCC410", "0xCC580", "0xCC6F0", "0xE28AC", "0xE6550", "0xF17E6", "0xF4128", "0xF433A", "0xF78A8", "0xFA1BA", "0x10B93A"]}
+{"ea": "0x22A5F8", "name": "__ZN7DinoCap10g_h_offsetE_ptr", "referenced_by": ["0x960FE", "0x96914", "0x979D2", "0xA6F70", "0xB7F5E", "0xCF05E", "0xD15E4", "0xD41BA", "0xDCAA6", "0xE20C0", "0xF0FF8", "0xF57BC", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0x1056DC", "0x10600A"]}
+{"ea": "0x22A5FC", "name": "__ZN7DinoCap11g_ongame_fxE_ptr", "referenced_by": ["0xA7434", "0xCA2A4", "0xCE1EC", "0xE7202", "0xF4128", "0x10600A"]}
+{"ea": "0x22A604", "name": "__ZTIN7DinoCap12effectClassNE_ptr", "referenced_by": ["0x957E0", "0x9725A", "0x989A8", "0xA7434", "0xD0024", "0xF4F70", "0x1201A8", "0x123106", "0x12530C"]}
+{"ea": "0x22A608", "name": "__ZN7DinoCap4g_fxE_ptr", "referenced_by": ["0xA7434", "0xCA2A4", "0xCE1EC", "0xCED0C", "0xE7202", "0xF4128", "0xFB2E0", "0xFC138", "0x10600A"]}
+{"ea": "0x22A614", "name": "__ZN7DinoCap10jigsawSeedE_ptr", "referenced_by": ["0x96682", "0xA26E0", "0xD0CF6", "0xE1704"]}
+{"ea": "0x22A618", "name": "__ZN7DinoCap17g_ca_K4AttackDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A61C", "name": "__ZN7DinoCap15g_ca_K2MoveDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A624", "name": "__ZN7DinoCap15g_ca_K4JumpDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A628", "name": "__ZN7DinoCap18g_ca_K5BefiredDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A62C", "name": "__ZN7DinoCap15g_ca_K5Die2DataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A630", "name": "__ZN7DinoCap15g_ca_K5ShaoDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A634", "name": "__ZN7DinoCap10g_w_offsetE_ptr", "referenced_by": ["0x960FE", "0x96914", "0x979D2", "0xA38C2", "0xA3A40", "0xA6F70", "0xB7F5E", "0xCF05E", "0xD15E4", "0xD41BA", "0xE20C0", "0xF0FF8", "0xF57BC", "0xF78A8", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0xFEF68", "0x10071E", "0x10600A"]}
+{"ea": "0x22A63C", "name": "__ZN7DinoCap17g_ca_K2AttackDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A640", "name": "__ZN7DinoCap11g_b_HitDownE_ptr", "referenced_by": ["0x9636A", "0x96914", "0xA7434", "0xB9DE8", "0xBAC3C", "0xBD7C8", "0xBD978", "0xD0958", "0xD15E4", "0xE7202", "0x10E4F8", "0x110838", "0x127954", "0x1298D0", "0x12AA2C", "0x12AE48"]}
+{"ea": "0x22A644", "name": "__ZSt8_DestroyIPSt4pairISsN9Triniti2D7Color32EEEvT_S5__ptr", "referenced_by": ["0x9760A", "0xA7434"]}
+{"ea": "0x22A648", "name": "__ZN7DinoCap14g_ca_K1DieDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A64C", "name": "__ZN7DinoCap15g_ca_K1Die2DataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A650", "name": "__ZTIN7DinoCap10UIMoveCtrlE_ptr", "referenced_by": ["0xA38C2", "0xA3C52", "0xB69E4", "0xCC410", "0xCC580", "0xCC6F0", "0xE28AC", "0xF17E6", "0xF4128", "0xF433A", "0xF78A8", "0xFA1BA", "0x10B93A"]}
+{"ea": "0x22A654", "name": "__ZN9Triniti2D9UIManager13CreateControlIN7DinoCap15UILabelMoveCtrlEEEPT_ii_ptr", "referenced_by": ["0xA348E", "0xF13B4", "0xFA64C", "0xFD0C0", "0xFDF70", "0xFEC34", "0x100B1E", "0x101AD2", "0x10218C", "0x10363E", "0x1056DC", "0x10600A"]}
+{"ea": "0x22A658", "name": "__ZN7DinoCap14g_ongame_soundE_ptr", "referenced_by": ["0xA7434", "0xCA2A4", "0xCE384", "0xE7202", "0xF433A", "0x10600A"]}
+{"ea": "0x22A65C", "name": "__ZN7DinoCap14g_ca_K3DieDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A660", "name": "__ZN7DinoCap15g_ca_K5MoveDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A664", "name": "__ZN7DinoCap18g_ca_K4BefiredDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A668", "name": "__ZN7DinoCap13g_ca_K4BEDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A670", "name": "__ZN7DinoCap15g_ca_K1ShaoDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A674", "name": "__ZN7DinoCap18g_ca_K4BehitedDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A678", "name": "__ZN7DinoCap18g_ca_K3BefiredDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A67C", "name": "__ZNKSt6vectorIPN9Triniti2D10GameObjectESaIS2_EE5emptyEv_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A680", "name": "__ZN7DinoCap9requestIdE_ptr", "referenced_by": ["0x979D2", "0xCBAF4", "0xD41BA", "0xF93C4"]}
+{"ea": "0x22A684", "name": "__ZN7DinoCap15g_jigsaw1_countE_ptr", "referenced_by": ["0x95228", "0x9708C", "0x984C4", "0xA7434", "0xD1F90", "0xE7202", "0xF47A4", "0x100B1E", "0x10218C", "0x10363E", "0x115CC4"]}
+{"ea": "0x22A688", "name": "__ZN7DinoCap15g_jigsaw5_countE_ptr", "referenced_by": ["0xA26E0", "0xE1704", "0xF47A4", "0x10218C"]}
+{"ea": "0x22A68C", "name": "__ZN7DinoCap15g_ca_K5JumpDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A690", "name": "__ZN7DinoCap18g_ca_K2BehitedDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A694", "name": "__ZN7DinoCap12g_jigsaw_getE_ptr", "referenced_by": ["0x96682", "0xA26E0", "0xD0CF6", "0xE1704", "0xFDF70", "0xFEC34"]}
+{"ea": "0x22A698", "name": "__ZN7DinoCap15g_ca_K4MoveDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A69C", "name": "__ZN7DinoCap15g_ca_K4Die2DataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6A0", "name": "__ZN7DinoCap14g_ca_K2DieDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6A4", "name": "__ZN7DinoCap18g_ca_K2BefiredDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6A8", "name": "__ZN7DinoCap15g_ca_K1MoveDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6B0", "name": "__ZN7DinoCap14g_ca_K5DieDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6B4", "name": "__ZN7DinoCap15g_ca_K3Die2DataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6B8", "name": "__ZN7DinoCap18g_ca_K1BehitedDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6C0", "name": "__ZN7DinoCap12g_total_timeE_ptr", "referenced_by": ["0xA26E0", "0xA671E", "0xA69AE", "0xCC018", "0xE1704", "0xE40DE", "0xE6550", "0xF46D2", "0x10B93A"]}
+{"ea": "0x22A6C4", "name": "__ZN7DinoCap15g_ca_K2Die2DataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6C8", "name": "__ZN9Triniti2D9UIManager13CreateControlIN7DinoCap10UIMoveCtrlEEEPT_ii_ptr", "referenced_by": ["0xA348E", "0xA3A40", "0xA3DF0", "0xA64CE", "0xA671E", "0xA6F70", "0xA7434", "0xB7F5E", "0xC97E4", "0xCC6F0", "0xCC9E4", "0xCCC50", "0xCCECC", "0xCD05A", "0xE3C54", "0xE3E8E", "0xE40DE", "0xE7202", "0xF0FF8", "0xF13B4", "0xF78A8", "0xF90DE", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0xFDF70", "0xFEF68", "0x10071E", "0x100B1E", "0x101AD2", "0x10218C", "0x10363E", "0x1056DC", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B036"]}
+{"ea": "0x22A6CC", "name": "__ZN7DinoCap15g_ca_K1JumpDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6D0", "name": "__ZN7DinoCap7g_stateE_ptr", "referenced_by": ["0xA7434", "0xCA2A4", "0xE7202"]}
+{"ea": "0x22A6D4", "name": "__ZN7DinoCap11g_difficultE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6D8", "name": "__ZN7DinoCap13g_ca_K1BEDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6DC", "name": "__ZN7DinoCap18g_ca_K1BefiredDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6E0", "name": "__ZN7DinoCap17g_ca_K1AttackDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6E4", "name": "__ZN7DinoCap9g_missionE_ptr", "referenced_by": ["0xA26E0", "0xA348E", "0xE1704", "0xF13B4", "0x10A69A"]}
+{"ea": "0x22A6E8", "name": "__ZTIN7DinoCap9pauseCtrlE_ptr", "referenced_by": ["0xA69AE", "0xE6550"]}
+{"ea": "0x22A6EC", "name": "__ZN7DinoCap13g_b_RightDownE_ptr", "referenced_by": ["0x9636A", "0x96914", "0xA69AE", "0xA7434", "0xB7F5E", "0xB8A60", "0xB8C90", "0xD0958", "0xD15E4", "0xE6550", "0xE7202", "0xF0FF8", "0x12530C", "0x125D54"]}
+{"ea": "0x22A6F0", "name": "__ZN7DinoCap15g_ca_K2ShaoDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6F4", "name": "__ZN7DinoCap18g_ca_K3BehitedDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A6F8", "name": "__ZNSt6vectorIPN9Triniti2D10GameObjectESaIS2_EE4backEv_ptr", "referenced_by": ["0x956B6", "0x9877C", "0x98880", "0x989A8", "0xC966E", "0xD5308"]}
+{"ea": "0x22A700", "name": "__ZN7DinoCap14t_cur_sys_timeE_ptr", "referenced_by": ["0xA26E0", "0xA671E", "0xA69AE", "0xCC018", "0xE1704", "0xE40DE", "0xE6550", "0xF46D2", "0x10B93A"]}
+{"ea": "0x22A704", "name": "__ZTI18p2dParticleEmitter_ptr", "referenced_by": ["0xA2E50", "0xE6BC4"]}
+{"ea": "0x22A708", "name": "__ZN7DinoCap15g_b_Weapon3DownE_ptr", "referenced_by": ["0xA7434"]}
+{"ea": "0x22A710", "name": "__ZN7DinoCap17g_ca_K5AttackDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A714", "name": "__ZTIN7DinoCap10itemsClassE_ptr", "referenced_by": ["0xE1470"]}
+{"ea": "0x22A718", "name": "__ZN7DinoCap15g_b_Weapon1DownE_ptr", "referenced_by": ["0xA7434"]}
+{"ea": "0x22A720", "name": "__ZN7DinoCap15g_b_Weapon2DownE_ptr", "referenced_by": ["0xA7434"]}
+{"ea": "0x22A724", "name": "__ZN7DinoCap15g_ca_K2JumpDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A728", "name": "__ZN7DinoCap13g_ca_K5BEDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A72C", "name": "__ZN7DinoCap13g_ca_K3BEDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A730", "name": "__ZN7DinoCap14g_p4_kill_dinoE_ptr", "referenced_by": ["0xA26E0", "0xE1704"]}
+{"ea": "0x22A738", "name": "__ZN7DinoCap12g_b_RollDownE_ptr", "referenced_by": ["0x9636A", "0x96914", "0xB7F5E", "0xBD978", "0xD0958", "0xD15E4", "0xF0FF8", "0x12AA2C"]}
+{"ea": "0x22A73C", "name": "__ZN7DinoCap18g_ca_K5BehitedDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A740", "name": "__ZN7DinoCap17g_ca_K3AttackDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A744", "name": "__ZN7DinoCap13g_ca_K2BEDataE_ptr", "referenced_by": ["0xD5308"]}
+{"ea": "0x22A748", "name": "__ZTIN7DinoCap11baozhaClassE_ptr", "referenced_by": ["0x98880", "0xBFE94", "0x12B1BA"]}
+{"ea": "0x22A74C", "name": "__ZN7DinoCap12g_b_LeftDownE_ptr", "referenced_by": ["0x9636A", "0x96914", "0xA7434", "0xB7F5E", "0xB8A60", "0xB8C90", "0xD0958", "0xD15E4", "0xE7202", "0xF0FF8", "0x12530C", "0x125D54"]}
+{"ea": "0x22A750", "name": "__ZTIN7DinoCap15UILabelMoveCtrlE_ptr", "referenced_by": ["0xB69E4", "0xF17E6"]}
+{"ea": "0x22A758", "name": "__ZN7DinoCap15g_ca_pHouseDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A75C", "name": "__ZN7DinoCap16g_boss_line_typeE_ptr", "referenced_by": ["0xBD3C8", "0x12125E", "0x121A98", "0x1286E4"]}
+{"ea": "0x22A760", "name": "__ZN7DinoCap16g_ca_p3BehitDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A764", "name": "__ZN7DinoCap15g_ca_p4MoveDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A768", "name": "__ZN7DinoCap18g_width_ResolutionE_ptr", "referenced_by": ["0xBB054", "0x127342"]}
+{"ea": "0x22A76C", "name": "__ZN7DinoCap15g_ca_p2FireDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A770", "name": "__ZTIN7DinoCap11bulletClassE_ptr", "referenced_by": ["0xBCBB8", "0x126804"]}
+{"ea": "0x22A778", "name": "__ZN7DinoCap16g_ca_p3HouseDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A784", "name": "__ZN7DinoCap16g_ca_p2HouseDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A788", "name": "__ZN7DinoCap14g_ca_pMoveDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x22A78C", "name": "__ZN7DinoCap14g_ca_pRollDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A790", "name": "__ZN7DinoCap13g_ca_pHitDataE_ptr", "referenced_by": ["0x10E024"]}
+{"ea": "0x22A794", "name": "__ZN7DinoCap15g_jigsaw4_countE_ptr", "referenced_by": ["0xBD3C8", "0xF47A4", "0x10218C", "0x1286E4"]}
+{"ea": "0x22A798", "name": "__ZN7DinoCap15g_ca_pBehitDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x22A7A4", "name": "__ZN7DinoCap15g_ca_p4FireDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7A8", "name": "__ZN7DinoCap15g_ca_p3FireDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7AC", "name": "__ZN7DinoCap15g_ca_pStandDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x22A7B0", "name": "__ZN7DinoCap15g_ca_p2MoveDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7BC", "name": "__ZN7DinoCap6g_bossE_ptr", "referenced_by": ["0xBD3C8", "0xD0710", "0xD105A", "0xD15E4", "0x12125E", "0x121A98", "0x123B70", "0x1286E4"]}
+{"ea": "0x22A7C0", "name": "__ZN7DinoCap15g_ca_pRoll2DataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7C4", "name": "__ZN7DinoCap16g_ca_p2BehitDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7C8", "name": "__ZN7DinoCap11g_boss_lineE_ptr", "referenced_by": ["0xBD3C8", "0xD0710", "0xD105A", "0xD15E4", "0xFD0C0", "0x12125E", "0x121A98", "0x123B70", "0x1286E4"]}
+{"ea": "0x22A7CC", "name": "__ZN7DinoCap16g_ca_p4StandDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7D4", "name": "__ZN7DinoCap16g_ca_p2StandDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7DC", "name": "__ZN7DinoCap15g_ca_p3MoveDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7E0", "name": "__ZN7DinoCap14g_ca_pFireDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x22A7E4", "name": "__ZN7DinoCap11weaponClassaSERKS0__ptr", "referenced_by": ["0xBAC3C", "0xBC6BA", "0xBD7C8", "0xBD978", "0xF78A8", "0x10E024", "0x110838", "0x125156", "0x127954", "0x12AA2C", "0x12AE48"]}
+{"ea": "0x22A7E8", "name": "__ZN7DinoCap16g_ca_p3StandDataE_ptr", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x22A7F4", "name": "__ZNKSt6vectorISsSaISsEE4sizeEv_ptr", "referenced_by": ["0x10600A"]}
+{"ea": "0x22A834", "name": "__ZN7DinoCap16g_map_pos_vectorE_ptr", "referenced_by": ["0xE1704", "0xF4992", "0x10A69A", "0x10B036"]}
+{"ea": "0x22A910", "name": "__ZNSt6vectorIS_IN7DinoCap11weaponClassESaIS1_EESaIS3_EE9push_backERKS3__ptr", "referenced_by": ["0xC6232"]}
+{"ea": "0x22A93C", "name": "__ZNSt6vectorIN7DinoCap11weaponClassESaIS1_EED2Ev_ptr", "referenced_by": ["0xC6232"]}
+{"ea": "0x22A974", "name": "__ZSt8_DestroyIPSt6vectorIN7DinoCap11weaponClassESaIS2_EEEvT_S6__ptr", "referenced_by": ["0xC6232"]}
+{"ea": "0x22A988", "name": "__ZNSt6vectorIN7DinoCap15playerTypeClassESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0xC5E26"]}
+{"ea": "0x22A990", "name": "__ZNSt6vectorIN7DinoCap14subWeaponClassESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0xC5E26"]}
+{"ea": "0x22A9B0", "name": "__ZSt8_DestroyIPN7DinoCap15playerTypeClassEEvT_S3__ptr", "referenced_by": ["0xC5E26"]}
+{"ea": "0x22A9C0", "name": "__ZNSt6vectorIN7DinoCap11weaponClassESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0xC6232"]}
+{"ea": "0x22A9D4", "name": "__ZNKSt6vectorIN7DinoCap15bossAniPropertyESaIS1_EE4sizeEv_ptr", "referenced_by": ["0x12125E"]}
+{"ea": "0x22AA04", "name": "__ZNSt6vectorIiSaIiEEaSERKS1__ptr", "referenced_by": ["0xF55B0", "0x118036", "0x118514", "0x119102"]}
+{"ea": "0x22AA0C", "name": "__ZNSt6vectorIN7DinoCap15bossAniPropertyESaIS1_EEC2ERKS3__ptr", "referenced_by": ["0x12125E"]}
+{"ea": "0x22AA20", "name": "__ZTIN7DinoCap12loadEffClassE_ptr", "referenced_by": ["0xC966E", "0xCB0EA", "0xCB4FE"]}
+{"ea": "0x22AA24", "name": "__ZTIN7DinoCap11CompAnimObjE_ptr", "referenced_by": ["0xC999A"]}
+{"ea": "0x22AA28", "name": "__ZN7DinoCap11g_play_timeE_ptr", "referenced_by": ["0xCC018"]}
+{"ea": "0x22AA34", "name": "__ZNSt6vectorIPN7DinoCap10UIMoveCtrlESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0xCF05E"]}
+{"ea": "0x22AA40", "name": "__ZNKSt6vectorIPN7DinoCap10UIMoveCtrlESaIS2_EE4sizeEv_ptr", "referenced_by": ["0xCE84C", "0xCE890", "0xCE93C", "0xCED0C"]}
+{"ea": "0x22AA54", "name": "__ZN7DinoCap16g_boss_point_keyE_ptr", "referenced_by": ["0xE1704", "0x10A69A"]}
+{"ea": "0x22AA5C", "name": "__ZN7DinoCap15g_ca_boss_hou04E_ptr", "referenced_by": ["0xE7202", "0x12041A"]}
+{"ea": "0x22AA60", "name": "__ZN7DinoCap16g_boss_point_posE_ptr", "referenced_by": ["0xE1704", "0xF4992", "0x10A2E8", "0x10A69A"]}
+{"ea": "0x22AA64", "name": "__ZN7DinoCap15g_ca_boss_hou03E_ptr", "referenced_by": ["0xE7202", "0x12125E"]}
+{"ea": "0x22AA70", "name": "__ZN7DinoCap15g_ca_boss_hou01E_ptr", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x22AA78", "name": "__ZN7DinoCap15g_ca_boss_hou02E_ptr", "referenced_by": ["0xE7202", "0x120AC4"]}
+{"ea": "0x22AA8C", "name": "__ZN7DinoCap15g_ca_boss_wei02E_ptr", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x22AA94", "name": "__ZN7DinoCap16g_ca_yanjing_effE_ptr", "referenced_by": ["0xE7202", "0x1201A8"]}
+{"ea": "0x22AA98", "name": "__ZN7DinoCap13g_ca_boss_dieE_ptr", "referenced_by": ["0xE7202", "0x120804"]}
+{"ea": "0x22AAA8", "name": "__ZN7DinoCap15g_ca_boss_wei01E_ptr", "referenced_by": ["0xE7202", "0x12125E"]}
+{"ea": "0x22AAB0", "name": "__ZN7DinoCap11g_boss_seedE_ptr", "referenced_by": ["0xE1704", "0x10A69A"]}
+{"ea": "0x22AABC", "name": "__ZN7DinoCap16g_ca_boss_jiao04E_ptr", "referenced_by": ["0xE7202", "0x12041A"]}
+{"ea": "0x22AAC0", "name": "__ZNSt6vectorIbSaIbEE9push_backEb_ptr", "referenced_by": ["0xE7202", "0xF3294"]}
+{"ea": "0x22AAC4", "name": "__ZN7DinoCap15g_ca_boss_wei07E_ptr", "referenced_by": ["0xE7202"]}
+{"ea": "0x22AAD0", "name": "__ZN7DinoCap15g_ca_boss_wei05E_ptr", "referenced_by": ["0xE7202", "0x1205B2"]}
+{"ea": "0x22AAE4", "name": "__ZN7DinoCap16g_ca_boss_jiao03E_ptr", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x22AAE8", "name": "__ZN7DinoCap16g_ca_boss_jiao02E_ptr", "referenced_by": ["0xE7202", "0x120AC4"]}
+{"ea": "0x22AAEC", "name": "__ZN7DinoCap15g_ca_boss_wei04E_ptr", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x22AAF0", "name": "__ZNKSt6vectorIN7DinoCap10mapPosPropESaIS1_EE4sizeEv_ptr", "referenced_by": ["0xF4992", "0x10A69A"]}
+{"ea": "0x22AAF4", "name": "__ZN7DinoCap15g_ca_boss_wei03E_ptr", "referenced_by": ["0xE7202", "0x120AC4"]}
+{"ea": "0x22AB08", "name": "__ZN7DinoCap15g_ca_boss_wei06E_ptr", "referenced_by": ["0xE7202", "0x12041A"]}
+{"ea": "0x22AB0C", "name": "__ZN7DinoCap16g_ca_boss_jiao01E_ptr", "referenced_by": ["0xE7202", "0x12125E", "0x121A98"]}
+{"ea": "0x22AB10", "name": "__ZNSt6vectorIN7DinoCap10mapPosPropESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0xE1704", "0x10A69A"]}
+{"ea": "0x22AB14", "name": "__ZNKSt6vectorIN7DinoCap8mapClassESaIS1_EE4sizeEv_ptr", "referenced_by": ["0xF4992", "0x10A2E8", "0x10A69A"]}
+{"ea": "0x22AB18", "name": "__ZSt8_DestroyIPN7DinoCap8mapClassEEvT_S3__ptr", "referenced_by": ["0xF3294"]}
+{"ea": "0x22AB2C", "name": "__ZNSt6vectorIN7DinoCap8mapClassESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0xF3294"]}
+{"ea": "0x22AB40", "name": "__ZN7DinoCap16g_boss_map_countE_ptr", "referenced_by": ["0xF3294", "0xF4992", "0x10A2E8", "0x10A69A"]}
+{"ea": "0x22AB60", "name": "__ZNSt6vectorIN7DinoCap10mapPosPropESaIS1_EEaSERKS3__ptr", "referenced_by": ["0x10A69A"]}
+{"ea": "0x22AB6C", "name": "__ZNSt6vectorIN7DinoCap10mapPosPropESaIS1_EEC2ERKS3__ptr", "referenced_by": ["0x10A69A"]}
+{"ea": "0x22AB70", "name": "__ZN7DinoCap13g_cur_map_posE_ptr", "referenced_by": ["0x10A69A", "0x10B036"]}
+{"ea": "0x22AB78", "name": "__ZN7DinoCap15g_jigsaw_activeE_ptr", "referenced_by": ["0xF47A4", "0xF514E", "0xFDF70", "0xFEC34"]}
+{"ea": "0x22AB88", "name": "__ZNKSt6vectorIN9Triniti2D4RectESaIS1_EE4sizeEv_ptr", "referenced_by": ["0xF57BC"]}
+{"ea": "0x22AB90", "name": "__ZN7DinoCap10g_iap_timeE_ptr", "referenced_by": ["0xF46D2"]}
+{"ea": "0x22AB94", "name": "__ZNSt6vectorIiSaIiEE6insertEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi_ptr", "referenced_by": ["0x10B93A"]}
+{"ea": "0x22AB98", "name": "__ZNKSt6vectorIPN7DinoCap16jigsawGroupStateESaIS2_EE4sizeEv_ptr", "referenced_by": ["0xF57BC", "0xF93C4"]}
+{"ea": "0x22AB9C", "name": "__ZN7DinoCap15g_jigsaw3_countE_ptr", "referenced_by": ["0xF47A4", "0xF55B0", "0xF78A8", "0xFEF68", "0x10218C"]}
+{"ea": "0x22ABBC", "name": "__ZN7DinoCap18rand_mission_countE_ptr", "referenced_by": ["0x10A69A", "0x10B036"]}
+{"ea": "0x22ABC8", "name": "__ZN7DinoCap10t_last_mapE_ptr", "referenced_by": ["0x10B93A"]}
+{"ea": "0x22ABDC", "name": "__ZNSt6vectorIPN7DinoCap14jigsawPicStateESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0xFDF70"]}
+{"ea": "0x22ABE0", "name": "__ZNKSt6vectorIPN7DinoCap14jigsawPicStateESaIS2_EE4sizeEv_ptr", "referenced_by": ["0xF57BC", "0xF93C4"]}
+{"ea": "0x22ABE4", "name": "__ZTIN7DinoCap14jigsawPicClassE_ptr", "referenced_by": ["0xF8D3E"]}
+{"ea": "0x22ABF0", "name": "__ZNSt6vectorIN9Triniti2D4RectESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0x10600A"]}
+{"ea": "0x22ABF8", "name": "__ZTIN7DinoCap14selPlayerClassE_ptr", "referenced_by": ["0xF4AF0", "0xF4D30"]}
+{"ea": "0x22AC00", "name": "__ZN7DinoCap6isskipE_ptr", "referenced_by": ["0xF4992", "0x10A2E8", "0x10A69A", "0x10B93A"]}
+{"ea": "0x22AC04", "name": "__ZN7DinoCap12g_boss_levelE_ptr", "referenced_by": ["0xF4992", "0xFD0C0"]}
+{"ea": "0x22AC0C", "name": "__ZNSt6vectorIPN7DinoCap16jigsawGroupStateESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0xFDF70"]}
+{"ea": "0x22AC10", "name": "__ZTIN7DinoCap11selectSceneE_ptr", "referenced_by": ["0x110838", "0x11FA80", "0x124722"]}
+{"ea": "0x22AC58", "name": "__ZNSt6vectorIPN9Triniti2D6SpriteESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0x1189EC"]}
+{"ea": "0x22AE24", "name": "__ZNK7DinoCap11CAComponent17GetFrameMaxNumberEv_ptr", "referenced_by": ["0x118036"]}
+{"ea": "0x22AE3C", "name": "__ZNSt6vectorIPN7DinoCap11CAComponentESaIS2_EEaSERKS4__ptr", "referenced_by": ["0x118036", "0x118514"]}
+{"ea": "0x22AE54", "name": "__ZNKSt6vectorIS_IPN7DinoCap11CAComponentESaIS2_EESaIS4_EE4sizeEv_ptr", "referenced_by": ["0x118036", "0x118514"]}
+{"ea": "0x22AE74", "name": "__ZN7DinoCap17CompAnimObjSpriteC2Ev_ptr", "referenced_by": ["0x119102", "0x1198AC"]}
+{"ea": "0x22AE80", "name": "__ZNSt6vectorIN7DinoCap17CompAnimObjSpriteESaIS1_EE6resizeEmS1__ptr", "referenced_by": ["0x119102", "0x1198AC"]}
+{"ea": "0x22AE94", "name": "__ZNSt4pairIKSsSsED2Ev_ptr", "referenced_by": ["0x11D3FE"]}
+{"ea": "0x22AEA4", "name": "__ZNSt3mapISsSsSt4lessISsESaISt4pairIKSsSsEEEixERS3__ptr", "referenced_by": ["0x1186E6"]}
+{"ea": "0x22AEB0", "name": "__ZNSt6vectorISt4pairISsSsESaIS1_EED2Ev_ptr", "referenced_by": ["0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22AEB4", "name": "__ZNSt6vectorISt4pairISsN9Triniti2D7Color32EESaIS3_EE9push_backERKS3__ptr", "referenced_by": ["0x117F54"]}
+{"ea": "0x22AEBC", "name": "__ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EEaSERKS8__ptr", "referenced_by": ["0x117CFC", "0x119102", "0x1198AC"]}
+{"ea": "0x22AEDC", "name": "__ZNSt6vectorIPN7DinoCap11CAComponentESaIS2_EEC2ERKS4__ptr", "referenced_by": ["0x1189EC"]}
+{"ea": "0x22AF00", "name": "__ZNSt6vectorIPN7DinoCap11CAComponentESaIS2_EE9push_backERKS2__ptr", "referenced_by": ["0x118036", "0x118514"]}
+{"ea": "0x22AF2C", "name": "__ZSt8_DestroyIPSt4pairISsSsEEvT_S3__ptr", "referenced_by": ["0x117CFC", "0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22AF30", "name": "__ZNSt6vectorIS_IPN7DinoCap11CAComponentESaIS2_EESaIS4_EE6resizeEmS4__ptr", "referenced_by": ["0x118036", "0x118514"]}
+{"ea": "0x22AF4C", "name": "__ZNKSt6vectorIPN7DinoCap11CAComponent5FrameESaIS3_EE4sizeEv_ptr", "referenced_by": ["0x11CAE0"]}
+{"ea": "0x22AF54", "name": "__ZTVN7DinoCap17CompAnimObjSpriteE_ptr", "referenced_by": ["0x119102", "0x1198AC"]}
+{"ea": "0x22AF68", "name": "__ZNSt4pairISsSsEC2ERKS0__ptr", "referenced_by": ["0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22AF80", "name": "__ZNSt6vectorISt4pairISsSsESaIS1_EEaSERKS3__ptr", "referenced_by": ["0x11888E", "0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22AF8C", "name": "__ZNSt6vectorIPN7DinoCap11CAComponentESaIS2_EED2Ev_ptr", "referenced_by": ["0x118036", "0x118514", "0x1189EC"]}
+{"ea": "0x22AF98", "name": "__ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE4findERS1__ptr", "referenced_by": ["0x118514"]}
+{"ea": "0x22AFA8", "name": "__ZNSt4pairISsSsED2Ev_ptr", "referenced_by": ["0x11D3FE", "0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22AFAC", "name": "__ZNKSt6vectorISt4pairISsSsESaIS1_EE4sizeEv_ptr", "referenced_by": ["0x1186E6", "0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22AFB4", "name": "__ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE16_M_insert_uniqueERKS2__ptr", "referenced_by": ["0x11D3FE"]}
+{"ea": "0x22B0A0", "name": "__ZNSt8_Rb_treeISsSt4pairIKSsPN7DinoCap11CAComponentEESt10_Select1stIS5_ESt4lessISsESaIS5_EE8_M_eraseEPSt13_Rb_tree_nodeIS5_E_ptr", "referenced_by": ["0x11CD00"]}
+{"ea": "0x22B0B0", "name": "__ZNSt4pairISsSsEC2ERKSsS2__ptr", "referenced_by": ["0x11D3FE", "0x126E2E", "0x127954", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22B0BC", "name": "__ZNSt4pairIKSsSsEC2ISsSsEERKS_IT_T0_E_ptr", "referenced_by": ["0x11D3FE"]}
+{"ea": "0x22B0C8", "name": "__ZN7DinoCap11CAComponent5FrameC2Ev_ptr", "referenced_by": ["0x11CAE0"]}
+{"ea": "0x22B0E8", "name": "__ZNSt3mapISsPN7DinoCap11CAComponentESt4lessISsESaISt4pairIKSsS2_EEEixERS6__ptr", "referenced_by": ["0x11D3FE"]}
+{"ea": "0x22B154", "name": "__ZNSt6vectorISt4pairISsSsESaIS1_EE9push_backERKS1__ptr", "referenced_by": ["0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1298D0", "0x12B65C"]}
+{"ea": "0x22C5B0", "name": "`typeinfo for'DinoCap::bglayerClass", "referenced_by": ["0xDCAA6"]}
+{"ea": "0x22C65C", "name": "`typeinfo for'DinoCap::itemClass", "referenced_by": ["0x71EA", "0x115344"]}
+{"ea": "0x22C668", "name": "`typeinfo for'DinoCap::particleClass", "referenced_by": ["0x10CBC", "0x1226C", "0x12756", "0xBCDEA", "0x122E38", "0x126A36"]}
+{"ea": "0x22C674", "name": "`typeinfo for'DinoCap::bulletClass", "referenced_by": ["0xBCBB8", "0x126804"]}
+{"ea": "0x22C6BC", "name": "`typeinfo for'DinoCap::CAObjCallBack", "referenced_by": ["0x72DC", "0xC999A"]}
+{"ea": "0x22C73C", "name": "`typeinfo for'DinoCap::dinosaurClass", "referenced_by": ["0x16248", "0x16478", "0x16AF0", "0xBD166", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xD5308", "0x1282B8", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22C7FC", "name": "`typeinfo for'DinoCap::loadEffClass", "referenced_by": ["0xC966E", "0xCB0EA", "0xCB4FE"]}
+{"ea": "0x22C808", "name": "`typeinfo for'DinoCap::baozhaClass", "referenced_by": ["0x98880", "0xBFE94", "0x12B1BA"]}
+{"ea": "0x22C814", "name": "`typeinfo for'DinoCap::effectClass", "referenced_by": ["0x10954", "0x119F6", "0x11C9C", "0x12A46", "0x956B6", "0x957E0", "0xA108A", "0xA1348", "0xB8BC6", "0xB8C90", "0xBC222", "0xBC868", "0xBCA10", "0xBD978", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xD0024", "0xE1040", "0xE1304", "0x1236E0"]}
+{"ea": "0x22C868", "name": "`typeinfo for'DinoCap::mainScene", "referenced_by": ["0x6E1C", "0x71EA", "0x7566", "0x10CBC", "0x119F6", "0x1226C", "0x12756", "0x12A46", "0x140FC", "0x15E8A", "0x15EEA", "0x16248", "0x16478", "0x16AF0", "0x957E0", "0xA108A", "0xA1348", "0xB8944", "0xB8C90", "0xB96F8", "0xBAC3C", "0xBAEAC", "0xBB054", "0xBC868", "0xBCA10", "0xBCBB8", "0xBCDEA", "0xBD166", "0xBD3C8", "0xBD668", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC076A", "0xD0024", "0xE1040", "0xE1304", "0x11FA80", "0x122E38", "0x1236E0", "0x125292", "0x12530C", "0x125C36", "0x126804", "0x126A36", "0x1270FA", "0x127342", "0x127DAC", "0x12815C", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x1298D0", "0x12AA2C", "0x12AE48", "0x12B1BA"]}
+{"ea": "0x22C8B0", "name": "`typeinfo for'DinoCap::playerClass", "referenced_by": ["0x6E1C", "0x10B94", "0x11784", "0x156D4", "0x167A6", "0x96914", "0x9725A", "0xA14B4", "0xA7434", "0xB7F5E", "0xD15E4", "0xD5308", "0xE7202", "0xF0FF8", "0x11FBDA", "0x11FEB6", "0x1206FC", "0x120E38", "0x121A98", "0x123106", "0x1236E0", "0x123B70"]}
+{"ea": "0x22CCBC", "name": "`typeinfo for'DinoCap::menuScene", "referenced_by": ["0x15E2A", "0xCB0EA", "0xCB4FE"]}
+{"ea": "0x22CD94", "name": "`typeinfo for'DinoCap::UILabelMoveCtrl", "referenced_by": ["0xB69E4", "0xF17E6"]}
+{"ea": "0x22CDA0", "name": "`typeinfo for'DinoCap::UIMoveCtrl", "referenced_by": ["0xA38C2", "0xA3C52", "0xB69E4", "0xCC410", "0xCC580", "0xCC6F0", "0xE28AC", "0xF17E6", "0xF4128", "0xF433A", "0xF78A8", "0xFA1BA", "0x10B93A"]}
+{"ea": "0x22CE48", "name": "`typeinfo for'DinoCap::pauseCtrl", "referenced_by": ["0xA69AE", "0xE6550"]}
+{"ea": "0x22CF10", "name": "`typeinfo for'DinoCap::lifeModeScene", "referenced_by": ["0x140FC", "0xBD668", "0x120CBE", "0x121A98", "0x123B70", "0x127DAC", "0x12815C"]}
+{"ea": "0x22CFA8", "name": "`typeinfo for'DinoCap::selectScene", "referenced_by": ["0x110838", "0x11FA80", "0x124722"]}
+{"ea": "0x22CFF0", "name": "`typeinfo for'DinoCap::selPlayerClass", "referenced_by": ["0xF4AF0", "0xF4D30"]}
+{"ea": "0x22D05C", "name": "`typeinfo for'p2dParticleEmitter", "referenced_by": ["0xA2E50", "0xE6BC4"]}
+{"ea": "0x22D0F4", "name": "`typeinfo for'DinoCap::itemsClass", "referenced_by": ["0xE1470"]}
+{"ea": "0x22D154", "name": "`typeinfo for'DinoCap::CompAnimObj", "referenced_by": ["0xC999A"]}
+{"ea": "0x22D1E8", "name": "`typeinfo for'DinoCap::effectClassN", "referenced_by": ["0x957E0", "0x9725A", "0x989A8", "0xA7434", "0xD0024", "0xF4F70", "0x1201A8", "0x123106", "0x12530C"]}
+{"ea": "0x22D290", "name": "`typeinfo for'DinoCap::bossN", "referenced_by": ["0x16248", "0x16478", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xD105A", "0x1210EC", "0x128AB4", "0x1291D0", "0x12B1BA"]}
+{"ea": "0x22D2D8", "name": "`typeinfo for'DinoCap::jigsawPicClass", "referenced_by": ["0xF8D3E"]}
+{"ea": "0x22D338", "name": "`typeinfo for'DinoCap::playerNewAniClass", "referenced_by": ["0x10B94", "0x11784", "0x156D4", "0x167A6", "0x96914", "0x9725A", "0xA14B4", "0xA7434", "0xD15E4", "0xD5308", "0xE7202", "0xF0FF8", "0xF4AF0", "0xF4D30", "0x11FBDA", "0x11FEB6", "0x1206FC", "0x120E38", "0x121A98", "0x123106", "0x1236E0", "0x123B70"]}
+{"ea": "0x22E468", "name": "`typeinfo for'Triniti2D::UIControl", "referenced_by": ["0xA38C2", "0xA3C52", "0xA69AE", "0xB69E4", "0xCC410", "0xCC580", "0xCC6F0", "0xE28AC", "0xE6550", "0xF17E6", "0xF4128", "0xF433A", "0xF78A8", "0xFA1BA", "0x10B93A"]}
+{"ea": "0x23B86C", "name": "DinoCap::g_player_type", "referenced_by": ["0x10B94", "0x11784", "0x140FC", "0x1442A", "0x14918", "0x156D4", "0x167A6", "0x193B8", "0x1946C", "0x5960A", "0x5A6B0", "0x95228", "0x95384", "0x9546C", "0x957E0", "0x963F0", "0x96914", "0x9708C", "0x97110", "0x9725A", "0x984C4", "0xA14B4", "0xA26E0", "0xA7434", "0xB7F5E", "0xB8C90", "0xB937C", "0xB95F8", "0xB96F8", "0xB9990", "0xBAC3C", "0xBAEAC", "0xBC222", "0xBC6BA", "0xBCDEA", "0xBD3C8", "0xBD668", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC0336", "0xC076A", "0xC5804", "0xCFF3A", "0xD0024", "0xD09DC", "0xD105A", "0xD15E4", "0xD1F90", "0xD5308", "0xE1470", "0xE1704", "0xE7202", "0xF0FF8", "0xF4992", "0xFD0C0", "0x10218C", "0x10363E", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B93A", "0x115CC4", "0x11FBDA", "0x11FEB6", "0x1206FC", "0x120E38", "0x121A98", "0x123106", "0x1236E0", "0x123B70", "0x125156", "0x125292", "0x12530C", "0x1261D2", "0x126626", "0x126A36", "0x126E2E", "0x127954", "0x127DAC", "0x12815C", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x12A070", "0x12A178", "0x12AA2C", "0x12AE48", "0x12B1BA", "0x12B65C", "0x12BD44"]}
+{"ea": "0x23B870", "name": "DinoCap::g_boss_line", "referenced_by": ["0xBD3C8", "0xD0710", "0xD105A", "0xD15E4", "0xFD0C0", "0x12125E", "0x121A98", "0x123B70", "0x1286E4"]}
+{"ea": "0x23B874", "name": "DinoCap::g_boss_line_type", "referenced_by": ["0xBD3C8", "0x12125E", "0x121A98", "0x1286E4"]}
+{"ea": "0x23B878", "name": "DinoCap::g_curMapID", "referenced_by": ["0x140FC", "0x3B8AC", "0x94F68", "0xA26E0", "0xA671E", "0xA69AE", "0xA7434", "0xB8944", "0xC5804", "0xD09DC", "0xD14B4", "0xD15E4", "0xE1704", "0xE1E62", "0xE232E", "0xE2A4C", "0xE40DE", "0xE6550", "0xE7202", "0xFA64C", "0xFD0C0", "0x10B93A", "0x125C36"]}
+{"ea": "0x23B87C", "name": "DinoCap::g_cur_map_data", "referenced_by": ["0x140FC", "0x3B8AC", "0x94F68", "0xA26E0", "0xA671E", "0xA69AE", "0xA7434", "0xB8944", "0xC5804", "0xD09DC", "0xD14B4", "0xD15E4", "0xE1704", "0xE1E62", "0xE232E", "0xE2A4C", "0xE40DE", "0xE6550", "0xE7202", "0xF4992", "0xFA64C", "0xFD0C0", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x125C36"]}
+{"ea": "0x23B88C", "name": "DinoCap::g_cur_map_pos", "referenced_by": ["0x10A69A", "0x10B036"]}
+{"ea": "0x23B89C", "name": "DinoCap::g_max_bullet_count", "referenced_by": ["0x5960A", "0x95384", "0x97110", "0xCFF3A", "0xF46D2", "0xF55B0", "0xF78A8", "0xFEF68"]}
+{"ea": "0x23B8A0", "name": "DinoCap::rand_mission_count", "referenced_by": ["0x10A69A", "0x10B036"]}
+{"ea": "0x23B8A4", "name": "DinoCap::isskip", "referenced_by": ["0xF4992", "0x10A2E8", "0x10A69A", "0x10B93A"]}
+{"ea": "0x23B8C0", "name": "DinoCap::g_b_LeftDown", "referenced_by": ["0x9636A", "0x96914", "0xA7434", "0xB7F5E", "0xB8A60", "0xB8C90", "0xD0958", "0xD15E4", "0xE7202", "0xF0FF8", "0x12530C", "0x125D54"]}
+{"ea": "0x23B8C1", "name": "DinoCap::g_b_RightDown", "referenced_by": ["0x9636A", "0x96914", "0xA69AE", "0xA7434", "0xB7F5E", "0xB8A60", "0xB8C90", "0xD0958", "0xD15E4", "0xE6550", "0xE7202", "0xF0FF8", "0x12530C", "0x125D54"]}
+{"ea": "0x23B8C2", "name": "DinoCap::g_b_HitDown", "referenced_by": ["0x9636A", "0x96914", "0xA7434", "0xB9DE8", "0xBAC3C", "0xBD7C8", "0xBD978", "0xD0958", "0xD15E4", "0xE7202", "0x10E4F8", "0x110838", "0x127954", "0x1298D0", "0x12AA2C", "0x12AE48"]}
+{"ea": "0x23B8C3", "name": "DinoCap::g_b_FireDown", "referenced_by": ["0x16AF0", "0x9636A", "0x96914", "0xA7434", "0xB7F5E", "0xBAC3C", "0xBB054", "0xBC222", "0xBD978", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xBF406", "0xC076A", "0xD0958", "0xD15E4", "0xE7202", "0xF0FF8", "0x110838", "0x125292", "0x1261D2", "0x127342", "0x1298D0", "0x12AA2C", "0x12AE48"]}
+{"ea": "0x23B8C4", "name": "DinoCap::g_b_RollDown", "referenced_by": ["0x9636A", "0x96914", "0xB7F5E", "0xBD978", "0xD0958", "0xD15E4", "0xF0FF8", "0x12AA2C"]}
+{"ea": "0x23B8C5", "name": "DinoCap::g_b_Weapon1Down", "referenced_by": ["0xA7434"]}
+{"ea": "0x23B8C6", "name": "DinoCap::g_b_Weapon2Down", "referenced_by": ["0xA7434"]}
+{"ea": "0x23B8C7", "name": "DinoCap::g_b_Weapon3Down", "referenced_by": ["0xA7434"]}
+{"ea": "0x23B8C8", "name": "DinoCap::g_scale", "referenced_by": ["0xB8EC", "0xBDB4", "0x17818", "0xC9CE0"]}
+{"ea": "0x23B8CC", "name": "DinoCap::g_mission", "referenced_by": ["0x5960A", "0xA26E0", "0xA348E", "0xE1704", "0xF13B4", "0x10A69A"]}
+{"ea": "0x23B8D0", "name": "DinoCap::g_max_mission", "referenced_by": ["0x5960A"]}
+{"ea": "0x23B8D4", "name": "DinoCap::g_max_mission_rand", "referenced_by": ["0x5960A"]}
+{"ea": "0x23B8D9", "name": "DinoCap::g_sound", "referenced_by": ["0x1A36C", "0xA7434", "0xCA2A4", "0xCE384", "0xCED0C", "0xE7202", "0xF433A", "0xFB2E0", "0xFC138", "0x10600A"]}
+{"ea": "0x23B8DA", "name": "DinoCap::g_fx", "referenced_by": ["0x1A448", "0xA7434", "0xCA2A4", "0xCE1EC", "0xCED0C", "0xE7202", "0xF4128", "0xFB2E0", "0xFC138", "0x10600A"]}
+{"ea": "0x23B8DB", "name": "DinoCap::g_ongame_sound", "referenced_by": ["0xA7434", "0xCA2A4", "0xCE384", "0xE7202", "0xF433A", "0x10600A"]}
+{"ea": "0x23B8DC", "name": "DinoCap::g_ongame_fx", "referenced_by": ["0xA7434", "0xCA2A4", "0xCE1EC", "0xE7202", "0xF4128", "0x10600A"]}
+{"ea": "0x23B8E0", "name": "DinoCap::jigsawSeed", "referenced_by": ["0x5960A", "0x96682", "0xA26E0", "0xD0CF6", "0xE1704"]}
+{"ea": "0x23B8E4", "name": "DinoCap::g_boss_seed", "referenced_by": ["0xE1704", "0x10A69A"]}
+{"ea": "0x23B8E8", "name": "DinoCap::g_boss_level", "referenced_by": ["0xF4992", "0xFD0C0"]}
+{"ea": "0x23B8EC", "name": "DinoCap::g_boss_point_key", "referenced_by": ["0xE1704", "0x10A69A"]}
+{"ea": "0x23B8F0", "name": "DinoCap::g_boss_map_count", "referenced_by": ["0xF3294", "0xF4992", "0x10A2E8", "0x10A69A"]}
+{"ea": "0x23B8F4", "name": "DinoCap::g_difficult", "referenced_by": ["0xD5308"]}
+{"ea": "0x23B8F8", "name": "DinoCap::g_p4_kill_dino", "referenced_by": ["0x5960A", "0xA26E0", "0xE1704"]}
+{"ea": "0x23B8FC", "name": "DinoCap::g_p1_kill_dino", "referenced_by": ["0x140FC", "0x5960A", "0xA26E0", "0xE1704"]}
+{"ea": "0x23B900", "name": "DinoCap::g_state", "referenced_by": ["0xA7434", "0xCA2A4", "0xE7202"]}
+{"ea": "0x23B904", "name": "DinoCap::g_iphone", "referenced_by": ["0x7988", "0x7DBC", "0x97F8", "0x10A4C", "0x10CBC", "0x11784", "0x11BA4", "0x11C9C", "0x121D4", "0x1226C", "0x12756", "0x12CA8", "0x1442A", "0x16478", "0x167A6", "0x170B6", "0x17818", "0x3B8AC", "0x94C6C", "0x94D68", "0x95228", "0x957E0", "0x95DC0", "0x95F7A", "0x960FE", "0x96914", "0x9725A", "0x979D2", "0x984C4", "0x9AAE8", "0x9AFF2", "0xA108A", "0xA1348", "0xA14B4", "0xA2D6E", "0xA2E50", "0xA348E", "0xA38C2", "0xA3A40", "0xA3C52", "0xA3DF0", "0xA4042", "0xA4124", "0xA64CE", "0xA671E", "0xA6F70", "0xA7434", "0xB69E4", "0xB7DB0", "0xB7F5E", "0xB8C90", "0xBB054", "0xBC868", "0xBCA10", "0xBCBB8", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xC0336", "0xC5E26", "0xC6232", "0xC97E4", "0xC999A", "0xC9CE0", "0xCA2A4", "0xCB0EA", "0xCB4FE", "0xCC018", "0xCC410", "0xCC580", "0xCC900", "0xCC9E4", "0xCCB6E", "0xCCC50", "0xCCECC", "0xCD05A", "0xCE93C", "0xCED0C", "0xCF05E", "0xCFDB4", "0xD0024", "0xD0710", "0xD0850", "0xD105A", "0xD15E4", "0xD1F90", "0xD41BA", "0xD5224", "0xD5308", "0xD6504", "0xD6A0E", "0xDCAA6", "0xE1040", "0xE1304", "0xE1470", "0xE20C0", "0xE28AC", "0xE2A4C", "0xE3C54", "0xE3E8E", "0xE40DE", "0xE4356", "0xE4438", "0xE6BC4", "0xE7202", "0xF0FF8", "0xF13B4", "0xF17E6", "0xF3294", "0xF4AF0", "0xF4D30", "0xF4F70", "0xF57BC", "0xF6D42", "0xF6E24", "0xF6F00", "0xF6FC8", "0xF70AC", "0xF78A8", "0xF8D3E", "0xF90DE", "0xF93C4", "0xFA56A", "0xFA64C", "0xFB1FC", "0xFB2E0", "0xFC056", "0xFC138", "0xFCEF6", "0xFCFDC", "0xFD0C0", "0xFDF70", "0xFEC34", "0xFEF68", "0x10071E", "0x100B1E", "0x101AD2", "0x101FC2", "0x1020A8", "0x10218C", "0x10363E", "0x1056DC", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x115508", "0x1155DC", "0x11582A", "0x115CC4", "0x11FBDA", "0x120018", "0x1201A8", "0x1206FC", "0x12090A", "0x1209C0", "0x120E38", "0x12125E", "0x121A98", "0x122E38", "0x123106", "0x1236E0", "0x12530C", "0x126804", "0x127342", "0x128AB4", "0x1291D0", "0x12B1BA", "0x12B65C"]}
+{"ea": "0x23B905", "name": "DinoCap::g_iphone_retina", "referenced_by": ["0x3B8AC", "0x59AD6", "0xA7434", "0xCA2A4", "0xE7202", "0xF93C4", "0xFD0C0", "0x10600A"]}
+{"ea": "0x23B908", "name": "DinoCap::g_width_Resolution", "referenced_by": ["0xBB054", "0x127342"]}
+{"ea": "0x23B910", "name": "DinoCap::g_ground_y", "referenced_by": ["0x10A4C", "0x11BA4", "0x11C9C", "0x95DC0", "0x9725A", "0x9AAE8", "0xA7434", "0xD5308", "0xD6504", "0xE1470", "0xE7202", "0xF4AF0", "0xF4D30"]}
+{"ea": "0x23B914", "name": "DinoCap::g_w_offset", "referenced_by": ["0x170B6", "0x960FE", "0x96914", "0x979D2", "0xA38C2", "0xA3A40", "0xA6F70", "0xB7F5E", "0xCF05E", "0xD15E4", "0xD41BA", "0xE20C0", "0xF0FF8", "0xF57BC", "0xF78A8", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0xFEF68", "0x10071E", "0x10600A"]}
+{"ea": "0x23B918", "name": "DinoCap::g_h_offset", "referenced_by": ["0x170B6", "0x960FE", "0x96914", "0x979D2", "0xA6F70", "0xB7F5E", "0xCF05E", "0xD15E4", "0xD41BA", "0xDCAA6", "0xE20C0", "0xF0FF8", "0xF57BC", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0x1056DC", "0x10600A"]}
+{"ea": "0x23B91C", "name": "DinoCap::requestId", "referenced_by": ["0x979D2", "0xCBAF4", "0xD41BA", "0xF93C4"]}
+{"ea": "0x23B924", "name": "leftCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B928", "name": "rightCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B92C", "name": "hitCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B930", "name": "rotaCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B934", "name": "fireCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B938", "name": "weaponCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B93C", "name": "changeCtrlID", "referenced_by": ["0x96914"]}
+{"ea": "0x23B9D4", "name": "DinoCap::menuScene::count", "referenced_by": ["0xCA2A4"]}
+{"ea": "0x23BA28", "name": "leftCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BA2C", "name": "rightCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BA30", "name": "hitCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BA34", "name": "rotaCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BA38", "name": "fireCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BA3C", "name": "weaponCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BA40", "name": "changeCtrlID", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23BB94", "name": "Triniti2D::_Game", "referenced_by": ["0xA69AE", "0xE2A4C", "0xE6550", "0xF3F50", "0x10B93A"]}
+{"ea": "0x23BBA0", "name": "Triniti2D::_FileManager", "referenced_by": ["0xC4DA", "0xF4B0", "0x59AD6", "0xA2E50", "0xC5E26", "0xC6232", "0xC9CE0", "0xE6BC4", "0xF3294", "0x11D7B8"]}
+{"ea": "0x23BBA4", "name": "Triniti2D::_TextureManager", "referenced_by": ["0xA6CC", "0xB8EC", "0xBDB4", "0xC9C4", "0xCC8A", "0xEDBC", "0x174DE", "0x3B8AC", "0x59AD6", "0xA7434", "0xC9CE0", "0xCA2A4", "0xCC018", "0xE7202", "0x10600A", "0x1189EC"]}
+{"ea": "0x23BBAC", "name": "Triniti2D::_AudioManager", "referenced_by": ["0x1A36C", "0x1A448", "0xA69AE", "0xCE384", "0xE2A4C", "0xE6550", "0xF433A", "0x10B93A"]}
+{"ea": "0x23D114", "name": "__ZN7DinoCapL6g_PathE_5", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x23D120", "name": "linePointRect", "referenced_by": ["0x979D2", "0xA7434"]}
+{"ea": "0x23D130", "name": "leftctrlRect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D140", "name": "rightctrlRect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D150", "name": "hitctrlRect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D160", "name": "firectrlRect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D170", "name": "rotatectrlRect", "referenced_by": ["0x94C6C", "0x94D68", "0x96914", "0xA7434"]}
+{"ea": "0x23D1B0", "name": "leftctrlbtnRect", "referenced_by": ["0x96914"]}
+{"ea": "0x23D1C0", "name": "rightctrlbtnRect", "referenced_by": ["0x96914"]}
+{"ea": "0x23D1D0", "name": "hitctrlbtnRect", "referenced_by": ["0x96914"]}
+{"ea": "0x23D1E0", "name": "firectrlbtnRect", "referenced_by": ["0x96914"]}
+{"ea": "0x23D220", "name": "weaponctrlRect", "referenced_by": ["0x96914"]}
+{"ea": "0x23D230", "name": "stopRect", "referenced_by": ["0x96914"]}
+{"ea": "0x23D240", "name": "level_bgRect", "referenced_by": ["0xA38C2", "0xA3A40"]}
+{"ea": "0x23D250", "name": "level_dayRect", "referenced_by": ["0xA348E", "0xB69E4"]}
+{"ea": "0x23D260", "name": "level_textRect", "referenced_by": ["0xA348E", "0xB69E4"]}
+{"ea": "0x23D270", "name": "bglevel0Rect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D280", "name": "bloodbarRect", "referenced_by": ["0x95228", "0xA7434"]}
+{"ea": "0x23D290", "name": "levelbarRect", "referenced_by": ["0x984C4", "0xA7434"]}
+{"ea": "0x23D2A0", "name": "bglevel1Rect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D2B0", "name": "iconbulletRect", "referenced_by": ["0xA7434", "0xB7DB0"]}
+{"ea": "0x23D2C0", "name": "icongoldRect", "referenced_by": ["0xA7434"]}
+{"ea": "0x23D3B0", "name": "leftctrlRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D3C0", "name": "rightctrlRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D3D0", "name": "hitctrlRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D3E0", "name": "firectrlRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D3F0", "name": "rotatectrlRect", "referenced_by": ["0xD0850", "0xD15E4", "0xE7202"]}
+{"ea": "0x23D400", "name": "leftctrlbtnRect", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23D410", "name": "rightctrlbtnRect", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23D420", "name": "hitctrlbtnRect", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23D430", "name": "firectrlbtnRect", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23D440", "name": "weaponctrlRect", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23D450", "name": "stopRect", "referenced_by": ["0xD15E4"]}
+{"ea": "0x23D470", "name": "level_dayRect", "referenced_by": ["0xF13B4", "0xF17E6"]}
+{"ea": "0x23D480", "name": "level_textRect", "referenced_by": ["0xF13B4", "0xF17E6"]}
+{"ea": "0x23D490", "name": "bglevel0Rect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D4A0", "name": "bloodbarRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D4B0", "name": "levelbarRect", "referenced_by": ["0xD1F90", "0xE7202"]}
+{"ea": "0x23D4C0", "name": "bglevel1Rect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D4D0", "name": "bloodBGRect", "referenced_by": ["0xD0710"]}
+{"ea": "0x23D4E0", "name": "iconbulletRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D500", "name": "uigoldRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D510", "name": "uitimeRect", "referenced_by": ["0xE7202"]}
+{"ea": "0x23D6A0", "name": "aLeftBgRect", "referenced_by": ["0x10363E"]}
+{"ea": "0x23D6B0", "name": "aRightBgRect", "referenced_by": ["0xF78A8", "0xFEF68", "0x10071E"]}
+{"ea": "0x23D6C0", "name": "aUpBtnRect", "referenced_by": ["0xF78A8", "0xFEF68"]}
+{"ea": "0x23D6D0", "name": "aAMMORect", "referenced_by": ["0xF78A8", "0xFEF68"]}
+{"ea": "0x23D6E0", "name": "apowerRect", "referenced_by": ["0xFEF68"]}
+{"ea": "0x23D6F0", "name": "aUpAMMORect", "referenced_by": ["0xF78A8", "0xFEF68"]}
+{"ea": "0x23D700", "name": "aBackRect", "referenced_by": ["0xF90DE", "0xFB2E0", "0xFC138", "0xFDF70", "0x101AD2", "0x1056DC"]}
+{"ea": "0x23D710", "name": "aBackImgRect", "referenced_by": ["0xF90DE", "0xFB2E0", "0xFC138", "0xFDF70", "0x101AD2", "0x1056DC"]}
+{"ea": "0x23D720", "name": "jigTitleRect", "referenced_by": ["0xFDF70"]}
+{"ea": "0x23D730", "name": "aLPMinRect", "referenced_by": ["0xFEF68"]}
+{"ea": "0x23D740", "name": "aLPMaxRect", "referenced_by": ["0xFEF68"]}
+{"ea": "0x23D750", "name": "aLBMinRect", "referenced_by": ["0xFEF68"]}
+{"ea": "0x23D760", "name": "aLBMaxRect", "referenced_by": ["0xFEF68"]}
+{"ea": "0x23D790", "name": "aLPPriRect", "referenced_by": ["0xF78A8", "0xFEF68"]}
+{"ea": "0x23D7A0", "name": "aLBPriRect", "referenced_by": ["0xFEF68"]}
+{"ea": "0x23D7F0", "name": "taInfoTxtRect", "referenced_by": ["0x100B1E"]}
+{"ea": "0x23D800", "name": "taExpProgRect", "referenced_by": ["0x100B1E"]}
+{"ea": "0x23D810", "name": "taTitleRect", "referenced_by": ["0x1056DC"]}
+{"ea": "0x23D890", "name": "taBuyRect", "referenced_by": ["0x1056DC"]}
+{"ea": "0x23D8A0", "name": "taBuyRect1", "referenced_by": ["0x10363E"]}
+{"ea": "0x23D8B0", "name": "taGoldRect", "referenced_by": ["0x1056DC"]}
+{"ea": "0x23D8C0", "name": "taGoldRect1", "referenced_by": ["0x101AD2", "0x10363E"]}
+{"ea": "0x23D8D0", "name": "taGoldTxtRect", "referenced_by": ["0x1056DC"]}
+{"ea": "0x23D8E0", "name": "taGoldTxtRect1", "referenced_by": ["0x101AD2", "0x10363E"]}
+{"ea": "0x23D8F0", "name": "playerIconBgRect", "referenced_by": ["0x100B1E", "0x1056DC"]}
+{"ea": "0x23D900", "name": "mapBackRect", "referenced_by": ["0x10218C", "0x10B036"]}
+{"ea": "0x23D910", "name": "mapShopRect", "referenced_by": ["0x10218C", "0x10B036"]}
+{"ea": "0x23D920", "name": "mapBankRect", "referenced_by": ["0x10218C", "0x10B036"]}
+{"ea": "0x23D930", "name": "mapJigsawRect", "referenced_by": ["0x10218C", "0x10B036"]}
+{"ea": "0x23D940", "name": "mapBgRect", "referenced_by": ["0x10218C"]}
+{"ea": "0x23D950", "name": "mapPlayerIconRect", "referenced_by": ["0x10218C", "0x10363E"]}
+{"ea": "0x23D960", "name": "mapPlayerBgRect", "referenced_by": ["0x10218C", "0x10363E"]}
+{"ea": "0x23D970", "name": "mapCJRect", "referenced_by": ["0x10218C", "0x10B036"]}
+{"ea": "0x23D980", "name": "mappopBgRect", "referenced_by": ["0xFA64C", "0xFD0C0"]}
+{"ea": "0x23D990", "name": "mappopInfoRect", "referenced_by": ["0xFA64C", "0xFD0C0"]}
+{"ea": "0x23D9A0", "name": "mappopBackRect", "referenced_by": ["0xFA64C", "0xFD0C0"]}
+{"ea": "0x23D9B0", "name": "mappopStartRect", "referenced_by": ["0xFA64C", "0xFD0C0"]}
+{"ea": "0x23D9C0", "name": "mappopLevelRect", "referenced_by": ["0xFA64C", "0xFD0C0"]}
+{"ea": "0x23DB8C", "name": "DinoCap::g_prop_k1", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DBAC", "name": "DinoCap::g_prop_k2", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DBCC", "name": "DinoCap::g_prop_k3", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DBEC", "name": "DinoCap::g_prop_k4", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DC0C", "name": "DinoCap::g_prop_k5", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DC2C", "name": "DinoCap::g_prop_k6", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DC4C", "name": "DinoCap::g_prop_k7", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DC6C", "name": "DinoCap::g_prop_k8", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DC8C", "name": "DinoCap::g_prop_k9", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DCAC", "name": "DinoCap::g_prop_k10", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DCCC", "name": "DinoCap::g_prop_k11", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DCEC", "name": "DinoCap::g_prop_k12", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DD0C", "name": "DinoCap::g_prop_k13", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DD2C", "name": "DinoCap::g_prop_k14", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DD4C", "name": "DinoCap::g_prop_k15", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DD6C", "name": "DinoCap::g_prop_k16", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DD8C", "name": "DinoCap::g_prop_k17", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DDAC", "name": "DinoCap::g_prop_k18", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DDCC", "name": "DinoCap::g_prop_k19", "referenced_by": ["0x94F68", "0xD5308", "0xE232E", "0xE7202"]}
+{"ea": "0x23DDEC", "name": "DinoCap::g_lifeProperty1", "referenced_by": ["0xD14B4"]}
+{"ea": "0x23E080", "name": "DinoCap::g_lifemodetime", "referenced_by": ["0xA72E2", "0xD0608", "0xD0ED6", "0xE1E62", "0xE2A4C", "0xE7202", "0x10B93A"]}
+{"ea": "0x23E098", "name": "DinoCap::g_time", "referenced_by": ["0xA7434", "0xE2A4C", "0xE7202"]}
+{"ea": "0x23E09C", "name": "DinoCap::life_Mode", "referenced_by": ["0x140FC", "0xBD668", "0xCC8B2", "0xCE384", "0x10B93A", "0x127DAC", "0x12815C"]}
+{"ea": "0x23E0A0", "name": "DinoCap::m_map_type", "referenced_by": ["0xA26E0", "0xA69AE", "0xE1704", "0xE2A4C", "0xE6550", "0xF3F50", "0xF57BC", "0xF93C4", "0x10600A", "0x10B93A"]}
+{"ea": "0x23E0A4", "name": "DinoCap::t_last_map", "referenced_by": ["0x10B93A"]}
+{"ea": "0x23E0A8", "name": "DinoCap::g_jigsaw_get", "referenced_by": ["0x5960A", "0x5A6B0", "0x96682", "0xA26E0", "0xD0CF6", "0xE1704", "0xFDF70", "0xFEC34"]}
+{"ea": "0x23E0F8", "name": "DinoCap::g_jigsaw_active", "referenced_by": ["0x5960A", "0xF47A4", "0xF514E", "0xFDF70", "0xFEC34"]}
+{"ea": "0x23E148", "name": "DinoCap::g_mission_state", "referenced_by": ["0xA26E0", "0xA671E", "0xA69AE", "0xE1704", "0xE40DE", "0xE6550", "0x10B93A"]}
+{"ea": "0x23E1C8", "name": "DinoCap::g_jigsaw1_count", "referenced_by": ["0x5960A", "0x95228", "0x9708C", "0x984C4", "0xA7434", "0xD1F90", "0xE7202", "0xF47A4", "0x100B1E", "0x10218C", "0x10363E", "0x115CC4"]}
+{"ea": "0x23E1CC", "name": "DinoCap::g_jigsaw2_count", "referenced_by": ["0x14918", "0x5960A", "0xF47A4", "0xF78A8", "0xFEF68", "0x10218C", "0x123B70"]}
+{"ea": "0x23E1D0", "name": "DinoCap::g_jigsaw3_count", "referenced_by": ["0x5960A", "0xF47A4", "0xF55B0", "0xF78A8", "0xFEF68", "0x10218C"]}
+{"ea": "0x23E1D4", "name": "DinoCap::g_jigsaw4_count", "referenced_by": ["0x5960A", "0xBD3C8", "0xF47A4", "0x10218C", "0x1286E4"]}
+{"ea": "0x23E1D8", "name": "DinoCap::g_jigsaw5_count", "referenced_by": ["0x5960A", "0xA26E0", "0xE1704", "0xF47A4", "0x10218C"]}
+{"ea": "0x23E348", "name": "DinoCap::t_ca_2pStandData", "referenced_by": ["0xF4D30"]}
+{"ea": "0x23E930", "name": "DinoCap::g_ca_pHitData", "referenced_by": ["0x10E024"]}
+{"ea": "0x23E94C", "name": "DinoCap::g_ca_pDieData", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x23E968", "name": "DinoCap::g_ca_2pDieData", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x23E984", "name": "DinoCap::g_ca_3pDieData", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x23E9A0", "name": "DinoCap::g_ca_4pDieData", "referenced_by": ["0xBCDEA"]}
+{"ea": "0x23E9BC", "name": "DinoCap::g_ca_pRollData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23E9D8", "name": "DinoCap::g_ca_pRoll2Data", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23E9F4", "name": "DinoCap::g_ca_pMoveData", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x23EA10", "name": "DinoCap::g_ca_pStandData", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x23EA2C", "name": "DinoCap::g_ca_pFireData", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x23EA48", "name": "DinoCap::g_ca_pBehitData", "referenced_by": ["0xB9DE8", "0x10E024", "0x10E4F8"]}
+{"ea": "0x23EA64", "name": "DinoCap::g_ca_pHouseData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EA80", "name": "DinoCap::g_ca_p2MoveData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EA9C", "name": "DinoCap::g_ca_p2StandData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EAB8", "name": "DinoCap::g_ca_p2FireData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EAD4", "name": "DinoCap::g_ca_p2BehitData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EAF0", "name": "DinoCap::g_ca_p2HouseData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EB0C", "name": "DinoCap::g_ca_p3MoveData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EB28", "name": "DinoCap::g_ca_p3StandData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EB44", "name": "DinoCap::g_ca_p3FireData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EB60", "name": "DinoCap::g_ca_p3BehitData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EB7C", "name": "DinoCap::g_ca_p3HouseData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EB98", "name": "DinoCap::g_ca_p4MoveData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EBB4", "name": "DinoCap::g_ca_p4StandData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EBD0", "name": "DinoCap::g_ca_p4FireData", "referenced_by": ["0xB9DE8", "0x10E4F8"]}
+{"ea": "0x23EDE4", "name": "DinoCap::g_ca_p4_RollEff", "referenced_by": ["0xBD978"]}
+{"ea": "0x23EE00", "name": "DinoCap::g_ca_qhEffData", "referenced_by": ["0xB8C90"]}
+{"ea": "0x23EE38", "name": "DinoCap::g_ca_qxEffData", "referenced_by": ["0x12A46", "0x1236E0"]}
+{"ea": "0x23EE54", "name": "DinoCap::g_ca_dxEffData", "referenced_by": ["0x12A46", "0x1236E0"]}
+{"ea": "0x23EE70", "name": "DinoCap::g_ca_jupanData", "referenced_by": ["0xBCA10"]}
+{"ea": "0x23EE8C", "name": "DinoCap::g_ca_feibiaoData", "referenced_by": ["0xBC868"]}
+{"ea": "0x23EEA8", "name": "DinoCap::g_ca_baozhaData", "referenced_by": ["0xBFE94", "0x12B1BA"]}
+{"ea": "0x23EEC4", "name": "DinoCap::g_ca_dahuoData", "referenced_by": ["0x11C9C"]}
+{"ea": "0x23EEE0", "name": "DinoCap::g_ca_shaosiData", "referenced_by": ["0x10A4C"]}
+{"ea": "0x23EF18", "name": "DinoCap::g_ca_huoyanData", "referenced_by": ["0xBEB28"]}
+{"ea": "0x23EF34", "name": "DinoCap::g_ca_jiguangData", "referenced_by": ["0xBEDA6"]}
+{"ea": "0x23EF50", "name": "DinoCap::g_ca_yuanliData", "referenced_by": ["0xBF0EA"]}
+{"ea": "0x23EF6C", "name": "DinoCap::g_ca_levelup_1_EFF", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x23EF88", "name": "DinoCap::g_ca_levelup_2_EFF", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x23EFA4", "name": "DinoCap::g_ca_levelup_3_EFF", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x23EFC0", "name": "DinoCap::g_ca_levelup_4_EFF", "referenced_by": ["0x957E0", "0xD0024"]}
+{"ea": "0x23F01C", "name": "DinoCap::g_ca_boss_hou01", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x23F078", "name": "DinoCap::g_ca_boss_hou02", "referenced_by": ["0xE7202", "0x120AC4"]}
+{"ea": "0x23F0D4", "name": "DinoCap::g_ca_boss_hou03", "referenced_by": ["0xE7202", "0x12125E"]}
+{"ea": "0x23F130", "name": "DinoCap::g_ca_boss_hou04", "referenced_by": ["0xE7202", "0x12041A"]}
+{"ea": "0x23F18C", "name": "DinoCap::g_ca_boss_wei01", "referenced_by": ["0xE7202", "0x12125E"]}
+{"ea": "0x23F1E8", "name": "DinoCap::g_ca_boss_wei02", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x23F244", "name": "DinoCap::g_ca_boss_wei03", "referenced_by": ["0xE7202", "0x120AC4"]}
+{"ea": "0x23F2A0", "name": "DinoCap::g_ca_boss_wei04", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x23F2FC", "name": "DinoCap::g_ca_boss_wei05", "referenced_by": ["0xE7202", "0x1205B2"]}
+{"ea": "0x23F358", "name": "DinoCap::g_ca_boss_wei06", "referenced_by": ["0xE7202", "0x12041A"]}
+{"ea": "0x23F3B4", "name": "DinoCap::g_ca_boss_wei07", "referenced_by": ["0xE7202"]}
+{"ea": "0x23F410", "name": "DinoCap::g_ca_boss_jiao01", "referenced_by": ["0xE7202", "0x12125E", "0x121A98"]}
+{"ea": "0x23F46C", "name": "DinoCap::g_ca_boss_jiao02", "referenced_by": ["0xE7202", "0x120AC4"]}
+{"ea": "0x23F4C8", "name": "DinoCap::g_ca_boss_jiao03", "referenced_by": ["0xE7202", "0x121A98"]}
+{"ea": "0x23F524", "name": "DinoCap::g_ca_boss_jiao04", "referenced_by": ["0xE7202", "0x12041A"]}
+{"ea": "0x23F580", "name": "DinoCap::g_ca_egg_che_stand", "referenced_by": ["0xA7434", "0xF46D2"]}
+{"ea": "0x23F5DC", "name": "DinoCap::g_ca_egg_che_move", "referenced_by": ["0x974FA"]}
+{"ea": "0x23F638", "name": "DinoCap::g_ca_egg_sui", "referenced_by": ["0x9725A"]}
+{"ea": "0x23F694", "name": "DinoCap::g_ca_jigsaw_eff", "referenced_by": ["0xF4F70"]}
+{"ea": "0x23F6F0", "name": "DinoCap::g_ca_yanjing_eff", "referenced_by": ["0xE7202", "0x1201A8"]}
+{"ea": "0x23F74C", "name": "DinoCap::g_ca_boss_die", "referenced_by": ["0xE7202", "0x120804"]}
+{"ea": "0x23F7A8", "name": "DinoCap::g_ca_boss_huoyan", "referenced_by": ["0x123106"]}
+{"ea": "0x23F804", "name": "DinoCap::g_player_stand_short", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23F860", "name": "DinoCap::g_player_stand_long", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23F8BC", "name": "DinoCap::g_player_move_short", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23F918", "name": "DinoCap::g_player_move_long", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23F974", "name": "DinoCap::g_player_fire_short", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23F9D0", "name": "DinoCap::g_player_fire_long", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23FA2C", "name": "DinoCap::g_player_fire_eff", "referenced_by": ["0x12530C"]}
+{"ea": "0x23FA88", "name": "DinoCap::g_player_behit_short", "referenced_by": ["0x1282B8", "0x1298D0"]}
+{"ea": "0x23FAE4", "name": "DinoCap::g_player_behit_long", "referenced_by": ["0x1282B8", "0x1298D0"]}
+{"ea": "0x23FB40", "name": "DinoCap::g_player_die", "referenced_by": ["0x126A36"]}
+{"ea": "0x23FB9C", "name": "DinoCap::g_player_hit", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23FBF8", "name": "DinoCap::g_player_roll_start", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23FC54", "name": "DinoCap::g_player_roll_end", "referenced_by": ["0x1298D0"]}
+{"ea": "0x23FCB0", "name": "DinoCap::g_player_eff_zidan", "referenced_by": ["0x12530C"]}
+{"ea": "0x23FD0C", "name": "DinoCap::g_ca_shandianEff", "referenced_by": ["0xA1348", "0xE1304"]}
+{"ea": "0x23FD28", "name": "DinoCap::g_ca_feng1Eff", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x23FD44", "name": "DinoCap::g_ca_feng2Eff", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x23FD60", "name": "DinoCap::g_ca_feng3Eff", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x23FD7C", "name": "DinoCap::g_ca_feng4Eff", "referenced_by": ["0xA108A", "0xE1040"]}
+{"ea": "0x23FD98", "name": "DinoCap::g_ca_K1MoveData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FDB4", "name": "DinoCap::g_ca_K1AttackData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FDD0", "name": "DinoCap::g_ca_K1BehitedData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FDEC", "name": "DinoCap::g_ca_K1BefiredData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FE08", "name": "DinoCap::g_ca_K1DieData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FE24", "name": "DinoCap::g_ca_K1Die2Data", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FE40", "name": "DinoCap::g_ca_K1BEData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FE5C", "name": "DinoCap::g_ca_K1ShaoData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FE78", "name": "DinoCap::g_ca_K1JumpData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FE94", "name": "DinoCap::g_ca_K2MoveData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FEB0", "name": "DinoCap::g_ca_K2AttackData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FECC", "name": "DinoCap::g_ca_K2BehitedData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FEE8", "name": "DinoCap::g_ca_K2BefiredData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FF04", "name": "DinoCap::g_ca_K2DieData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FF20", "name": "DinoCap::g_ca_K2Die2Data", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FF3C", "name": "DinoCap::g_ca_K2BEData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FF58", "name": "DinoCap::g_ca_K2ShaoData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FF74", "name": "DinoCap::g_ca_K2JumpData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FF90", "name": "DinoCap::g_ca_K3MoveData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FFAC", "name": "DinoCap::g_ca_K3AttackData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FFC8", "name": "DinoCap::g_ca_K3BehitedData", "referenced_by": ["0xD5308"]}
+{"ea": "0x23FFE4", "name": "DinoCap::g_ca_K3BefiredData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240000", "name": "DinoCap::g_ca_K3DieData", "referenced_by": ["0xD5308"]}
+{"ea": "0x24001C", "name": "DinoCap::g_ca_K3Die2Data", "referenced_by": ["0xD5308"]}
+{"ea": "0x240038", "name": "DinoCap::g_ca_K3BEData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240054", "name": "DinoCap::g_ca_K3ShaoData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240070", "name": "DinoCap::g_ca_K3JumpData", "referenced_by": ["0xD5308"]}
+{"ea": "0x24008C", "name": "DinoCap::g_ca_K4MoveData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2400A8", "name": "DinoCap::g_ca_K4AttackData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2400C4", "name": "DinoCap::g_ca_K4BehitedData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2400E0", "name": "DinoCap::g_ca_K4BefiredData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2400FC", "name": "DinoCap::g_ca_K4DieData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240118", "name": "DinoCap::g_ca_K4Die2Data", "referenced_by": ["0xD5308"]}
+{"ea": "0x240134", "name": "DinoCap::g_ca_K4BEData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240150", "name": "DinoCap::g_ca_K4ShaoData", "referenced_by": ["0xD5308"]}
+{"ea": "0x24016C", "name": "DinoCap::g_ca_K4JumpData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240188", "name": "DinoCap::g_ca_K5MoveData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2401A4", "name": "DinoCap::g_ca_K5AttackData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2401C0", "name": "DinoCap::g_ca_K5BehitedData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2401DC", "name": "DinoCap::g_ca_K5BefiredData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2401F8", "name": "DinoCap::g_ca_K5DieData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240214", "name": "DinoCap::g_ca_K5Die2Data", "referenced_by": ["0xD5308"]}
+{"ea": "0x240230", "name": "DinoCap::g_ca_K5BEData", "referenced_by": ["0xD5308"]}
+{"ea": "0x24024C", "name": "DinoCap::g_ca_K5ShaoData", "referenced_by": ["0xD5308"]}
+{"ea": "0x240268", "name": "DinoCap::g_ca_K5JumpData", "referenced_by": ["0xD5308"]}
+{"ea": "0x2403C0", "name": "DinoCap::g_ca_house1Data", "referenced_by": ["0x72DC"]}
+{"ea": "0x2403DC", "name": "DinoCap::g_ca_house2Data", "referenced_by": ["0x72DC"]}
+{"ea": "0x2403F8", "name": "DinoCap::g_ca_house3Data", "referenced_by": ["0x72DC"]}
+{"ea": "0x240468", "name": "DinoCap::g_boss", "referenced_by": ["0xBD3C8", "0xD0710", "0xD105A", "0xD15E4", "0x12125E", "0x121A98", "0x123B70", "0x1286E4"]}
+{"ea": "0x240474", "name": "DinoCap::g_prop_Player", "referenced_by": ["0x140FC", "0x193B8", "0x1946C", "0x5960A", "0x95228", "0x963F0", "0x9708C", "0x984C4", "0xA26E0", "0xA7434", "0xB8A60", "0xB95F8", "0xBB054", "0xBD166", "0xBD3C8", "0xBD978", "0xBF406", "0xC5804", "0xC5E26", "0xCA2A4", "0xD09DC", "0xD105A", "0xD1F90", "0xD5308", "0xE1704", "0xE7202", "0xF45DC", "0xF46D2", "0xF4992", "0xF52C2", "0xF55B0", "0xFD0C0", "0x100B1E", "0x101AD2", "0x10218C", "0x10363E", "0x1056DC", "0x10A2E8", "0x10A69A", "0x10B93A", "0x110838", "0x115CC4", "0x121A98", "0x123B70", "0x125D54", "0x127342", "0x1282B8", "0x1286E4", "0x12AA2C"]}
+{"ea": "0x2404AC", "name": "DinoCap::g_player_vector", "referenced_by": ["0x1442A", "0x14918", "0x5960A", "0x95228", "0x95384", "0x9546C", "0x963F0", "0x9708C", "0x97110", "0x984C4", "0xA7434", "0xB8C90", "0xB9990", "0xBAC3C", "0xBAEAC", "0xBC106", "0xBC222", "0xBC6BA", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF406", "0xBF784", "0xBFE94", "0xC0336", "0xC076A", "0xCFF3A", "0xD09DC", "0xD1F90", "0xE1470", "0xE7202", "0xF4AF0", "0xF51F0", "0xF52C2", "0xF55B0", "0xF78A8", "0xFEF68", "0x100B1E", "0x10218C", "0x10363E", "0x10B93A", "0x1102E0", "0x115CC4", "0x123B70", "0x125156", "0x125292", "0x12530C", "0x1261D2", "0x127954", "0x1282B8", "0x128AB4", "0x1291D0", "0x12A070", "0x12A178", "0x12AA2C", "0x12AE48", "0x12B0AC", "0x12B1BA", "0x12B65C", "0x12BD44"]}
+{"ea": "0x2404B8", "name": "DinoCap::g_manager_Weapon", "referenced_by": ["0x71EA", "0x1442A", "0x14918", "0x156D4", "0x16478", "0x9546C", "0xA26E0", "0xBAC3C", "0xBC222", "0xBC6BA", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBF784", "0xBFE94", "0xE1704", "0xF52C2", "0xF78A8", "0xFEF68", "0x10218C", "0x10B93A", "0x10E024", "0x110046", "0x110838", "0x123B70", "0x125156", "0x1261D2", "0x127954", "0x128AB4", "0x1291D0", "0x1298D0", "0x12AA2C", "0x12AE48", "0x12B1BA"]}
+{"ea": "0x2404EC", "name": "DinoCap::g_map_info", "referenced_by": ["0x140FC", "0x3B8AC", "0x5960A", "0x94F68", "0xA26E0", "0xA671E", "0xA69AE", "0xA7434", "0xB8944", "0xC5804", "0xD09DC", "0xD14B4", "0xD15E4", "0xE1704", "0xE1E62", "0xE232E", "0xE2A4C", "0xE40DE", "0xE6550", "0xE7202", "0xF4992", "0xFA64C", "0xFD0C0", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x125C36"]}
+{"ea": "0x24050C", "name": "DinoCap::g_map_pos_vector", "referenced_by": ["0xE1704", "0xF4992", "0x10A69A", "0x10B036"]}
+{"ea": "0x24095C", "name": "DinoCap::g_s_G0", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x240990", "name": "DinoCap::g_s_G1", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x2409C4", "name": "DinoCap::g_s_G2", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x2409F8", "name": "DinoCap::g_s_G3", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x240A2C", "name": "DinoCap::g_s_G4", "referenced_by": ["0x3B8AC"]}
+{"ea": "0x240A60", "name": "DinoCap::g_boss_point_pos", "referenced_by": ["0x3B8AC", "0xE1704", "0xF4992", "0x10A2E8", "0x10A69A"]}
+{"ea": "0x240A6C", "name": "DinoCap::g_jigsaw_levels", "referenced_by": ["0x96682", "0xD0CF6", "0x10B93A"]}
+{"ea": "0x240A78", "name": "DinoCap::g_play_time", "referenced_by": ["0xCC018"]}
+{"ea": "0x240A7C", "name": "DinoCap::g_total_time", "referenced_by": ["0xA26E0", "0xA671E", "0xA69AE", "0xCC018", "0xE1704", "0xE40DE", "0xE6550", "0xF46D2", "0x10B93A"]}
+{"ea": "0x240A80", "name": "DinoCap::t_cur_sys_time", "referenced_by": ["0xA26E0", "0xA671E", "0xA69AE", "0xCC018", "0xE1704", "0xE40DE", "0xE6550", "0xF46D2", "0x10B93A"]}
+{"ea": "0x240A84", "name": "DinoCap::g_iap_time", "referenced_by": ["0xF46D2"]}
+{"ea": "0x241588", "name": "std::string::_Rep::_S_empty_rep_storage", "referenced_by": ["0x97F8", "0x59AD6", "0xBFE94", "0xC0336", "0x12B1BA", "0x12B65C"]}
+{"ea": "0x2415E8", "name": "`vtable for'__cxxabiv1::__class_type_info", "referenced_by": ["0xA38C2", "0xA3C52", "0xA69AE", "0xB69E4", "0xCC410", "0xCC580", "0xCC6F0", "0xE28AC", "0xE6550", "0xF17E6", "0xF4128", "0xF433A", "0xF78A8", "0xFA1BA", "0x10B93A"]}
+{"ea": "0x2415EC", "name": "`vtable for'__cxxabiv1::__si_class_type_info", "referenced_by": ["0x6E1C", "0x71EA", "0x72DC", "0x7566", "0x10954", "0x10B94", "0x10CBC", "0x11784", "0x119F6", "0x11C9C", "0x1226C", "0x12756", "0x12A46", "0x140FC", "0x156D4", "0x15E2A", "0x15E8A", "0x15EEA", "0x16248", "0x16478", "0x167A6", "0x16AF0", "0x956B6", "0x957E0", "0x96914", "0x9725A", "0x98880", "0x989A8", "0xA108A", "0xA1348", "0xA14B4", "0xA38C2", "0xA3C52", "0xA7434", "0xB69E4", "0xB7F5E", "0xB8944", "0xB8BC6", "0xB8C90", "0xB96F8", "0xBAC3C", "0xBAEAC", "0xBB054", "0xBC222", "0xBC868", "0xBCA10", "0xBCBB8", "0xBCDEA", "0xBD166", "0xBD3C8", "0xBD668", "0xBD978", "0xBDFB8", "0xBE65C", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xBF406", "0xBF784", "0xBFE94", "0xC076A", "0xC966E", "0xC999A", "0xCB0EA", "0xCB4FE", "0xCC410", "0xCC580", "0xCC6F0", "0xD0024", "0xD105A", "0xD15E4", "0xD5308", "0xDCAA6", "0xE1040", "0xE1304", "0xE1470", "0xE28AC", "0xE7202", "0xF0FF8", "0xF17E6", "0xF4128", "0xF433A", "0xF4AF0", "0xF4D30", "0xF4F70", "0xF78A8", "0xF8D3E", "0xFA1BA", "0x10B93A", "0x110838", "0x115344", "0x11FA80", "0x11FBDA", "0x11FEB6", "0x1201A8", "0x1206FC", "0x120CBE", "0x120E38", "0x1210EC", "0x121A98", "0x122E38", "0x123106", "0x1236E0", "0x123B70", "0x124722", "0x125292", "0x12530C", "0x125C36", "0x126804", "0x126A36", "0x1270FA", "0x127342", "0x127DAC", "0x12815C", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x1298D0", "0x12AA2C", "0x12AE48", "0x12B1BA"]}
+{"ea": "0x2415F0", "name": "`vtable for'__cxxabiv1::__vmi_class_type_info", "referenced_by": ["0xA2E50", "0xA69AE", "0xC999A", "0xE6550", "0xE6BC4"]}
+{"ea": "0x241618", "name": "___gxx_personality_sj0", "referenced_by": ["0x700C", "0x77A4", "0x7988", "0x7DBC", "0x97F8", "0xA3BA", "0xA4D0", "0xA6CC", "0xAEA0", "0xB8EC", "0xBDB4", "0xC100", "0xC2DA", "0xC4DA", "0xC9C4", "0xCC8A", "0xEDBC", "0xF014", "0xF14E", "0xF4B0", "0x10CBC", "0x11C9C", "0x1226C", "0x12756", "0x12CA8", "0x140FC", "0x1442A", "0x14918", "0x16248", "0x16478", "0x16AF0", "0x174DE", "0x17818", "0x1A36C", "0x1A448", "0x3B8AC", "0x59AD6", "0x5A1F0", "0x5A6B0", "0x94E8E", "0x9546C", "0x956B6", "0x957E0", "0x95DC0", "0x95F7A", "0x960FE", "0x963F0", "0x9725A", "0x974FA", "0x9760A", "0x979D2", "0x984C4", "0x9877C", "0x98880", "0x989A8", "0x9AAE8", "0x9AFF2", "0xA14B4", "0xA26E0", "0xA2E50", "0xA348E", "0xA3A40", "0xA3DF0", "0xA4124", "0xA64CE", "0xA671E", "0xA69AE", "0xA6F70", "0xA72E2", "0xA7434", "0xB7DB0", "0xB7F5E", "0xB8C90", "0xB9990", "0xBAC3C", "0xBAEAC", "0xBC106", "0xBC222", "0xBC6BA", "0xBCBB8", "0xBCDEA", "0xBD7C8", "0xBD978", "0xBDFB8", "0xBE65C", "0xBEB28", "0xBEDA6", "0xBF0EA", "0xBF406", "0xBF784", "0xBFE94", "0xC0336", "0xC076A", "0xC5E26", "0xC6232", "0xC966E", "0xC97E4", "0xC999A", "0xC9CE0", "0xCA2A4", "0xCBAF4", "0xCC018", "0xCC6F0", "0xCC9E4", "0xCCC50", "0xCCECC", "0xCD05A", "0xCD1E2", "0xCE1EC", "0xCE384", "0xCED0C", "0xCF05E", "0xCFDB4", "0xD0024", "0xD0608", "0xD09DC", "0xD0ED6", "0xD105A", "0xD15E4", "0xD1F90", "0xD41BA", "0xD5308", "0xD6504", "0xD6A0E", "0xDCAA6", "0xE1470", "0xE1704", "0xE1E62", "0xE20C0", "0xE2A4C", "0xE3C54", "0xE3E8E", "0xE40DE", "0xE4438", "0xE6550", "0xE6BC4", "0xE7202", "0xF0FF8", "0xF13B4", "0xF3294", "0xF3F50", "0xF4128", "0xF433A", "0xF45DC", "0xF47A4", "0xF4AF0", "0xF4F70", "0xF51F0", "0xF52C2", "0xF55B0", "0xF57BC", "0xF78A8", "0xF8D3E", "0xF90DE", "0xF93C4", "0xFA3D2", "0xFA64C", "0xFB2E0", "0xFC138", "0xFD0C0", "0xFDF70", "0xFEC34", "0xFEF68", "0x10071E", "0x100B1E", "0x101AD2", "0x10218C", "0x10363E", "0x1056DC", "0x10600A", "0x10A2E8", "0x10A69A", "0x10B036", "0x10B93A", "0x1102E0", "0x1155DC", "0x115AFC", "0x115CC4", "0x117CFC", "0x117DAE", "0x117E7C", "0x117F54", "0x118036", "0x118514", "0x1186E6", "0x1189EC", "0x119102", "0x1198AC", "0x11D3FE", "0x11D7B8", "0x120098", "0x1201A8", "0x12041A", "0x1205B2", "0x120804", "0x120AC4", "0x1210EC", "0x12125E", "0x1217A8", "0x121A98", "0x122E38", "0x123106", "0x1236E0", "0x123B70", "0x124F82", "0x125072", "0x125156", "0x12530C", "0x1261D2", "0x126626", "0x126804", "0x126A36", "0x126E2E", "0x1270FA", "0x127954", "0x127DAC", "0x1282B8", "0x1286E4", "0x128AB4", "0x1291D0", "0x1298D0", "0x12A070", "0x12A178", "0x12AA2C", "0x12AE48", "0x12B0AC", "0x12B1BA", "0x12B65C", "0x12BD44"]}

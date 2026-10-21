@@ -1,0 +1,149 @@
+{
+ "target": "iPad Armory OnLoad case1; verified bounded extraction r12b",
+ "frames": [
+  {
+   "name": "p1weapon1Frame",
+   "texture": "DC2/Image/ip/weaponinfo1_h",
+   "x": 0,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x107b48"
+  },
+  {
+   "name": "p1weapon2Frame",
+   "texture": "DC2/Image/ip/weaponinfo1_h",
+   "x": 417,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x107c0c"
+  },
+  {
+   "name": "p1weapon3Frame",
+   "texture": "DC2/Image/ip/weaponinfo1_h",
+   "x": 0,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x107cd0"
+  },
+  {
+   "name": "p1weapon4Frame",
+   "texture": "DC2/Image/ip/weaponinfo1_h",
+   "x": 417,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x107e4e"
+  },
+  {
+   "name": "p2weapon1Frame",
+   "texture": "DC2/Image/ip/weaponinfo2_h",
+   "x": 0,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x107f28"
+  },
+  {
+   "name": "p2weapon2Frame",
+   "texture": "DC2/Image/ip/weaponinfo2_h",
+   "x": 417,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x107fee"
+  },
+  {
+   "name": "p2weapon3Frame",
+   "texture": "DC2/Image/ip/weaponinfo2_h",
+   "x": 0,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x1080b4"
+  },
+  {
+   "name": "p2weapon4Frame",
+   "texture": "DC2/Image/ip/weaponinfo2_h",
+   "x": 417,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x108178"
+  },
+  {
+   "name": "p3weapon1Frame",
+   "texture": "DC2/Image/ip/weaponinfo3_h",
+   "x": 0,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x108318"
+  },
+  {
+   "name": "p3weapon2Frame",
+   "texture": "DC2/Image/ip/weaponinfo3_h",
+   "x": 417,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x1083dc"
+  },
+  {
+   "name": "p3weapon3Frame",
+   "texture": "DC2/Image/ip/weaponinfo3_h",
+   "x": 0,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x1084a0"
+  },
+  {
+   "name": "p3weapon4Frame",
+   "texture": "DC2/Image/ip/weaponinfo3_h",
+   "x": 417,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x108566"
+  },
+  {
+   "name": "p4weapon1Frame",
+   "texture": "DC2/Image/ip/weaponinfo4_h",
+   "x": 0,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x1086e2"
+  },
+  {
+   "name": "p4weapon2Frame",
+   "texture": "DC2/Image/ip/weaponinfo4_h",
+   "x": 417,
+   "y": 0,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x1087a6"
+  },
+  {
+   "name": "p4weapon3Frame",
+   "texture": "DC2/Image/ip/weaponinfo4_h",
+   "x": 0,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x10886a"
+  },
+  {
+   "name": "p4weapon4Frame",
+   "texture": "DC2/Image/ip/weaponinfo4_h",
+   "x": 417,
+   "y": 296,
+   "w": 417,
+   "h": 296,
+   "nativeCall": "0x10892e"
+  }
+ ]
+}

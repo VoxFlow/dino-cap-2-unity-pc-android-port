@@ -1,0 +1,14 @@
+[Frame]
+Count = 11
+Frame0 = (boss_t4 0 0 319 227)
+Frame1 = (boss_t7 321 0 319 227)
+Frame2 = (boss_b5 642 0 173 308)
+Frame3 = (boss_s2 0 229 268 298)
+Frame4 = (boss_w1 270 229 273 292)
+Frame5 = (boss_s3 545 310 281 233)
+Frame6 = (boss_b4 270 523 261 234)
+Frame7 = (boss_yanjiang4 0 529 249 225)
+Frame8 = (boss_w4 533 545 242 169)
+Frame9 = (boss_w3 777 545 242 195)
+Frame10 = (boss_x1 533 716 161 224)
+

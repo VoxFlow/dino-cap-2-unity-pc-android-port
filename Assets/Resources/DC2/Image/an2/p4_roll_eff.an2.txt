@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>-5.5</x>
+        <y>-101.5</y>
+        <width>0.458333</width>
+        <height>0.478873</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>4.5</x>
+        <y>-94</y>
+        <width>0.375</width>
+        <height>0.285714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>55.4665</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-12</x>
+        <y>-95</y>
+        <width>0.361111</width>
+        <height>0.314286</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>7</x>
+        <y>-104</y>
+        <width>0.305556</width>
+        <height>0.295775</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-0.5</x>
+        <y>-91.5</y>
+        <width>0.402778</width>
+        <height>0.442857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-2</x>
+        <y>-99.5</y>
+        <width>0.25</width>
+        <height>0.225352</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="1">
+    <Sprite name="com1">
+        <x>-20</x>
+        <y>-79.5</y>
+        <width>0.527778</width>
+        <height>0.56338</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>330.273</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>13</x>
+        <y>-82.5</y>
+        <width>0.472222</width>
+        <height>0.385714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>20.9316</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-17</x>
+        <y>-100.5</y>
+        <width>0.388889</width>
+        <height>0.385714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>297.945</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>12.5</x>
+        <y>-103</y>
+        <width>0.402778</width>
+        <height>0.380282</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>338.795</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-1</x>
+        <y>-78.5</y>
+        <width>0.611111</width>
+        <height>0.614286</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>308.476</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-7.5</x>
+        <y>-74.5</y>
+        <width>0.402778</width>
+        <height>0.394366</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="2">
+    <Sprite name="com1">
+        <x>-20.5</x>
+        <y>-77.5</y>
+        <width>0.652778</width>
+        <height>0.676056</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>3.14145</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>13</x>
+        <y>-77.5</y>
+        <width>1</width>
+        <height>0.642857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>339.94</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-11</x>
+        <y>-103.5</y>
+        <width>0.555556</width>
+        <height>0.471429</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>327.767</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>18.5</x>
+        <y>-103</y>
+        <width>0.458333</width>
+        <height>0.380282</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>338.795</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>2.5</x>
+        <y>-49.5</y>
+        <width>0.819444</width>
+        <height>0.757143</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>265.093</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-2</x>
+        <y>-76</y>
+        <width>0.5</width>
+        <height>0.43662</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>312.062</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="4">
+    <Sprite name="com1">
+        <x>-26</x>
+        <y>-51</y>
+        <width>1.19444</width>
+        <height>0.887324</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>3.14145</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>36</x>
+        <y>-57.5</y>
+        <width>1.19444</width>
+        <height>1.07143</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>277.991</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-12</x>
+        <y>-93.5</y>
+        <width>0.972222</width>
+        <height>0.842857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>346.373</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>27</x>
+        <y>-98.5</y>
+        <width>0.805556</width>
+        <height>0.647887</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>338.795</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>12.5</x>
+        <y>6.5</y>
+        <width>1.54167</width>
+        <height>1.55714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>171.008</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>3.5</x>
+        <y>-41</y>
+        <width>0.680556</width>
+        <height>0.605634</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>34.4053</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="7">
+    <Sprite name="com1">
+        <x>-54.5</x>
+        <y>-38</y>
+        <width>1.40278</width>
+        <height>1.25352</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>3.14145</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>71</x>
+        <y>-50</y>
+        <width>1.38889</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>71.3434</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-16.5</x>
+        <y>-78</y>
+        <width>0.958333</width>
+        <height>1.05714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>25.9466</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>33</x>
+        <y>-78.5</y>
+        <width>0.972222</width>
+        <height>0.788732</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>299.249</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>24.5</x>
+        <y>16.5</y>
+        <width>1.93056</width>
+        <height>1.87143</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>130.347</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-10.5</x>
+        <y>-15.5</y>
+        <width>1.01389</width>
+        <height>0.84507</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>339.744</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="11">
+    <Sprite name="com1">
+        <x>-70</x>
+        <y>-5</y>
+        <width>1.25</width>
+        <height>1.19718</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>45.0803</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>103.5</x>
+        <y>-2.5</y>
+        <width>0.347222</width>
+        <height>0.328571</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>328.04</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-13</x>
+        <y>-35.5</y>
+        <width>0.472222</width>
+        <height>0.471429</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>271.876</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>44</x>
+        <y>-7</y>
+        <width>0.972222</width>
+        <height>0.915493</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>209.874</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>27</x>
+        <y>75.5</y>
+        <width>1.30556</width>
+        <height>1.32857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>95.7691</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-20</x>
+        <y>21</y>
+        <width>0.916667</width>
+        <height>0.774648</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>291.7</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="14">
+    <Sprite name="com1">
+        <x>-129</x>
+        <y>37</y>
+        <width>0.694444</width>
+        <height>0.633803</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>129.514</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>69.5</x>
+        <y>-6</y>
+        <width>0.347222</width>
+        <height>0.267606</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>171.556</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>18.5</x>
+        <y>127</y>
+        <width>0.930556</width>
+        <height>0.885714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>28.5864</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff2</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-15</x>
+        <y>60.5</y>
+        <width>0.555556</width>
+        <height>0.676056</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>159.019</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yaneff1</image>
+    </Sprite>
+</AnimFrame>

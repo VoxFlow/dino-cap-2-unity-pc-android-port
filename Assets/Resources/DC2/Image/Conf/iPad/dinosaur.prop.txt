@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dinosaur type="1">
+	<HP>5</HP>
+	<SPD>77</SPD>
+	<EXP>7</EXP>
+	<FRQ>4</FRQ>
+	<ATK>10</ATK>
+	<ADIS>190</ADIS>
+</Dinosaur>
+
+<Dinosaur type="2">
+	<HP>1</HP>
+	<SPD>308</SPD>
+	<EXP>7</EXP>
+	<FRQ>14</FRQ>
+	<ATK>7</ATK>
+	<ADIS>190</ADIS>
+</Dinosaur>
+
+<Dinosaur type="3">
+	<HP>25</HP>
+	<SPD>46</SPD>
+	<EXP>11</EXP>
+	<FRQ>30</FRQ>
+	<ATK>13</ATK>
+	<ADIS>280</ADIS>
+</Dinosaur>

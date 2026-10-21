@@ -1,0 +1,23 @@
+[Frame]
+Count = 20
+Frame0 = (ui_weapon_bg 0 0 442 418)
+Frame1 = (ui_map_player_info 444 0 437 128)
+Frame2 = (ui_weapon_attri 444 130 430 410)
+Frame3 = (ui_btn_iap 0 420 340 82)
+Frame4 = (ui_btn_buyammo 0 504 218 98)
+Frame5 = (ui_btn_upgrade 220 504 218 98)
+Frame6 = (ui_exp_bg 440 542 212 56)
+Frame7 = (ui_btn_back 654 542 208 62)
+Frame8 = (ui_weapon_select 440 600 202 138)
+Frame9 = (ui_img_attack 0 604 199 48)
+Frame10 = (ui_img_ammo 201 604 183 42)
+Frame11 = (ui_p5_icon 644 606 146 173)
+Frame12 = (ui_img_unlock 864 542 153 31)
+Frame13 = (ui_btn_back_img 883 0 138 54)
+Frame14 = (ui_p1_icon 883 56 111 106)
+Frame15 = (ui_p2_icon 876 164 111 106)
+Frame16 = (ui_p3_icon 876 272 111 106)
+Frame17 = (ui_p4_icon 876 380 111 106)
+Frame18 = (ui_gold 342 420 46 44)
+Frame19 = (ui_img_jiantou 989 164 33 32)
+

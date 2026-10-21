@@ -1,0 +1,18 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+obj/
+Build/
+extract_manifest.json
+Reports/**/shots/
+*.csproj
+*.sln
+
+# DC2-RELEASE-REVIEW-001 REL-01: generated test/perf/build reports and logs (contain local paths); never part of the source tree
+Reports/
+# User decision ("just like DC1, full buildable Unity project on GitHub"): Assets/Resources/DC2 (converted original art, audio and data, plus tables derived from them) is committed so a clean checkout builds; the IPA, IDA database and working reports stay private.
+
+# Python bytecode (a py_compile check once left .pyc files in Docs/technical/tools; never commit them)
+__pycache__/
+*.pyc

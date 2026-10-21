@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>-1.63641</x>
+        <y>-88.5454</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-6.18182</x>
+        <y>-162.45453</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.31909</rotation>
+        <layer>8</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-21</x>
+        <y>-211</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>6</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>9.72729</x>
+        <y>-209.9091</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.53723</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-34</x>
+        <y>-168.54544</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>20.4399</rotation>
+        <layer>11</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>28.7271</x>
+        <y>-165.18181</y>
+        <width>0.848484</width>
+        <height>1.01515</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>75.2492</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="2">
+    <Sprite name="com1">
+        <x>2.3636</x>
+        <y>-117.5454</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-5.18182</x>
+        <y>-171.54547</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.31909</rotation>
+        <layer>8</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-22</x>
+        <y>-213</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>6</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>8.72729</x>
+        <y>-211.9091</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.53723</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-55</x>
+        <y>-170.54544</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>333.129</rotation>
+        <layer>11</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>47.7271</x>
+        <y>-168.81819</y>
+        <width>0.848484</width>
+        <height>1.01515</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>110.779</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="4">
+    <Sprite name="com1">
+        <x>3.3636</x>
+        <y>-123.5454</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-6.18182</x>
+        <y>-170.54547</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.31909</rotation>
+        <layer>8</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-22</x>
+        <y>-213</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>6</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>10.7273</x>
+        <y>-211.9091</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.53723</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-55</x>
+        <y>-164.45456</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>305.89</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>46.7271</x>
+        <y>-153.1818</y>
+        <width>0.848484</width>
+        <height>1.01515</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>156.609</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="5">
+    <Sprite name="com1">
+        <x>-7.6364</x>
+        <y>-71.5454</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>7.34467</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-6.18182</x>
+        <y>-153.4545</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.31909</rotation>
+        <layer>8</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-20</x>
+        <y>-204</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>6</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>8.72729</x>
+        <y>-202.9091</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.53723</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-49</x>
+        <y>-105.9546</y>
+        <width>1.06667</width>
+        <height>1.18333</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>270.663</rotation>
+        <layer>11</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>25.7271</x>
+        <y>-154.1818</y>
+        <width>0.848484</width>
+        <height>1.01515</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>67.3921</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="6">
+    <Sprite name="com8">
+        <x>-9</x>
+        <y>-88</y>
+        <width>0.939086</width>
+        <height>0.968553</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.60126</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>p4move</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="9">
+    <Sprite name="com8">
+        <x>-6.5</x>
+        <y>-75</y>
+        <width>0.35533</width>
+        <height>0.968553</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.60126</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>p4move</image>
+    </Sprite>
+</AnimFrame>

@@ -1,0 +1,6 @@
+[Frame]
+Count = 3
+Frame0 = (beijing5_3_2 0 0 953 328)
+Frame1 = (beijing5_obj2 0 330 641 340)
+Frame2 = (beijing5_obj1 0 672 608 304)
+

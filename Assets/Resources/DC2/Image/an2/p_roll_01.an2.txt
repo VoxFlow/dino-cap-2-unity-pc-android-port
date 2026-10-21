@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com2">
+        <x>5.6</x>
+        <y>-235.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+    <Sprite name="yyj1">
+        <x>19.6</x>
+        <y>-211.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj2">
+        <x>-7.7</x>
+        <y>-212.5</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>3</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj3">
+        <x>48</x>
+        <y>-193.2</y>
+        <width>1.07463</width>
+        <height>0.968254</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>333.765</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0001</image>
+    </Sprite>
+    <Sprite name="yyj4">
+        <x>6.2</x>
+        <y>-183.8</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>2.23624</rotation>
+        <layer>5</layer>
+        <color>ffffffff</color>
+        <image>shenti0001</image>
+    </Sprite>
+    <Sprite name="yyj5">
+        <x>-33.1</x>
+        <y>-191.1</y>
+        <width>1</width>
+        <height>1.02778</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>6</layer>
+        <color>ffffffff</color>
+        <image>koushou0001</image>
+    </Sprite>
+    <Sprite name="yyj6">
+        <x>3.5</x>
+        <y>-111</y>
+        <width>1</width>
+        <height>0.975309</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>4.7753</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0001</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="3">
+    <Sprite name="com2">
+        <x>5.6</x>
+        <y>-235.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+    <Sprite name="yyj1">
+        <x>19.6</x>
+        <y>-211.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj2">
+        <x>-10.7</x>
+        <y>-213.5</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>4.96158</rotation>
+        <layer>3</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj3">
+        <x>64</x>
+        <y>-183.2</y>
+        <width>1.07463</width>
+        <height>0.968254</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>341.999</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0001</image>
+    </Sprite>
+    <Sprite name="yyj4">
+        <x>8.2</x>
+        <y>-188.8</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>348.046</rotation>
+        <layer>5</layer>
+        <color>ffffffff</color>
+        <image>shenti0001</image>
+    </Sprite>
+    <Sprite name="yyj5">
+        <x>-47.1</x>
+        <y>-188.1</y>
+        <width>1</width>
+        <height>1.02778</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>319.683</rotation>
+        <layer>6</layer>
+        <color>ffffffff</color>
+        <image>koushou0001</image>
+    </Sprite>
+    <Sprite name="yyj6">
+        <x>26</x>
+        <y>-152.5</y>
+        <width>1.00667</width>
+        <height>0.981976</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>338.823</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0001</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="5">
+    <Sprite name="com2">
+        <x>2.6</x>
+        <y>-235.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+    <Sprite name="yyj1">
+        <x>-15.4</x>
+        <y>-204.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>330.515</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj2">
+        <x>-35.7</x>
+        <y>-199.5</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>341.22</rotation>
+        <layer>3</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj3">
+        <x>83</x>
+        <y>-152.2</y>
+        <width>1.07463</width>
+        <height>0.968254</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>358.697</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0001</image>
+    </Sprite>
+    <Sprite name="yyj4">
+        <x>2.2</x>
+        <y>-168.8</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>307.731</rotation>
+        <layer>5</layer>
+        <color>ffffffff</color>
+        <image>shenti0001</image>
+    </Sprite>
+    <Sprite name="yyj5">
+        <x>21.9</x>
+        <y>-152.1</y>
+        <width>1</width>
+        <height>1.02778</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>117.337</rotation>
+        <layer>11</layer>
+        <color>ffffffff</color>
+        <image>koushou0001</image>
+    </Sprite>
+    <Sprite name="yyj6">
+        <x>39.5</x>
+        <y>-106</y>
+        <width>1</width>
+        <height>0.975309</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>349.169</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0001</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="6">
+    <Sprite name="com2">
+        <x>2.6</x>
+        <y>-235.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+    <Sprite name="yyj1">
+        <x>-35.4</x>
+        <y>-177.4</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>340.269</rotation>
+        <layer>2</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj2">
+        <x>-48.7</x>
+        <y>-148.5</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>307.265</rotation>
+        <layer>3</layer>
+        <color>ffffffff</color>
+        <image>tui0001</image>
+    </Sprite>
+    <Sprite name="yyj3">
+        <x>43</x>
+        <y>-201.2</y>
+        <width>1.07463</width>
+        <height>0.968254</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>292.718</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0001</image>
+    </Sprite>
+    <Sprite name="yyj4">
+        <x>1.2</x>
+        <y>-144.8</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>281.014</rotation>
+        <layer>5</layer>
+        <color>ffffffff</color>
+        <image>shenti0001</image>
+    </Sprite>
+    <Sprite name="yyj5">
+        <x>13.9</x>
+        <y>-157.1</y>
+        <width>1</width>
+        <height>1.02778</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>43.3187</rotation>
+        <layer>11</layer>
+        <color>ffffffff</color>
+        <image>koushou0001</image>
+    </Sprite>
+    <Sprite name="yyj6">
+        <x>66.5</x>
+        <y>-163</y>
+        <width>1</width>
+        <height>0.975309</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>241.288</rotation>
+        <layer>9</layer>
+        <color>ffffffff</color>
+        <image>tou0001</image>
+    </Sprite>
+</AnimFrame>

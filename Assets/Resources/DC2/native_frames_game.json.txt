@@ -1,0 +1,860 @@
+{
+ "target": "iPad gameplay loader (emulated sub_5BD20 cases)",
+ "frames": [
+  {
+   "name": "icon_bullet0Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 0,
+   "y": 0,
+   "w": 95,
+   "h": 84,
+   "nativeCall": "0x5bf66"
+  },
+  {
+   "name": "icon_bullet1Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 95,
+   "y": 0,
+   "w": 95,
+   "h": 84,
+   "nativeCall": "0x5c052"
+  },
+  {
+   "name": "icon_bullet2Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 190,
+   "y": 0,
+   "w": 95,
+   "h": 84,
+   "nativeCall": "0x5c13c"
+  },
+  {
+   "name": "icon_bullet3Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 285,
+   "y": 0,
+   "w": 95,
+   "h": 87,
+   "nativeCall": "0x5c224"
+  },
+  {
+   "name": "icon_bullet4Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 380,
+   "y": 0,
+   "w": 95,
+   "h": 85,
+   "nativeCall": "0x5c432"
+  },
+  {
+   "name": "icon_bullet5Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 0,
+   "y": 84,
+   "w": 95,
+   "h": 84,
+   "nativeCall": "0x5c51a"
+  },
+  {
+   "name": "icon_goldFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 475,
+   "y": 0,
+   "w": 37,
+   "h": 53,
+   "nativeCall": "0x5c604"
+  },
+  {
+   "name": "icon_item0Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 95,
+   "y": 84,
+   "w": 38,
+   "h": 44,
+   "nativeCall": "0x5c6ec"
+  },
+  {
+   "name": "icon_item1Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 133,
+   "y": 84,
+   "w": 61,
+   "h": 52,
+   "nativeCall": "0x5c8fc"
+  },
+  {
+   "name": "icon_item2Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 194,
+   "y": 84,
+   "w": 52,
+   "h": 55,
+   "nativeCall": "0x5c9ea"
+  },
+  {
+   "name": "icon_item3Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 380,
+   "y": 85,
+   "w": 65,
+   "h": 70,
+   "nativeCall": "0x5cad4"
+  },
+  {
+   "name": "icon_item4Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 445,
+   "y": 85,
+   "w": 56,
+   "h": 62,
+   "nativeCall": "0x5cbbc"
+  },
+  {
+   "name": "icon_item5Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 246,
+   "y": 87,
+   "w": 66,
+   "h": 62,
+   "nativeCall": "0x5cdd4"
+  },
+  {
+   "name": "icon_itemxFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 475,
+   "y": 53,
+   "w": 19,
+   "h": 18,
+   "nativeCall": "0x5cebe"
+  },
+  {
+   "name": "icon_num0Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 312,
+   "y": 87,
+   "w": 40,
+   "h": 53,
+   "nativeCall": "0x5cfa8"
+  },
+  {
+   "name": "icon_num1Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 352,
+   "y": 87,
+   "w": 23,
+   "h": 53,
+   "nativeCall": "0x5d090"
+  },
+  {
+   "name": "icon_num2Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 95,
+   "y": 128,
+   "w": 36,
+   "h": 53,
+   "nativeCall": "0x5d2a4"
+  },
+  {
+   "name": "icon_num3Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 131,
+   "y": 136,
+   "w": 36,
+   "h": 53,
+   "nativeCall": "0x5d392"
+  },
+  {
+   "name": "icon_num4Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 167,
+   "y": 139,
+   "w": 40,
+   "h": 53,
+   "nativeCall": "0x5d47c"
+  },
+  {
+   "name": "icon_num5Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 207,
+   "y": 139,
+   "w": 37,
+   "h": 53,
+   "nativeCall": "0x5d564"
+  },
+  {
+   "name": "icon_num6Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 312,
+   "y": 140,
+   "w": 38,
+   "h": 53,
+   "nativeCall": "0x5d774"
+  },
+  {
+   "name": "icon_num7Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 445,
+   "y": 147,
+   "w": 33,
+   "h": 53,
+   "nativeCall": "0x5d862"
+  },
+  {
+   "name": "icon_num8Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 244,
+   "y": 149,
+   "w": 38,
+   "h": 53,
+   "nativeCall": "0x5d94c"
+  },
+  {
+   "name": "icon_num9Frame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 350,
+   "y": 155,
+   "w": 39,
+   "h": 53,
+   "nativeCall": "0x5da34"
+  },
+  {
+   "name": "icon_stopFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 389,
+   "y": 155,
+   "w": 47,
+   "h": 45,
+   "nativeCall": "0x5dc48"
+  },
+  {
+   "name": "iconchangeFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 0,
+   "y": 168,
+   "w": 83,
+   "h": 84,
+   "nativeCall": "0x5dd36"
+  },
+  {
+   "name": "iconfireFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 83,
+   "y": 189,
+   "w": 75,
+   "h": 76,
+   "nativeCall": "0x5de20"
+  },
+  {
+   "name": "iconhitFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 158,
+   "y": 192,
+   "w": 79,
+   "h": 79,
+   "nativeCall": "0x5df06"
+  },
+  {
+   "name": "iconleftFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 389,
+   "y": 200,
+   "w": 72,
+   "h": 87,
+   "nativeCall": "0x5e124"
+  },
+  {
+   "name": "iconrightFrame",
+   "texture": "DC2/Image/ip/control_h",
+   "x": 237,
+   "y": 202,
+   "w": 76,
+   "h": 88,
+   "nativeCall": "0x5e212"
+  },
+  {
+   "name": "beijing_1Frame",
+   "texture": "DC2/Image/beijing_1",
+   "x": 1,
+   "y": 0,
+   "w": 254,
+   "h": 200,
+   "nativeCall": "0x6064a"
+  },
+  {
+   "name": "beijing_2Frame",
+   "texture": "DC2/Image/beijing_2",
+   "x": 1,
+   "y": 0,
+   "w": 254,
+   "h": 200,
+   "nativeCall": "0x60898"
+  },
+  {
+   "name": "dimian_m1Frame",
+   "texture": "DC2/Image/dimian_m",
+   "x": 1,
+   "y": 0,
+   "w": 254,
+   "h": 124,
+   "nativeCall": "0x609a8"
+  },
+  {
+   "name": "dimian_m2Frame",
+   "texture": "DC2/Image/dimian_m",
+   "x": 1,
+   "y": 128,
+   "w": 254,
+   "h": 124,
+   "nativeCall": "0x60a96"
+  },
+  {
+   "name": "G3Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 0,
+   "y": 0,
+   "w": 135,
+   "h": 216,
+   "nativeCall": "0x60cdc"
+  },
+  {
+   "name": "G2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 135,
+   "y": 0,
+   "w": 135,
+   "h": 216,
+   "nativeCall": "0x60dd0"
+  },
+  {
+   "name": "G1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 270,
+   "y": 0,
+   "w": 135,
+   "h": 216,
+   "nativeCall": "0x60ec6"
+  },
+  {
+   "name": "G4Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 405,
+   "y": 0,
+   "w": 135,
+   "h": 216,
+   "nativeCall": "0x61098"
+  },
+  {
+   "name": "G5Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 540,
+   "y": 0,
+   "w": 135,
+   "h": 216,
+   "nativeCall": "0x6118e"
+  },
+  {
+   "name": "G6Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 675,
+   "y": 0,
+   "w": 135,
+   "h": 216,
+   "nativeCall": "0x61284"
+  },
+  {
+   "name": "C1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 810,
+   "y": 0,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x6137a"
+  },
+  {
+   "name": "C2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 810,
+   "y": 99,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x61586"
+  },
+  {
+   "name": "E2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 810,
+   "y": 198,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x6167c"
+  },
+  {
+   "name": "A1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 0,
+   "y": 216,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x61772"
+  },
+  {
+   "name": "A4Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 189,
+   "y": 216,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x61866"
+  },
+  {
+   "name": "A2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 378,
+   "y": 216,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x61a68"
+  },
+  {
+   "name": "A3Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 567,
+   "y": 216,
+   "w": 189,
+   "h": 99,
+   "nativeCall": "0x61b5e"
+  },
+  {
+   "name": "F3Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 756,
+   "y": 297,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x61c56"
+  },
+  {
+   "name": "F1-2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 0,
+   "y": 315,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x61d4c"
+  },
+  {
+   "name": "F1-1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 214,
+   "y": 315,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x61f5a"
+  },
+  {
+   "name": "E1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 428,
+   "y": 315,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62050"
+  },
+  {
+   "name": "F2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 642,
+   "y": 414,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62146"
+  },
+  {
+   "name": "D2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 0,
+   "y": 432,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x6223c"
+  },
+  {
+   "name": "D3Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 214,
+   "y": 432,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62442"
+  },
+  {
+   "name": "D1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 428,
+   "y": 432,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62538"
+  },
+  {
+   "name": "B1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 642,
+   "y": 531,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x6262e"
+  },
+  {
+   "name": "B3Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 0,
+   "y": 549,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62724"
+  },
+  {
+   "name": "B2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 214,
+   "y": 549,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x6292a"
+  },
+  {
+   "name": "B4Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 428,
+   "y": 549,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62a20"
+  },
+  {
+   "name": "C4Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 642,
+   "y": 648,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62b16"
+  },
+  {
+   "name": "D4Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 0,
+   "y": 666,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62c0c"
+  },
+  {
+   "name": "D4-1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 214,
+   "y": 666,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62e12"
+  },
+  {
+   "name": "D4-2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 428,
+   "y": 666,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62f08"
+  },
+  {
+   "name": "C3Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 642,
+   "y": 765,
+   "w": 214,
+   "h": 117,
+   "nativeCall": "0x62ffe"
+  },
+  {
+   "name": "danke1Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 756,
+   "y": 216,
+   "w": 28,
+   "h": 12,
+   "nativeCall": "0x630f4"
+  },
+  {
+   "name": "danke2Frame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 756,
+   "y": 228,
+   "w": 32,
+   "h": 14,
+   "nativeCall": "0x63304"
+  },
+  {
+   "name": "juFrame",
+   "texture": "DC2/Image/ip/weapon1_h",
+   "x": 642,
+   "y": 315,
+   "w": 94,
+   "h": 94,
+   "nativeCall": "0x633f8"
+  },
+  {
+   "name": "fangzi1Frame",
+   "texture": "DC2/Image/house",
+   "x": 1,
+   "y": 0,
+   "w": 506,
+   "h": 210,
+   "nativeCall": "0x6b3fa"
+  },
+  {
+   "name": "fangzi1_aFrame",
+   "texture": "DC2/Image/house",
+   "x": 509,
+   "y": 0,
+   "w": 506,
+   "h": 210,
+   "nativeCall": "0x6b4e6"
+  },
+  {
+   "name": "fangzi2Frame",
+   "texture": "DC2/Image/house",
+   "x": 1,
+   "y": 210,
+   "w": 464,
+   "h": 210,
+   "nativeCall": "0x6b6c4"
+  },
+  {
+   "name": "fangzi2_aFrame",
+   "texture": "DC2/Image/house",
+   "x": 467,
+   "y": 210,
+   "w": 464,
+   "h": 210,
+   "nativeCall": "0x6b7ac"
+  },
+  {
+   "name": "fangzi3Frame",
+   "texture": "DC2/Image/house",
+   "x": 1,
+   "y": 420,
+   "w": 612,
+   "h": 210,
+   "nativeCall": "0x6b89c"
+  },
+  {
+   "name": "fangzi3_aFrame",
+   "texture": "DC2/Image/house",
+   "x": 1,
+   "y": 630,
+   "w": 612,
+   "h": 210,
+   "nativeCall": "0x6b988"
+  },
+  {
+   "name": "fangzi1_mFrame",
+   "texture": "DC2/Image/house",
+   "x": 933,
+   "y": 210,
+   "w": 73,
+   "h": 108,
+   "nativeCall": "0x6bb5c"
+  },
+  {
+   "name": "fangzi1_md_aFrame",
+   "texture": "DC2/Image/house",
+   "x": 933,
+   "y": 318,
+   "w": 73,
+   "h": 108,
+   "nativeCall": "0x6bc46"
+  },
+  {
+   "name": "fangzi1_mdFrame",
+   "texture": "DC2/Image/house",
+   "x": 615,
+   "y": 420,
+   "w": 73,
+   "h": 108,
+   "nativeCall": "0x6bd36"
+  },
+  {
+   "name": "fangzi2_md_aFrame",
+   "texture": "DC2/Image/house",
+   "x": 690,
+   "y": 420,
+   "w": 111,
+   "h": 104,
+   "nativeCall": "0x6be22"
+  },
+  {
+   "name": "fangzi2_m11Frame",
+   "texture": "DC2/Image/house",
+   "x": 803,
+   "y": 420,
+   "w": 57,
+   "h": 107,
+   "nativeCall": "0x6bffa"
+  },
+  {
+   "name": "fangzi2_mdFrame",
+   "texture": "DC2/Image/house",
+   "x": 862,
+   "y": 426,
+   "w": 111,
+   "h": 104,
+   "nativeCall": "0x6c0e4"
+  },
+  {
+   "name": "fangzi2_m22Frame",
+   "texture": "DC2/Image/house",
+   "x": 682,
+   "y": 528,
+   "w": 56,
+   "h": 108,
+   "nativeCall": "0x6c1d4"
+  },
+  {
+   "name": "fangzi3_md_aFrame",
+   "texture": "DC2/Image/house",
+   "x": 740,
+   "y": 527,
+   "w": 101,
+   "h": 125,
+   "nativeCall": "0x6c2c0"
+  },
+  {
+   "name": "fangzi3_m11Frame",
+   "texture": "DC2/Image/house",
+   "x": 975,
+   "y": 426,
+   "w": 47,
+   "h": 123,
+   "nativeCall": "0x6c4b6"
+  },
+  {
+   "name": "fangzi3_mdFrame",
+   "texture": "DC2/Image/house",
+   "x": 843,
+   "y": 530,
+   "w": 101,
+   "h": 125,
+   "nativeCall": "0x6c5a0"
+  },
+  {
+   "name": "fangzi3_m22Frame",
+   "texture": "DC2/Image/house",
+   "x": 615,
+   "y": 528,
+   "w": 52,
+   "h": 125,
+   "nativeCall": "0x6c690"
+  },
+  {
+   "name": "zhuangshi3Frame",
+   "texture": "DC2/Image/house",
+   "x": 1,
+   "y": 962,
+   "w": 34,
+   "h": 56,
+   "nativeCall": "0x6c762"
+  },
+  {
+   "name": "boardFrame",
+   "texture": "DC2/Image/house",
+   "x": 0,
+   "y": 840,
+   "w": 633,
+   "h": 121,
+   "nativeCall": "0x6c934"
+  },
+  {
+   "name": "bg_weaponFrame",
+   "texture": "DC2/Image/house",
+   "x": 946,
+   "y": 549,
+   "w": 77,
+   "h": 330,
+   "nativeCall": "0x6ca04"
+  },
+  {
+   "name": "tableFrame",
+   "texture": "DC2/Image/house",
+   "x": 36,
+   "y": 961,
+   "w": 91,
+   "h": 58,
+   "nativeCall": "0x6cada"
+  },
+  {
+   "name": "zhuangshi2Frame",
+   "texture": "DC2/Image/house",
+   "x": 923,
+   "y": 656,
+   "w": 22,
+   "h": 160,
+   "nativeCall": "0x6cbae"
+  },
+  {
+   "name": "bg_blood1Frame",
+   "texture": "DC2/Image/house",
+   "x": 128,
+   "y": 961,
+   "w": 174,
+   "h": 49,
+   "nativeCall": "0x6cc84"
+  },
+  {
+   "name": "bg_bloodFrame",
+   "texture": "DC2/Image/house",
+   "x": 856,
+   "y": 902,
+   "w": 168,
+   "h": 25,
+   "nativeCall": "0x6ce80"
+  },
+  {
+   "name": "bar_bloodFrame",
+   "texture": "DC2/Image/house",
+   "x": 1017,
+   "y": 0,
+   "w": 2,
+   "h": 18,
+   "nativeCall": "0x6cf56"
+  },
+  {
+   "name": "bossFrame",
+   "texture": "DC2/Image/house",
+   "x": 614,
+   "y": 653,
+   "w": 136,
+   "h": 92,
+   "nativeCall": "0x6d02a"
+  },
+  {
+   "name": "AMMOFrame",
+   "texture": "DC2/Image/house",
+   "x": 303,
+   "y": 961,
+   "w": 79,
+   "h": 58,
+   "nativeCall": "0x6d100"
+  },
+  {
+   "name": "zhuangshi1Frame",
+   "texture": "DC2/Image/house",
+   "x": 835,
+   "y": 656,
+   "w": 85,
+   "h": 207,
+   "nativeCall": "0x6d2c8"
+  }
+ ]
+}

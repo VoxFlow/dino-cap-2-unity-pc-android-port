@@ -1,0 +1,347 @@
+{
+ "provenance": "emu_loader CreateAudio events (Unicorn) + DinoCapData.dat Data/Audio + lifeModeScene::OnLoad 0xe7202 / mainScene::OnLoad 0xa7434 CreateAudio scan (r114, Dev/Tools/scan_create_audio.py)",
+ "entries": [
+  {
+   "name": "A_boss_die",
+   "resource": "DC2/Audio/A_boss_die",
+   "sha256": "94f33e3591c21c44",
+   "bytes": 98090
+  },
+  {
+   "name": "A_boss_hou_attack",
+   "resource": "DC2/Audio/A_boss_hou_attack",
+   "sha256": "86b62bce13364ef2",
+   "bytes": 103078
+  },
+  {
+   "name": "A_boss_jiao_attack01",
+   "resource": "DC2/Audio/A_boss_jiao_attack01",
+   "sha256": "bd827f6c8ccf52d5",
+   "bytes": 77744
+  },
+  {
+   "name": "A_boss_jiao_attack02",
+   "resource": "DC2/Audio/A_boss_jiao_attack02",
+   "sha256": "18a50b3c3cbd8f69",
+   "bytes": 100510
+  },
+  {
+   "name": "A_boss_wei",
+   "resource": "DC2/Audio/A_boss_wei",
+   "sha256": "728bff446cf7ea15",
+   "bytes": 87596
+  },
+  {
+   "name": "A_boss_yanjiang",
+   "resource": "DC2/Audio/A_boss_yanjiang",
+   "sha256": "947641b75ee94a1a",
+   "bytes": 162696
+  },
+  {
+   "name": "A_car",
+   "resource": "DC2/Audio/A_car",
+   "sha256": "58fa4b34304fbb42",
+   "bytes": 189890
+  },
+  {
+   "name": "A_die_tie_qiang",
+   "resource": "DC2/Audio/A_die_tie_qiang",
+   "sha256": "64126561aeb93c14",
+   "bytes": 57746
+  },
+  {
+   "name": "A_egg_broken",
+   "resource": "DC2/Audio/A_egg_broken",
+   "sha256": "1612f1a00089e657",
+   "bytes": 31682
+  },
+  {
+   "name": "A_get_down_egg",
+   "resource": "DC2/Audio/A_get_down_egg",
+   "sha256": "25121b477ee13e4a",
+   "bytes": 28132
+  },
+  {
+   "name": "A_get_egg",
+   "resource": "DC2/Audio/A_get_egg",
+   "sha256": "ffba70a62d0b6be0",
+   "bytes": 17682
+  },
+  {
+   "name": "A_hit_tie_guangjian",
+   "resource": "DC2/Audio/A_hit_tie_guangjian",
+   "sha256": "d6b54501549afde4",
+   "bytes": 87932
+  },
+  {
+   "name": "A_hit_tie_mugun",
+   "resource": "DC2/Audio/A_hit_tie_mugun",
+   "sha256": "dc786833769d8325",
+   "bytes": 53300
+  },
+  {
+   "name": "A_hit_tie_tie",
+   "resource": "DC2/Audio/A_hit_tie_tie",
+   "sha256": "e4ce1b127b8d1154",
+   "bytes": 74846
+  },
+  {
+   "name": "A_jigsaw_moveend",
+   "resource": "DC2/Audio/A_jigsaw_moveend",
+   "sha256": "9e010a4944806cc1",
+   "bytes": 64556
+  },
+  {
+   "name": "A_jigsaw_touchend",
+   "resource": "DC2/Audio/A_jigsaw_touchend",
+   "sha256": "bf2dc40b8cd08ca6",
+   "bytes": 5954
+  },
+  {
+   "name": "A_shot_tie",
+   "resource": "DC2/Audio/A_shot_tie",
+   "sha256": "78c559edb7fbfa09",
+   "bytes": 109944
+  },
+  {
+   "name": "Attack_AAudio",
+   "resource": "DC2/Audio/Attack_A",
+   "sha256": "fcc386303ee6a185",
+   "bytes": 49470
+  },
+  {
+   "name": "Attack_BAudio",
+   "resource": "DC2/Audio/Attack_B",
+   "sha256": "b9842b9ccf6b5c56",
+   "bytes": 55454
+  },
+  {
+   "name": "Attack_CAudio",
+   "resource": "DC2/Audio/Attack_C",
+   "sha256": "3a6080408c6b9624",
+   "bytes": 80044
+  },
+  {
+   "name": "Attack_DAudio",
+   "resource": "DC2/Audio/Attack_D",
+   "sha256": "5f9eaf7285bad3b2",
+   "bytes": 30878
+  },
+  {
+   "name": "Attack_E1Audio",
+   "resource": "DC2/Audio/Attack_E1",
+   "sha256": "73a8e3c2557d8835",
+   "bytes": 34130
+  },
+  {
+   "name": "Attack_E2Audio",
+   "resource": "DC2/Audio/Attack_E2",
+   "sha256": "9fc2be5ba34d8b29",
+   "bytes": 110044
+  },
+  {
+   "name": "Attack_F1Audio",
+   "resource": "DC2/Audio/Attack_F1",
+   "sha256": "7177748c01810dff",
+   "bytes": 78110
+  },
+  {
+   "name": "Attack_F2Audio",
+   "resource": "DC2/Audio/Attack_F2",
+   "sha256": "7987d40cd1625112",
+   "bytes": 18078
+  },
+  {
+   "name": "Attack_F3Audio",
+   "resource": "DC2/Audio/Attack_F3",
+   "sha256": "03fcfe12b6fc3cb6",
+   "bytes": 32540
+  },
+  {
+   "name": "Attack_F6Audio",
+   "resource": "DC2/Audio/Attack_F6",
+   "sha256": "4d5ea44098298e04",
+   "bytes": 124468
+  },
+  {
+   "name": "Attack_GAudio",
+   "resource": "DC2/Audio/Attack_G",
+   "sha256": "6b7fd1a851a447fb",
+   "bytes": 5044
+  },
+  {
+   "name": "Audio_Button1Audio",
+   "resource": "DC2/Audio/Audio_Button1",
+   "sha256": "f31cab32a1dca89f",
+   "bytes": 10044
+  },
+  {
+   "name": "Audio_G4Audio",
+   "resource": "DC2/Audio/Audio_G4",
+   "sha256": "daec794386e5f849",
+   "bytes": 20138
+  },
+  {
+   "name": "Audio_NobulletAudio",
+   "resource": "DC2/Audio/Audio_Nobullet",
+   "sha256": "6a9660b13f624d5a",
+   "bytes": 7268
+  },
+  {
+   "name": "Audio_RoleAudio",
+   "resource": "DC2/Audio/Audio_Role",
+   "sha256": "2999161fd0db1075",
+   "bytes": 15254
+  },
+  {
+   "name": "Audio_att1Audio",
+   "resource": "DC2/Audio/Audio_att1",
+   "sha256": "1560caf903d42e09",
+   "bytes": 42254
+  },
+  {
+   "name": "Audio_att2Audio",
+   "resource": "DC2/Audio/Audio_att2",
+   "sha256": "b90b39aac56e16de",
+   "bytes": 31026
+  },
+  {
+   "name": "Audio_att3Audio",
+   "resource": "DC2/Audio/Audio_att3",
+   "sha256": "85fb2a4f61ca1c43",
+   "bytes": 70044
+  },
+  {
+   "name": "Audio_button2Audio",
+   "resource": "DC2/Audio/Audio_button2",
+   "sha256": "719d943d34f03158",
+   "bytes": 10044
+  },
+  {
+   "name": "Audio_death1Audio",
+   "resource": "DC2/Audio/Audio_death1",
+   "sha256": "64126561aeb93c14",
+   "bytes": 57746
+  },
+  {
+   "name": "Audio_death2Audio",
+   "resource": "DC2/Audio/Audio_death2",
+   "sha256": "f5de3af4c458bbb1",
+   "bytes": 69494
+  },
+  {
+   "name": "Audio_death3Audio",
+   "resource": "DC2/Audio/Audio_death3",
+   "sha256": "50b610bb7e483cb8",
+   "bytes": 70044
+  },
+  {
+   "name": "Audio_enemyAudio",
+   "resource": "DC2/Audio/Audio_enemy",
+   "sha256": "b7dc46010471bac7",
+   "bytes": 123108
+  },
+  {
+   "name": "Audio_itemAudio",
+   "resource": "DC2/Audio/Audio_item",
+   "sha256": "f165dca22aa05c36",
+   "bytes": 10044
+  },
+  {
+   "name": "CloseDoorAudio",
+   "resource": "DC2/Audio/CloseDoor",
+   "sha256": "785c31cd115dc281",
+   "bytes": 51826
+  },
+  {
+   "name": "OpenDoorAudio",
+   "resource": "DC2/Audio/OpenDoor",
+   "sha256": "14cd188f1ffe2e2f",
+   "bytes": 15932
+  },
+  {
+   "name": "P5dieAudio",
+   "resource": "DC2/Audio/audio_p5die",
+   "sha256": "2c3fbf514e324980",
+   "bytes": 81554
+  },
+  {
+   "name": "RoledieAudio",
+   "resource": "DC2/Audio/Roledie",
+   "sha256": "76009a7bcf3ca018",
+   "bytes": 13056
+  },
+  {
+   "name": "linghtingAudio",
+   "resource": "DC2/Audio/audio_linghting",
+   "sha256": "701173146ae32780",
+   "bytes": 91210
+  },
+  {
+   "name": "p2hitAudio",
+   "resource": "DC2/Audio/audio_p2hit",
+   "sha256": "5b28b2b8dfe66725",
+   "bytes": 117548
+  },
+  {
+   "name": "p5behit1",
+   "resource": "DC2/Audio/audio_p5behit1",
+   "sha256": "1995a521f19ad125",
+   "bytes": 32920
+  },
+  {
+   "name": "p5behit2",
+   "resource": "DC2/Audio/audio_p5behit2",
+   "sha256": "38377ec32e55ac35",
+   "bytes": 21520
+  },
+  {
+   "name": "p5hitAudio",
+   "resource": "DC2/Audio/audio_p5hit",
+   "sha256": "a25322046ab286d1",
+   "bytes": 11354
+  },
+  {
+   "name": "p5hit_muAudio",
+   "resource": "DC2/Audio/audio_p5hit_mu",
+   "sha256": "be94cd30ce41416a",
+   "bytes": 44544
+  },
+  {
+   "name": "p5hit_tieAudio",
+   "resource": "DC2/Audio/audio_p5hit_tie",
+   "sha256": "31ce2459f9ec15c5",
+   "bytes": 44544
+  },
+  {
+   "name": "levelupAudio",
+   "resource": "DC2/Audio/Levelup",
+   "sha256": "cf95bde795ae9228",
+   "bytes": 114708
+  },
+  {
+   "name": "p1rollAudio",
+   "resource": "DC2/Audio/audio_p1roll",
+   "sha256": "0fc7795d1e49ac43",
+   "bytes": 39334
+  },
+  {
+   "name": "p2rollAudio",
+   "resource": "DC2/Audio/audio_p2roll",
+   "sha256": "da83bfaa8e9f0f8e",
+   "bytes": 30076
+  },
+  {
+   "name": "p4rollAudio",
+   "resource": "DC2/Audio/audio_p4roll",
+   "sha256": "e47c44a0dfd869b5",
+   "bytes": 16552
+  },
+  {
+   "name": "p5rollAudio",
+   "resource": "DC2/Audio/audio_p5roll",
+   "sha256": "fa16dc334c6fbbcd",
+   "bytes": 47884
+  }
+ ]
+}

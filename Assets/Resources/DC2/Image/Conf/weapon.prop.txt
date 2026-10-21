@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Weapon type="0">
+	<SubWeapon name="A1" exp="300">
+		<ATK_MIN>2</ATK_MIN>
+		<ATK_MAX>5</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>4</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="A2" exp="200">
+		<ATK_MIN>2</ATK_MIN>
+		<ATK_MAX>3</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>3</ATK_CRIT>
+		<ATK_BASE>1</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="A3" exp="250">
+		<ATK_MIN>2</ATK_MIN>
+		<ATK_MAX>3</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS> 
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>4</ATK_CRIT>
+		<ATK_BASE>1</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="A4" exp="500">
+		<ATK_MIN>5</ATK_MIN>
+		<ATK_MAX>7</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>4</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="A5" exp="800">
+		<ATK_MIN>2</ATK_MIN>
+		<ATK_MAX>4</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>4</ATK_CRIT>
+		<ATK_BASE>2</ATK_BASE>
+	</SubWeapon>
+</Weapon>
+<Weapon type="1">
+	<SubWeapon name="B1" exp="350">
+		<ATK_MIN>4</ATK_MIN>
+		<ATK_MAX>7</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>  
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="B2" exp="800">
+		<ATK_MIN>7</ATK_MIN>
+		<ATK_MAX>11</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="B3" exp="1600">
+		<ATK_MIN>7</ATK_MIN>
+		<ATK_MAX>10</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>6</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="B4" exp="1600">
+		<ATK_MIN>7</ATK_MIN>
+		<ATK_MAX>10</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>6</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="B5" exp="4000">
+		<ATK_MIN>5</ATK_MIN>
+		<ATK_MAX>8</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>6</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+</Weapon>
+<Weapon type="2">
+	<SubWeapon name="C1" exp="1000">
+		<ATK_MIN>4</ATK_MIN>
+		<ATK_MAX>6</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>6</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="C2" exp="600">
+		<ATK_MIN>3</ATK_MIN>
+		<ATK_MAX>4</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+ 		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>5</ATK_CRIT>
+		<ATK_BASE>2</ATK_BASE>
+   	</SubWeapon>
+	<SubWeapon name="C3" exp="1500">
+		<ATK_MIN>8</ATK_MIN>
+		<ATK_MAX>10</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>2</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="C4" exp="1600">
+		<ATK_MIN>8</ATK_MIN>
+		<ATK_MAX>11</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+</Weapon>
+<Weapon type="3">
+	<SubWeapon name="D1" exp="1700">
+		<ATK_MIN>5</ATK_MIN>
+		<ATK_MAX>7</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>5</ATK_CRIT>
+		<ATK_BASE>2</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="D2" exp="2000">
+		<ATK_MIN>6</ATK_MIN>
+		<ATK_MAX>9</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+	       <ATK_CRIT>5</ATK_CRIT>
+	       <ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="D3" exp="2200">
+		<ATK_MIN>9</ATK_MIN>
+		<ATK_MAX>12</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>7</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="D4" exp="2500">
+		<ATK_MIN>10</ATK_MIN>
+		<ATK_MAX>14</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>8</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="D5" exp="5000">
+		<ATK_MIN>10</ATK_MIN>
+		<ATK_MAX>14</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>0</ATK_GROUP>
+                <ATK_CRIT>8</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+</Weapon>
+<Weapon type="4">
+	<SubWeapon name="E1" exp="4500">
+		<ATK_MIN>30</ATK_MIN>
+		<ATK_MAX>37</ATK_MAX>
+		<ATK_DIS>160</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>15</ATK_CRIT>
+		<ATK_BASE>7</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="E2" exp="4800">
+		<ATK_MIN>32</ATK_MIN>
+		<ATK_MAX>40</ATK_MAX>
+		<ATK_DIS>200</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>15</ATK_CRIT>
+		<ATK_BASE>8</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="E3" exp="9000">
+		<ATK_MIN>30</ATK_MIN>
+		<ATK_MAX>37</ATK_MAX>
+		<ATK_DIS>160</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>15</ATK_CRIT>
+		<ATK_BASE>7</ATK_BASE>
+	</SubWeapon>
+</Weapon>
+<Weapon type="5">
+	<SubWeapon name="F1" exp="3000">
+		<ATK_MIN>13</ATK_MIN>
+		<ATK_MAX>17</ATK_MAX>
+		<ATK_DIS>240</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="F2" exp="2900">
+		<ATK_MIN>40</ATK_MIN>
+		<ATK_MAX>44</ATK_MAX>
+		<ATK_DIS>220</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="F3" exp="4000">
+		<ATK_MIN>13</ATK_MIN>
+		<ATK_MAX>18</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>5</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="F4" exp="4000">
+		<ATK_MIN>45</ATK_MIN>
+		<ATK_MAX>52</ATK_MAX>
+		<ATK_DIS>240</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>7</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="F5" exp="4000">
+		<ATK_MIN>20</ATK_MIN>
+		<ATK_MAX>25</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>0</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="F6" exp="8000">
+		<ATK_MIN>40</ATK_MIN>
+		<ATK_MAX>45</ATK_MAX>
+		<ATK_DIS>480</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>7</ATK_CRIT>
+		<ATK_BASE>5</ATK_BASE>
+	</SubWeapon>
+</Weapon>
+<Weapon type="6">
+	<SubWeapon name="G1" exp="600">
+		<ATK_MIN>2</ATK_MIN>
+		<ATK_MAX>4</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>5</ATK_CRIT>
+		<ATK_BASE>2</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="G2" exp="650">
+		<ATK_MIN>2</ATK_MIN>
+		<ATK_MAX>3</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>5</ATK_CRIT>
+		<ATK_BASE>2</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="G3" exp="300">
+		<ATK_MIN>1</ATK_MIN>
+		<ATK_MAX>3</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>5</ATK_CRIT>
+		<ATK_BASE>1</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="G4" exp="650">
+		<ATK_MIN>1</ATK_MIN>
+		<ATK_MAX>2</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>5</ATK_CRIT>
+		<ATK_BASE>1</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="G5" exp="1000">
+		<ATK_MIN>5</ATK_MIN>
+		<ATK_MAX>9</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>8</ATK_CRIT>
+		<ATK_BASE>4</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="G6" exp="1800">
+		<ATK_MIN>4</ATK_MIN>
+		<ATK_MAX>7</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>8</ATK_CRIT>
+		<ATK_BASE>3</ATK_BASE>
+	</SubWeapon>
+	<SubWeapon name="G7" exp="1800">
+		<ATK_MIN>9</ATK_MIN>
+		<ATK_MAX>14</ATK_MAX>
+		<ATK_DIS>140</ATK_DIS>
+		<ATK_GROUP>1</ATK_GROUP>
+                <ATK_CRIT>10</ATK_CRIT>
+		<ATK_BASE>5</ATK_BASE>
+	</SubWeapon>
+</Weapon>

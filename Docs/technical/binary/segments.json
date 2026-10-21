@@ -1,0 +1,189 @@
+{
+ "imagebase": "0x1000",
+ "segments": [
+  {
+   "name": "HEADER",
+   "start": "0x1000",
+   "end": "0x21F4",
+   "file_offset": "0x0"
+  },
+  {
+   "name": "__text",
+   "start": "0x21F4",
+   "end": "0x1E97D8",
+   "file_offset": "0x11F4"
+  },
+  {
+   "name": "__symbol_stub4",
+   "start": "0x1E97D8",
+   "end": "0x1EA474",
+   "file_offset": "0x1E87D8"
+  },
+  {
+   "name": "__const",
+   "start": "0x1EA474",
+   "end": "0x200D54",
+   "file_offset": "0x1E9474"
+  },
+  {
+   "name": "__cstring",
+   "start": "0x200D54",
+   "end": "0x21FF50",
+   "file_offset": "0x1FFD54"
+  },
+  {
+   "name": "__objc_methname",
+   "start": "0x21FF50",
+   "end": "0x222476",
+   "file_offset": "0x21EF50"
+  },
+  {
+   "name": "__objc_methtype",
+   "start": "0x222476",
+   "end": "0x2235CD",
+   "file_offset": "0x221476"
+  },
+  {
+   "name": "__objc_classname",
+   "start": "0x2235CD",
+   "end": "0x2238A8",
+   "file_offset": "0x2225CD"
+  },
+  {
+   "name": "__gcc_except_tab",
+   "start": "0x2238A8",
+   "end": "0x22A000",
+   "file_offset": "0x2228A8"
+  },
+  {
+   "name": "__dyld",
+   "start": "0x22A000",
+   "end": "0x22A01C",
+   "file_offset": "0x229000"
+  },
+  {
+   "name": "__mod_init_func",
+   "start": "0x22A01C",
+   "end": "0x22A098",
+   "file_offset": "0x22901C"
+  },
+  {
+   "name": "__nl_symbol_ptr",
+   "start": "0x22A098",
+   "end": "0x22C114",
+   "file_offset": "0x229098"
+  },
+  {
+   "name": "__la_symbol_ptr",
+   "start": "0x22C114",
+   "end": "0x22C548",
+   "file_offset": "0x22B114"
+  },
+  {
+   "name": "__const",
+   "start": "0x22C548",
+   "end": "0x230808",
+   "file_offset": "0x22B548"
+  },
+  {
+   "name": "__cfstring",
+   "start": "0x230808",
+   "end": "0x232F78",
+   "file_offset": "0x22F808"
+  },
+  {
+   "name": "__objc_classlist",
+   "start": "0x232F78",
+   "end": "0x233044",
+   "file_offset": "0x231F78"
+  },
+  {
+   "name": "__objc_catlist",
+   "start": "0x233044",
+   "end": "0x233048",
+   "file_offset": "0x232044"
+  },
+  {
+   "name": "__objc_protolist",
+   "start": "0x233048",
+   "end": "0x23309C",
+   "file_offset": "0x232048"
+  },
+  {
+   "name": "__objc_imageinfo",
+   "start": "0x23309C",
+   "end": "0x2330A4",
+   "file_offset": "0x23209C"
+  },
+  {
+   "name": "__objc_const",
+   "start": "0x2330A4",
+   "end": "0x239BB4",
+   "file_offset": "0x2320A4"
+  },
+  {
+   "name": "__objc_selrefs",
+   "start": "0x239BB4",
+   "end": "0x23ABEC",
+   "file_offset": "0x238BB4"
+  },
+  {
+   "name": "__objc_classrefs",
+   "start": "0x23ABEC",
+   "end": "0x23ADC4",
+   "file_offset": "0x239BEC"
+  },
+  {
+   "name": "__objc_superrefs",
+   "start": "0x23ADC4",
+   "end": "0x23AE74",
+   "file_offset": "0x239DC4"
+  },
+  {
+   "name": "__objc_data",
+   "start": "0x23AE74",
+   "end": "0x23B66C",
+   "file_offset": "0x239E74"
+  },
+  {
+   "name": "__data",
+   "start": "0x23B66C",
+   "end": "0x23D0F8",
+   "file_offset": "0x23A66C"
+  },
+  {
+   "name": "__bss",
+   "start": "0x23D0F8",
+   "end": "0x23DB88",
+   "file_offset": "0x23C0F8"
+  },
+  {
+   "name": "__common",
+   "start": "0x23DB88",
+   "end": "0x2411A4",
+   "file_offset": "0x23CB88"
+  },
+  {
+   "name": "ABS",
+   "start": "0x2411B0",
+   "end": "0x2411B4",
+   "file_offset": null
+  },
+  {
+   "name": "UNDEF",
+   "start": "0x2411C0",
+   "end": "0x2417B0",
+   "file_offset": null
+  },
+  {
+   "name": "OBJC_UNDEF",
+   "start": "0x2417B0",
+   "end": "0x2417B4",
+   "file_offset": null
+  }
+ ],
+ "input_sha256": "0ba6bc2b2c92a045a13af1ca37af9389f81f8848ae81bcb892423e7eae01cdd8",
+ "input_file": "Dino Cap 2",
+ "bin_sha256": "0ba6bc2b2c92a045a13af1ca37af9389f81f8848ae81bcb892423e7eae01cdd8",
+ "note": "EA = IDA static address; RVA = EA - imagebase; file offset from IDA's loader map; Thumb code shown without the low bit"
+}

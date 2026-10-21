@@ -1,0 +1,337 @@
+[
+ {
+  "id": "PA-001",
+  "assumption": "WRONG historical stand-in; removed from runtime in r4. See successor native contract.",
+  "where_used": "pilot layout of every iPad rect via RectOffset",
+  "removal_condition": "dc2.layout.ipad_offsets resolved natively",
+  "status": "SUPERSEDED",
+  "historical_assumption": "g_w_offset=64,g_h_offset=128 for iPad 1024x768",
+  "removed_from_runtime": true,
+  "evidence": [
+   "Dev/Reports/DC2-PILOT-001/report.r4.md"
+  ]
+ },
+ {
+  "id": "PA-002",
+  "assumption": "WRONG historical stand-in; removed from runtime in r4. See successor native contract.",
+  "where_used": "Options panel, loading bar",
+  "removal_condition": "read native CreateFrame table (LoadImage region 0x6f8xx-0x82xxx is not defined as functions in IDA; needs function definition or disassembly extraction) -> replace with native rects",
+  "status": "SUPERSEDED",
+  "historical_assumption": "Frame rects for op_titleFrame (223,424,308,69), op_reset_peofileFrame (1,324,449,47), op_reviewFrame (458,358,253,53), op_supportFrame (720,376,265,50), op_on1Frame (802,268,74,44), op_off1Frame (894,274,99,38) in uicontrol_h.png and loadingFrame (706,5,227,38) come from alpha bounding boxes of the text sprites (aspect ratios match the native option rects to ~1%). op_soundFrame / op_musicFrame were not found in any atlas and are drawn as text.",
+  "removed_from_runtime": true,
+  "evidence": [
+   "Dev/Reports/DC2-PILOT-001/report.r4.md"
+  ]
+ },
+ {
+  "id": "PA-003",
+  "assumption": "Native default ON proven; historical missing-save uncertainty resolved.",
+  "where_used": "Profile defaults",
+  "removal_condition": "find first-run initialisation path",
+  "status": "RESOLVED",
+  "historical_assumption": "First-run defaults g_sound=1, g_fx=1 (native default when dinocap2hd.sav is absent not located: ReadFile falls through to an empty stub sub_1A2DA).",
+  "removed_from_runtime": true,
+  "evidence": [
+   "Dev/Reports/DC2-PILOT-001/report.r4.md"
+  ]
+ },
+ {
+  "id": "PA-005",
+  "assumption": "Core update/timer/touch order replaced with ARM-backed order in r4. Residual PILOT_ASSUMPTION: UI controls are snapshot-iterated separately from labels; mutation during native live iteration is not fully reproduced.",
+  "where_used": "Scene.Step/Touch",
+  "removal_condition": "Close UI live insertion/deletion and label/control iteration caller effects.",
+  "historical_assumption": "Per frame: tweens update, then timers, then scene OnUpdate; touch: scene OnTouchEvent runs before UI control handling.",
+  "status": "BOUNDED"
+ },
+ {
+  "id": "PA-006",
+  "assumption": "WRONG historical stand-in; removed from runtime in r4. See successor native contract.",
+  "where_used": "map screen",
+  "removal_condition": "locate %Frame",
+  "status": "SUPERSEDED",
+  "historical_assumption": "EXP percent drawn as text 'NN%' instead of native number label + '%' sprite (frame '%Frame' not located).",
+  "removed_from_runtime": true,
+  "evidence": [
+   "Dev/Reports/DC2-PILOT-001/report.r4.md"
+  ]
+ },
+ {
+  "id": "PA-007",
+  "assumption": "While Options is open only its controls react (observed behaviour in Visuals Description; native mechanism not yet found).",
+  "where_used": "SelectScene.CanTouch",
+  "removal_condition": "decompile selectScene::OnTouchEvent / UIManager modality",
+  "status": "RESOLVED",
+  "resolution_r118": "NATIVE mechanism: selectScene::OnOptionEnter 0xfc138 creates image id 78 (layer 5, whiteFrame, colour 0xD0000000 = black alpha 208, rect (0, 0.5*g_h_offset, S*480 + g_w_offset, S*320 + g_h_offset)) and the option controls (ids 79..89) on layer 6. UIManager::HandleUITouch 0x18102e walks layers from the top; Triniti2D::UIImage::HandleTouch 0x17f1ac forwards to a hit test (vtable +60), so the full-screen dim image consumes every touch that no layer-6 control handled. Port: SelectScene.CanTouch (only ids 78..89 react while the panel is open) is behaviourally equivalent for this panel; the general native rule (any visible UIImage swallows touches below it) is NOT modelled elsewhere."
+ },
+ {
+  "id": "PA-004",
+  "assumption": "RESOLVED: PlaySound gated by g_fx (native, decompile 0x1a448)",
+  "where_used": "n/a",
+  "removal_condition": "done"
+ },
+ {
+  "id": "PA-008",
+  "assumption": "Hero screen: initial cursor = Profile.playerType RESOLVED NATIVE (OnLoad ARM0x10a1ca..0x10a1d4); IAP button and short-on-cash 'Yes' enter the bank with return type 2 (short-on-cash 'Yes' return type is an assumption; native dialog handler not traced); OSMessageBox replaced by in-scene dialog. Locked-hero Back behaviour is NATIVE (this+15 unchanged).",
+  "where_used": "SelectHero.cs",
+  "removal_condition": "decompile selectScene::OnLoad type-2 setup, sub_101624, OnSelectChange tail"
+ },
+ {
+  "id": "PA-009",
+  "assumption": "Bank (m_map_type 4): StoreKit does not exist on PC. IAPManager::GetPurchaseStatus is replaced by SelectScene.iapResult (default 4 = cancelled) returned after iapDelay 0.5 s; native success path (iapaddmoney) is exercised only by tests. ResetFile restoring g_iap_time/g_max_bullet_count(500) is assumed. Background sprite position/pivot assumed centred at world (0,0) (screen-centre camera, dc2.engine.camera LIKELY). r15: maxBullet reset500 term RESOLVED NATIVE reset5969a; IAP counter reset remains OPEN.",
+  "where_used": "SelectBank.cs, Profile.iapTime/maxBullet",
+  "removal_condition": "Decide PC purchase backend; close IAP counter reset/save/read lifecycle; confirm background pivot. Ammo cap reset term closed r15."
+ },
+ {
+  "id": "PA-010",
+  "assumption": "Jigsaw (m_map_type 5): GameObject pivot assumed centre with world origin at screen centre and y up (consistent with the piece-row formula); SUPERSEDED r13: omitted effect scale WRONG; native +57=2 now passed to component player; label line spacing (-4px) and bitmap-font metrics approximated by Unity TextMesh; ReadFile at showJigsawCount treated as a no-op (profile already in memory); profile fields g_jigsaw_active/get stored as int[80] JSON and ResetFile assumed to clear them. r15: ResetFile five16-byte active/get arrays and five bonus zeros RESOLVED NATIVE; ReadFile no-op and font/pivot terms remain OPEN.",
+  "where_used": "SelectJigsaw.cs, NativeComponentPlayer.oneShot",
+  "removal_condition": "Trace GameObject draw/pivot, jigsaw ReadFile ownership and native bitmap font. Effect scale and reset-array terms closed."
+ },
+ {
+  "id": "PA-011",
+  "status": "OPEN",
+  "assumption": "Fitted hero236/FitFeet/menu Girl placement removed r22-r25; Jump r33, hero0/2 XML Roll r38, bounded stored physics/CA/control/camera and ground dino phase r40-r43 recovered and active. Main/egg/Girl/special rolls/full hurt and effects/fire/pool/mission/timer/equal-ID terms remain OPEN. Host RNG separately PA-012. Native hurt numeric/callback/binding evidence r44-r45 not yet a runtime replacement. r52 bounded hero0..3 life hurt source/skin/marker/knockback/end/Wudi/audio recovered and active; Girl/boss-specific/egg/death/full firing, other timer phases and all-clock pause still OPEN. r63 FALSIFIED as native: active0/1 infinite base fire loop vs finite native advanced playback. Full fire channel/interrupt/projectile replacement remains OPEN; retain mismatch, do not claim accepted.",
+  "where_used": "GameScene/GameCombat/HeroPreview gameplay paths",
+  "removal_condition": "Replace each term with native caller/state/transform/lifecycle evidence; no picture-derived fitting.",
+  "removed_from_runtime": false,
+  "user_acceptance": "UNAPPROVED; do not extend",
+  "evidence": [
+   "Dev/Reports/DC2-PILOT-001/report.r21.md",
+   "Dev/Reports/DC2-PILOT-001/report.r22.md",
+   "Dev/Reports/DC2-PILOT-001/report.r24.md",
+   "Dev/Reports/DC2-PILOT-001/report.r25.md",
+   "Dev/Reports/DC2-PILOT-001/report.r33.md",
+   "Dev/Reports/DC2-PILOT-001/report.r43.md",
+   "Dev/Reports/DC2-PILOT-001/report.r45.md",
+   "Dev/Reports/DC2-PILOT-001/report.r52.md",
+   "Dev/Reports/DC2-PILOT-001/report.r63.md"
+  ]
+ },
+ {
+  "id": "PA-012",
+  "status": "RESOLVED",
+  "provenance": "PILOT_ASSUMPTION",
+  "assumption": "Pre-existing System.Random(12345)/NextDouble host RNG supplies gameplay randomness. Native rand seed, sequence and word distribution are not recovered; host RandomRange does not reproduce the native binary32 upper-endpoint case.",
+  "where_used": "GameCombat.cs Rand01/RandomRange and dependent gameplay draws",
+  "removal_condition": "Recover native rand implementation, seed/write/reseed lifecycle, draw ordering and supplied-word numeric mapping end to end; replace host source.",
+  "original_contract": "Native supplied-word numeric map proven in dc2.numeric.random_range.r31; seed/sequence OPEN.",
+  "port_policy": "Existing pilot assumption retained, explicitly labelled; no source-faithful RNG claim.",
+  "implementation": "Existing host generator unchanged; deterministic DEBUG_ONLY branch hooks for jump tests.",
+  "user_acceptance": "Not accepted as native; pilot assumption only.",
+  "reversibility": "Replace centralized RNG helpers after recovery.",
+  "evidence": [
+   "Dev/Reports/DC2-PILOT-001/report.r33.md"
+  ],
+  "resolution_r118": "NATIVE: EngineShell::InitApplication 0x165c7a calls srand(time(NULL)) once; the game draws libc rand() (0..2^31-1, scaled 2^-31). The sequence is time-seeded per launch and shared by all scenes. Port: one process-wide System.Random seeded from the clock (GameCombat.SeedRng); harnesses (manualStep) keep seed 12345. Historical claim (fixed host seed supplies randomness) SUPERSEDED."
+ },
+ {
+  "id": "AD-001",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Wide view: the battle and menus fill screens wider than 4:3 (ExtraHalf = 384*aspect - 512 per side), capped at 3440/1440 with black bars beyond.",
+  "where_used": "WideView.cs Apply/MaxAspect; GameScene.WideCombatExtra; UiControl anchors (AnchorOf halves)",
+  "removal_condition": "User asks to drop wide view.",
+  "original_contract": "iPad 1024x768 only (4:3).",
+  "port_policy": "Render-side extension; every gameplay use must reduce to native at E = 0.",
+  "implementation": "WideView.cs Apply/MaxAspect; GameScene.WideCombatExtra; UiControl anchors (AnchorOf halves)",
+  "user_acceptance": "User decisions (O1, r119 'fit, extend background', r119k 'shift + cap 21:9').",
+  "reversibility": "Wide view off (debug menu toggle, remembered) or ExtraHalf 0 restores the native expression",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md O1, r119, r119k"
+  ]
+ },
+ {
+  "id": "AD-002",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Hero may walk to the visible wide edge: left clamp BoundLower - E (all missions except egg), right clamp BoundUpper + E (r119t mirror; matters in arena / boss, scene+140 = 840); the camera keeps the native bounds. Not in egg missions (AD-005).",
+  "where_used": "GameScene.HeroBoundLower, HeroBoundUpper (both hero clamp sites)",
+  "removal_condition": "User decision.",
+  "original_contract": "UpdateCamera 0xbb19e / 0xbb4c0: hero and camera share the lower bound.",
+  "port_policy": "Wide view only.",
+  "implementation": "GameScene.HeroBoundLower",
+  "user_acceptance": "User (r119e item 12, left); \"mirror it\" (right, report: hero could not reach the far right in a boss mission).",
+  "reversibility": "Wide view off (debug menu toggle, remembered) or ExtraHalf 0 restores the native expression",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119e",
+   "Dev/Reports/DC2-BUGS-001/report.md r119t"
+  ]
+ },
+ {
+  "id": "AD-003",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Beam weapons (laser / electric shock): the drawn and damaging span is the visible wide span intersected with hero +- S*ATK_DIS (the native reach), instead of the native 1024 view.",
+  "where_used": "GameBeam.cs ClipBeamToReach",
+  "removal_condition": "User decision.",
+  "original_contract": "Native clip at the 1024 view edges.",
+  "port_policy": "Wide view only; origin = camLeft.",
+  "implementation": "GameBeam.cs ClipBeamToReach",
+  "user_acceptance": "User reports r119f/r119i.",
+  "reversibility": "Wide view off (debug menu toggle, remembered) or ExtraHalf 0 restores the native expression",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119f, r119i"
+  ],
+  "revised_r119s": "R002-N3: description completed (intersection with the native reach)."
+ },
+ {
+  "id": "AD-004",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Hou / wei boss and its death pose x shifted outward by E (BossWideX) so the art meets the visible edge; all distances from b.x stay native. Known difference kept: the tail covers less of a wide view (far side safer).",
+  "where_used": "GameBoss.cs BossWideX",
+  "removal_condition": "User decision.",
+  "original_contract": "bossN placement literals (S*-120 / 380, S*-10 / 300).",
+  "port_policy": "Wide view only; jiao unshifted.",
+  "implementation": "GameBoss.cs BossWideX",
+  "user_acceptance": "User 'shift + cap 21:9'; 'leave as is' for the reach difference.",
+  "reversibility": "Wide view off (debug menu toggle, remembered) or ExtraHalf 0 restores the native expression",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119k item 8b, r119p"
+  ]
+ },
+ {
+  "id": "AD-005",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Egg missions: camera clamp narrowed by E at both ends so the visible edges stop on the native bounds (truck and nest on the edges, native walk distances, native start / delivery line / hero clamp). Camera stops following E earlier at both ends.",
+  "where_used": "GameScene.UpdateNativeCamera (EggWideCamera), HeroBoundLower; GameEgg.TruckScreenPos",
+  "removal_condition": "User decision.",
+  "original_contract": "UpdateCamera 0xbb19e..0xbb1c6 clamps the 1024 view to scene+136 / +140.",
+  "port_policy": "Wide view only; supersedes the r119g truck shift and r119k line/start shift.",
+  "implementation": "GameScene.UpdateNativeCamera (EggWideCamera), HeroBoundLower; GameEgg.TruckScreenPos",
+  "user_acceptance": "User (nest near the right edge, native distance).",
+  "reversibility": "Wide view off (debug menu toggle, remembered) or ExtraHalf 0 restores the native expression",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119r"
+  ]
+ },
+ {
+  "id": "AD-006",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Run (endurance) end: the hero walks past the wide visible edge before leaving.",
+  "where_used": "GameMainScene.cs RunExitWalk line (+WideCombatExtra)",
+  "removal_condition": "User decision.",
+  "original_contract": "UpdateCamera bb2dc..bb30a: stop at view right + S*50.",
+  "port_policy": "Wide view only.",
+  "implementation": "GameMainScene.cs RunExitWalk line (+WideCombatExtra)",
+  "user_acceptance": "User 'Walk past wide edge'.",
+  "reversibility": "Wide view off (debug menu toggle, remembered) or ExtraHalf 0 restores the native expression",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119j"
+  ]
+ },
+ {
+  "id": "PF-001",
+  "status": "ACTIVE",
+  "provenance": "PLATFORM_ADAPTER",
+  "assumption": "PC keyboard and window: A/D walk, J melee, S roll, K fire, L weapon switch, Esc pause, mouse; F11 / Alt+Enter fullscreen; window size remembered; CameraFit re-fits every frame on resize.",
+  "where_used": "PcPlatform.cs; Bootstrap.CameraFit",
+  "removal_condition": "Mobile build drops it.",
+  "original_contract": "iOS touch rects (lifeModeScene::OnTouchEvent 0xd15e4).",
+  "port_policy": "Keys queue the same native touch events; no gameplay change.",
+  "implementation": "PcPlatform.cs; Bootstrap.CameraFit",
+  "user_acceptance": "User requests, L key.",
+  "reversibility": "Remove the component; no game logic depends on it",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md O1, r119k"
+  ]
+ },
+ {
+  "id": "PF-002",
+  "status": "ACTIVE",
+  "provenance": "PLATFORM_ADAPTER",
+  "assumption": "Full-screen black clear camera (Dc2BarClear, culling mask 0, depth -100) so letter/pillarbox bars are repainted each frame.",
+  "where_used": "Bootstrap.Boot",
+  "removal_condition": "Not needed if no bars are shown.",
+  "original_contract": "No bars on the iPad.",
+  "port_policy": "Render-only.",
+  "implementation": "Bootstrap.Boot",
+  "user_acceptance": "Fix for user report r119q (F1 ghost menu).",
+  "reversibility": "Remove the component; no game logic depends on it",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119q"
+  ]
+ },
+ {
+  "id": "DBG-001",
+  "status": "ACTIVE",
+  "provenance": "DEBUG_ONLY",
+  "assumption": "F1 debug menu (cash, unlocks, levels, god mode, infinite ammo, game speed, mission launch, Close button) and the debug level-unlock queue applied on the next select-scene load.",
+  "where_used": "DebugMenu.cs; Dc2Game Debug* flags; Dc2Scene.DebugLevelUnlockPending; SelectScene.OnLoad",
+  "removal_condition": "Strip from the release build.",
+  "original_contract": "Not in the shipped game.",
+  "port_policy": "Inert while closed; flags default off.",
+  "implementation": "DebugMenu.cs; Dc2Game Debug* flags; Dc2Scene.DebugLevelUnlockPending; SelectScene.OnLoad",
+  "user_acceptance": "User requests.",
+  "reversibility": "Remove the component; no game logic depends on it",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md O2, r119d, r119o, r119q"
+  ]
+ },
+ {
+  "id": "AD-007",
+  "status": "ACTIVE",
+  "provenance": "ADAPTATION",
+  "assumption": "Wide view combat windows: the hittable window (camLeft + anim.minX .. camLeft + 1024 + anim.maxX), the dinosaur spawn / despawn windows (+-500 px) and the projectile off-screen window (+-30 px) each widen by E per side; type-1 falloff for a target beyond the native view edge uses the edge distance (native damage to the native 1024 view edge, edge damage beyond). Hard reach (ATK_DIS*S) stays native.",
+  "where_used": "GameCombat.cs InViewport, WideFalloffDistance, the spawn and despawn windows (WideCombatExtra terms); GameBeam.cs projectile off-screen window",
+  "removal_condition": "User asks to drop wide view.",
+  "original_contract": "dinosaurClass::BeAttacked 0x1498a..0x149ba viewport + animation extents; type-1 falloff (|d|/ATK_DIS)*-2+3 (0x14f04..0x14f1c); spawn/despawn and projectile windows on the native view.",
+  "port_policy": "Wide view only; every term reduces to native at E = 0. R002-B5 (r119s): the falloff edge uses the 1024 viewport, not the 960 camera-follow width.",
+  "implementation": "WideCombatExtra added to each window; WideFalloffDistance clamps beyond the native view edge.",
+  "user_acceptance": "User decisions ('follow visible view', 'native edge damage').",
+  "reversibility": "Wide view off or ExtraHalf 0 restores the native expressions.",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119 O1, r119f, r119i, r119s (R002-B5)"
+  ]
+ },
+ {
+  "id": "PA-013",
+  "status": "ACTIVE",
+  "provenance": "PILOT_ASSUMPTION",
+  "assumption": "Girl (playerNewAniClass) Wudi pulse value +472 starts at 1.0 before the first invincibility; the native constructor 0x1260ae leaves +472 unwritten.",
+  "where_used": "GameCombat.cs girlWudiValue initialiser (WudiPulse)",
+  "removal_condition": "Recover the allocation / zero-fill lifecycle of playerNewAniClass (operator new, member init) and use the value it gives.",
+  "original_contract": "OnLoad 0x12522c sets the rate +468 = 4.0 only; Wudi timeout sets +472 = 1.0.",
+  "port_policy": "Labelled stand-in; affects only the first pulse cycle of the first Wudi.",
+  "implementation": "girlWudiValue = 1f",
+  "user_acceptance": "Invincibility flashing accepted visually by the user (not native proof).",
+  "reversibility": "Change the initialiser.",
+  "evidence": [
+   "Dev/Reports/DC2-BUGS-001/report.md r119 item 9, R002-N3"
+  ]
+ },
+ {
+  "id": "PF-003",
+  "status": "ACTIVE",
+  "provenance": "PLATFORM_ADAPTER",
+  "assumption": "Mobile host: Application.targetFrameRate = 60 (native 60 Hz NSTimer shell), touches only (Input.simulateMouseWithTouches = false; PcPlatform keyboard/mouse layer off on mobile), multi-touch on.",
+  "where_used": "Bootstrap.Boot; Dc2Game.Update (pcInput gate)",
+  "removal_condition": "None while Unity mobile defaults differ from the native shell.",
+  "original_contract": "EngineAppDelegate 0x18365c 60 Hz NSTimer; per-finger touch events; setMultipleTouchEnabled:.",
+  "port_policy": "Reproduce the native shell; no gameplay semantics.",
+  "implementation": "See where_used.",
+  "user_acceptance": "User request (mobile controls); device acceptance pending.",
+  "reversibility": "Remove the mobile lines in Bootstrap.Boot and the pcInput gate.",
+  "evidence": [
+   "Dev/Reports/DC2-MOBILE-001/report.md"
+  ]
+ },
+ {
+  "id": "PF-004",
+  "status": "ACTIVE",
+  "provenance": "PLATFORM_ADAPTER",
+  "assumption": "Mobile comfort/safety: edge-anchored battle HUD (art + touch rects) inset by the uncovered safe-area cutout (WideView.SafeInsetLeft/Right); screen kept awake; Android sticky immersive via Unity fullscreen.",
+  "where_used": "WideView.Shift / UpdateSafeInsets; Bootstrap.Boot; Dc2Game.OnApplicationFocus",
+  "removal_condition": "User asks to drop any of them.",
+  "original_contract": "iPad: no cutout; status bar hidden (Info.plist); no setIdleTimerDisabled: (LIKELY auto-lock applies).",
+  "port_policy": "Mobile only; 0 inset at E = 0 / wide off / desktop.",
+  "implementation": "See where_used.",
+  "user_acceptance": "User decisions: inset for notch, keep awake, immersive.",
+  "reversibility": "Remove the lines; insets default 0.",
+  "evidence": [
+   "Dev/Reports/DC2-MOBILE-001/report.md r1b"
+  ]
+ }
+]

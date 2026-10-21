@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="flash">
+        <x>2.5</x>
+        <y>351</y>
+        <width>0.138554</width>
+        <height>3.12755</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>p4flash</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="1">
+    <Sprite name="flash">
+        <x>-0.5</x>
+        <y>164.5</y>
+        <width>0.23494</width>
+        <height>2.18622</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>p4flash</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="3">
+    <Sprite name="flash">
+        <x>0.5</x>
+        <y>9.5</y>
+        <width>0.813253</width>
+        <height>1.35969</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>p4flash</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="4">
+	<Sprite name="flash">
+        <x>0.5</x>
+        <y>9.5</y>
+        <width>0</width>
+        <height>0</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>p4flash</image>
+    </Sprite>
+    <Sprite name="com1">
+        <x>50</x>
+        <y>-168</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>25.002</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>14</x>
+        <y>-210</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>4.21213</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-15</x>
+        <y>-211</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>1</x>
+        <y>-170</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>355.22</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>13</x>
+        <y>-117</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>353.884</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-50</x>
+        <y>-165</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>320.144</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com7">
+        <x>1</x>
+        <y>-237</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="8">
+    <Sprite name="com1">
+        <x>36</x>
+        <y>-169</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>321.558</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>13</x>
+        <y>-210</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>4.21213</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-15</x>
+        <y>-210</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>-1</x>
+        <y>-161</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-3</x>
+        <y>-90</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0.204681</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-44</x>
+        <y>-166</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>7.52494</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com7">
+        <x>1</x>
+        <y>-237</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="10">
+    <Sprite name="com1">
+        <x>36</x>
+        <y>-169</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>319.527</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>sishou0004</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>13</x>
+        <y>-210</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>4.21213</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-15</x>
+        <y>-211</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tui0004</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>-1</x>
+        <y>-163</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>shenti0004</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>1</x>
+        <y>-94</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0.204681</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>tou0004</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>-43</x>
+        <y>-168</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>11.1796</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>koushou0004</image>
+    </Sprite>
+    <Sprite name="com7">
+        <x>1</x>
+        <y>-237</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>yingzi</image>
+    </Sprite>
+</AnimFrame>

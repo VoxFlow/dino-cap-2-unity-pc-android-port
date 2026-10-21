@@ -1,0 +1,17 @@
+[Frame]
+Count = 14
+Frame0 = (ui_map_popbg 0 0 960 640)
+Frame1 = (ui_maptype3 0 642 702 166)
+Frame2 = (ui_maptype4 0 810 702 166)
+Frame3 = (ui_exp_bg 704 642 212 56)
+Frame4 = (ui_btn_back 704 700 208 62)
+Frame5 = (ui_btn_back_img 704 764 138 54)
+Frame6 = (ui_map_point_type8 918 642 70 80)
+Frame7 = (ui_map_point_type7 914 724 72 60)
+Frame8 = (ui_map_point_type3 844 764 60 70)
+Frame9 = (ui_map_point_type1 906 786 60 70)
+Frame10 = (ui_map_point_type2 704 820 60 70)
+Frame11 = (ui_map_point_type5 766 820 60 70)
+Frame12 = (ui_map_point_type6 828 836 60 70)
+Frame13 = (ui_map_point_type4 890 858 60 70)
+

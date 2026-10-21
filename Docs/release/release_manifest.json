@@ -1,0 +1,726 @@
+{
+ "what": "Identity of the released builds: SHA-256 and size of every file of the Windows build folder and of the Android APK.",
+ "build": "Built with Dev/Tools/build_release.ps1 (Unity 6000.3.8f1, PilotBuild.BuildWindows / BuildAndroid) from a project copy opened as X:\\DC2-Dev.",
+ "windows": [
+  {
+   "path": "D3D12/D3D12Core.dll",
+   "size": 4725304,
+   "sha256": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052"
+  },
+  {
+   "path": "Dino Cap 2.exe",
+   "size": 667648,
+   "sha256": "a546f64c90a0de6b92fe6e20c068df1398e1e06d3431182fc4e536aa9cedb4b4"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/Assembly-CSharp.dll",
+   "size": 338432,
+   "sha256": "88ef5c8d3f2398ff693d103f75e7fabfb055045801b6781d0132171dab419679"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/Mono.Security.dll",
+   "size": 241152,
+   "sha256": "095361bdec0d4cedeb86e32584f51e02ae9f74f0bcf105fe34347c12ee09544e"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.ComponentModel.Composition.dll",
+   "size": 257024,
+   "sha256": "84b56a5e6893447f11823e8d35951aa28c4b6fea9eff73460174b4b063562033"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Configuration.dll",
+   "size": 124928,
+   "sha256": "15ccff56f202331aeb5e28e24138ef5496b6072db48582ed5c08ce1d519f5d65"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Core.dll",
+   "size": 1113088,
+   "sha256": "d7acdd810b2be97861665b5ebd8d8fcc9c38b613ae0ebf9a2ca961305be97b49"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Data.DataSetExtensions.dll",
+   "size": 29696,
+   "sha256": "8c47bf3e74d016131d0ae8eefe2b7668e46bb4f672cb6239cc6f2f4368b74a36"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Data.dll",
+   "size": 2125312,
+   "sha256": "5b3eadb7e34f34648516b3df01aa05c0bc9a4b55f51367ce355e70e13cdf1ccd"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Drawing.dll",
+   "size": 489984,
+   "sha256": "9a20d5903cf2fbfb1673568d50fa0205150b9268addbe57e8284baa06f5137d6"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.EnterpriseServices.dll",
+   "size": 44544,
+   "sha256": "b0e80a549ec87249dc2e637b862a81661d09e57680bbb73793da1ff74d3e4134"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.IO.Compression.FileSystem.dll",
+   "size": 18432,
+   "sha256": "76eeb7a027a1060e57323e4efd28a9c8597837f6f2ff6b78c7c7d78ddf076a28"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.IO.Compression.dll",
+   "size": 114688,
+   "sha256": "86dff7ecfbec819d4ebc128b15525b8d0d818350b8a0a510abd3d7e7468475da"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Net.Http.dll",
+   "size": 122880,
+   "sha256": "fbc291e820be4628ca2ccf67d2d93809cac12135726639be39d11ff39796274d"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Numerics.dll",
+   "size": 119296,
+   "sha256": "b890a4ca4551337fd57c917dc7ab5e08556155ed0f1ae3f86d82ead4e9990a88"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Runtime.Serialization.dll",
+   "size": 934400,
+   "sha256": "5ae1e07f3da222777bd1442666bdbc8188550680a5cbe1e2e66b59e7749d91f0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Security.dll",
+   "size": 320000,
+   "sha256": "d2aee18d6ceebe5d65f38d6cb0e05edde11cdef2dcfe2eeda3150311e9bc2dde"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.ServiceModel.Internals.dll",
+   "size": 215040,
+   "sha256": "22c0ccf71190679f48aaf0898d80b5081a3bebd446cd18a10c6a517031c24d48"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Transactions.dll",
+   "size": 35328,
+   "sha256": "76ab09be75f53ccf0a11511e7ad9a651ae1ce9d613b9b76d2430fd9a00e0dbc9"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Xml.Linq.dll",
+   "size": 136704,
+   "sha256": "366267298e4279c54a7ee29c39e4255989920ee3b09effddf972c836ef41372b"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.Xml.dll",
+   "size": 3160064,
+   "sha256": "4337d9c85f5821c50354fb38aa8932aaa189a795235f3bf5903665fe734cd8a8"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/System.dll",
+   "size": 2641920,
+   "sha256": "335da294b98bc7a2b7b1bef3ad47c2023c366660e800f1fbd23e52f525a59464"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/Unity.Multiplayer.Center.Common.dll",
+   "size": 10752,
+   "sha256": "6f241fb9d0812f63e5bbe02cf583c572439abe4e6b345ef3b3e047aea1235928"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AIModule.dll",
+   "size": 77232,
+   "sha256": "5cd8d3a10ba6c13b349d79358a2d9388eb974e9bcfdb77070477a8f88eb12a23"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AMDModule.dll",
+   "size": 21936,
+   "sha256": "0c99e330796227ab0780ed4c8ce042fb6395d1bb36eb893cd53cc252820594df"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ARModule.dll",
+   "size": 25520,
+   "sha256": "8c40a32b6cf299424cc3f5c8207b219bd36042de945e3608b13e2d7ccf439075"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AccessibilityModule.dll",
+   "size": 50088,
+   "sha256": "faee4c3c0f0efffa4ba2dee02e9a4ba77a6904638196ea1e8d0467b28f4afd2b"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+   "size": 123304,
+   "sha256": "de3a550c0f8fd16ef144c18b555de7a56407e90d41b5c2f01be4477364876611"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+   "size": 121256,
+   "sha256": "c847176484083fb8899d76c1198f69dc894eea77332f31471b8b67c0c7afad2f"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AnimationModule.dll",
+   "size": 225192,
+   "sha256": "4e7de7812ed755cc64273bbd8d03fb0f77ecc7ffd21d2c83ca5b7d3a9e9d5f31"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AssetBundleModule.dll",
+   "size": 41904,
+   "sha256": "655e1321551a8ced35f9dacfc0ebfee24f1f30147e004009f181faefb0b8f952"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.AudioModule.dll",
+   "size": 142248,
+   "sha256": "54077e7f448c60c2cf491101381987b4facadca7238b4bbfb01629122398da5b"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ClothModule.dll",
+   "size": 36272,
+   "sha256": "2f36b3125fa3b02acb0592895e951b36834406938c5984b1accb58a568ea5072"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ClusterInputModule.dll",
+   "size": 27560,
+   "sha256": "1e6b92b5ab2212fe4d1e0d7edcc76702e692cc392bf5e9fcbf74f5d9d361bd32"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+   "size": 26544,
+   "sha256": "3a75a6c91d958e8ad9bfd2544503085631a622a626d1d2b2a45a3d8ece927750"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ContentLoadModule.dll",
+   "size": 32176,
+   "sha256": "02eabf10912554b73d88feb42046400d996c200e1b4195bf930270f36fd3db5a"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.CoreModule.dll",
+   "size": 1982384,
+   "sha256": "3b6223e7ae23eacdd1d0d9df86fcb347cb15adc87082e7e7859039620fdcc8b8"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.CrashReportingModule.dll",
+   "size": 26536,
+   "sha256": "d765dfbd1ad4dcc4467353d3b7d17bb42f142ee2d3bd03c1c3918b1983d1e93b"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.DSPGraphModule.dll",
+   "size": 31664,
+   "sha256": "87823181e86940e87254deaea615b1ded78f7d2bf9bb08e4b969dacb44151345"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.DirectorModule.dll",
+   "size": 41384,
+   "sha256": "9f9174a69fc311fb454282dea0cc49d54ec7b91ff769fa3a14e65cbed51473b9"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.GIModule.dll",
+   "size": 24488,
+   "sha256": "886690177866479d4ff528c64cdf92445bde42d5dbf883eebc3f969cce3232a0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.GameCenterModule.dll",
+   "size": 45488,
+   "sha256": "e383967b049aaada9cbc6cc90710f2d4431d0e1babc54b13df1a99e1a839ccd7"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+   "size": 14256,
+   "sha256": "87a7222e0d72449c75f92b7bac4f1ebe222b8fbce052ac95aa7686ead18ccad1"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.GridModule.dll",
+   "size": 30120,
+   "sha256": "817b6c3f4c793466ca4a9d1cdd98ad953881ceadb21307ba048eee5bec0b46ca"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+   "size": 109488,
+   "sha256": "208553bebf583ffd670a54171c65b030be327d4064ae631702d9a7519e9c870c"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.HierarchyModule.dll",
+   "size": 102320,
+   "sha256": "bdf61d435cc99d0b9f5ef1d24afe173b74c46e697a5e995266d1e259bc8433ad"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.HotReloadModule.dll",
+   "size": 24496,
+   "sha256": "4d4b2ce02889e5f8558991d7f936299be366bac6cbf02aba37259e8463e5d8f4"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.IMGUIModule.dll",
+   "size": 213936,
+   "sha256": "9413c33cd105974a1e6bfb5586ae0c4a2a49018957088d24e37e6f7f36254716"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.IdentifiersModule.dll",
+   "size": 14760,
+   "sha256": "ece1f97f5b16251915ededf03a97a485ccc8fae5569d25fd04c818c059cb9d95"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ImageConversionModule.dll",
+   "size": 31144,
+   "sha256": "98423878bb9fbd39f9ff7e81294f954636b6289b111680999cc7817e9b0e310b"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.InputForUIModule.dll",
+   "size": 57776,
+   "sha256": "ec783c465ca98ab5af25d52da8364cf6bdce30131e1fc581ff8d4349302599c3"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.InputLegacyModule.dll",
+   "size": 45480,
+   "sha256": "30dd9dc2c579b4bf7b3a0ee1b2cfeb803590cfb1c2f9fdcc7e05c2dade76c6c6"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.InputModule.dll",
+   "size": 28080,
+   "sha256": "ee5260258b2d00e490a326c5ffc7bf27e0ecf1cd0d80045a864a601999618895"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.InsightsModule.dll",
+   "size": 14248,
+   "sha256": "83974691f94d3e8cf7cb3008f1e888ae0aa7e7cc734c75a4dc56a2c8cf4ea694"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+   "size": 27048,
+   "sha256": "4b162e35a2c263237ad330d0887079360f1eccf8f8ef02f9279e8fe0c6922cd8"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.LocalizationModule.dll",
+   "size": 26544,
+   "sha256": "85a39b795ddf6fdd82faa1bcbb69ffdd59ca1e476e231b0ce9c6e57cab9072b7"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.MarshallingModule.dll",
+   "size": 83376,
+   "sha256": "fd6dd1b04bee5881cedb33d35b9e00631e43d368e3784d51ecbd2842f692dda1"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.MultiplayerModule.dll",
+   "size": 17840,
+   "sha256": "ce39a6cea24e6fd859fff26135772ddacf25e277913eb8824363320cc70d8daa"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.NVIDIAModule.dll",
+   "size": 40368,
+   "sha256": "3e9c3eb27390084c8fb6bcdab05961ee87795e4c3e11d836cbd650b8b3c33023"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+   "size": 171440,
+   "sha256": "c30e4b2d1db6339ed97e3810ba62100ed9770ff521477435092176d60c00838d"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+   "size": 25000,
+   "sha256": "7d21769f88f0cf05440753050ea4cf53a8a9d61fc8d2391ff6cd436d839fe47a"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.Physics2DModule.dll",
+   "size": 573864,
+   "sha256": "214ec757ebd0b8be019f151b215ba8aaa5b478fc7ebb5d6e36286d05731c4b5d"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+   "size": 14248,
+   "sha256": "825df46c82ea5ffedfc75defb31048025f4cd094757b547cbb78fd90ea0b5d25"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.PhysicsModule.dll",
+   "size": 181672,
+   "sha256": "7a128168cdc103114a595445a6cc2791fe003615c4b9dd654f5c9ef57fff18e3"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.PropertiesModule.dll",
+   "size": 149424,
+   "sha256": "8fbfc63fae28e63e9d0fd282f81f27a882f7a0b76a602e411eee696bf51acdd4"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.RenderAs2DModule.dll",
+   "size": 25512,
+   "sha256": "13f226af984b3fbb0c6c2b1eacc8f49aaacea3273cb3b7c3268e6fbfc133be45"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+   "size": 24488,
+   "sha256": "296d7b9817d344882a9e3dcb3fe834d9d8de4136b6ecbb4355e755074c644160"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+   "size": 26024,
+   "sha256": "39a893ea5c247149d015fe61c740d9d311676682d099d958b9cd7648ac222497"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ShaderRuntimeModule.dll",
+   "size": 25512,
+   "sha256": "f617f9353fea1a497d0b144686d4147f16fb9c2f3dce878ba261eb016f3b5c82"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+   "size": 24496,
+   "sha256": "2341e1a7885fadf58277e7addcb2bc49d5d6a0b99107a2c7a90bb9f82ed20d33"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+   "size": 37808,
+   "sha256": "4d02713a2cd8c1a16d8ee2e63d9fa4c470765fbc36b6c4afeb01cc30389dcdf0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+   "size": 28584,
+   "sha256": "b6ba0f14bb66821905b1b6a3515aa5dabd96625f119d5e5a71be42d6531d5155"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+   "size": 31656,
+   "sha256": "cd1f5457bcf1bedf3a88dbeae5059c48eef2e9ae218e222ebdfd2704992bb5e8"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.StreamingModule.dll",
+   "size": 25512,
+   "sha256": "33e2eb71feaf96eb67681aba429bbef96f659bba516b3a3dc06fc46ee908678c"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.SubstanceModule.dll",
+   "size": 29096,
+   "sha256": "00a0db7a26e1fa2e4f847f63180982ea5a521ee0abec119f9f6f04362cffdaf2"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.SubsystemsModule.dll",
+   "size": 41904,
+   "sha256": "2d897f0a81f3cd8cb98ff097e2d127d12e09270a56a12b9f34a6cb40a89f3ebc"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TLSModule.dll",
+   "size": 31144,
+   "sha256": "2722933e4fd992e3fb51aa66b5d337dbcd4a6f4c81ecd86d8cd0a1345168255e"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TerrainModule.dll",
+   "size": 133040,
+   "sha256": "0ff1bc5da4947917ffa1cf2140c02b637b5065d226a95eb93961d50fb9b991e0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+   "size": 25520,
+   "sha256": "b910cacef4163ba64742df1ef3d485f0d25a960dbdb80f658f3f3b77062aaa56"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+   "size": 81840,
+   "sha256": "eb4168b63b2c7e2e44c374b85e20513cc1c3a74ad12a89db4abd676421dac9b0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+   "size": 329640,
+   "sha256": "59fc954d5dac0b7d13675bbb87b72fcd51ebc704cb0ff6c01e5aa46fcfe7d972"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TextRenderingModule.dll",
+   "size": 39344,
+   "sha256": "909494b6b84d83c57cd1e89508c3ef1c486263ee0d49bc9d0bcec5824126d87a"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.TilemapModule.dll",
+   "size": 57776,
+   "sha256": "70130ae6fc4bcac918236af008c83760c151bd7cd46978e2737bb465c2fc8036"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UIElementsModule.dll",
+   "size": 2419120,
+   "sha256": "2f4b7b25bc6a7b6a3bd54a7f36e6dac83224a6b13e0491686b7426fa3a1ed8fd"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UIModule.dll",
+   "size": 49576,
+   "sha256": "fd3c15c8dc117383db88c9ba7b65497d0076f08cabb12012c4a18ebe1c275680"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UmbraModule.dll",
+   "size": 24496,
+   "sha256": "e5ee90c7140df5a1dca35f96968fb68303113d86fbd2930c05a0ff69a2b43584"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+   "size": 35760,
+   "sha256": "f7bcd1a06a35a887461df82a1752a1149d3310b0c65ae27b88842e0c903e5426"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+   "size": 60840,
+   "sha256": "7c1878067bfa2c157a67344f3f98df0bc5266d80a18a361bf023164a3aa8d9ff"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityConnectModule.dll",
+   "size": 27560,
+   "sha256": "7e2eeb551b07e4a01a9c8630115a62a92dc7037c450c6788467c623a62710bc0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityConsentModule.dll",
+   "size": 16304,
+   "sha256": "a9321e160fe8c1cc28a7650c1c92205976d6dc949470702fb16a0b8787afe9a0"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityCurlModule.dll",
+   "size": 26032,
+   "sha256": "633ed55121acb60b11e28b950b6fb86ebb08cd96c354f576c20290dd67c0d8b4"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+   "size": 28584,
+   "sha256": "2a1b4199f5f35c5db633156faa841d65a5d6dfa9297902322023cfe28b0df3bb"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+   "size": 28080,
+   "sha256": "fdf9c304e5289815e06e88d9c4215572013e087566826ca21e06585d1721ff78"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+   "size": 69032,
+   "sha256": "562414725a262fd20da3e61a5e69ed785cb25f7c815b53646aa09d14e6a0e698"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+   "size": 27568,
+   "sha256": "b3dcb4772f6d27e3900b40dfd03eaf5673ed1132635f05468201c11d676b8865"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+   "size": 36272,
+   "sha256": "9c0a0dff43f2c3d4b5fd598d9168d57a9efe2506417ea91ce7d5bf6bc6210d58"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.VFXModule.dll",
+   "size": 78248,
+   "sha256": "8218b8d38f6e34ee46665eefad706c2130e5f2a2d1003bc9d7d63114bfaf2cfa"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.VRModule.dll",
+   "size": 31656,
+   "sha256": "6ab27900fbb9582c44b34c597506c33b94c78c6f9f5dd9b5a12486408401224e"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+   "size": 252336,
+   "sha256": "ec03ea1beae2d76d2fa5b2816aeed4586c6c37ee62f82c57d43420b7be9d4f56"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.VehiclesModule.dll",
+   "size": 31144,
+   "sha256": "cc494a383a65b1d5d541f77989c82b753c6a4e30c55b38c4e7d9bdd0c8adea80"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.VideoModule.dll",
+   "size": 49072,
+   "sha256": "f869f21429453047a10396165d6041767ab0180bcb97960ad7f1788d1a04261a"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+   "size": 42928,
+   "sha256": "60022312143a56bc43f92ad32cf4704c7f639472c8adf62ddca5b904e4b598e7"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.WindModule.dll",
+   "size": 26544,
+   "sha256": "dd37bff40e08f479b189d8043981629e4a2ed6dca7ea7fcae25dc6c0d6891089"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.XRModule.dll",
+   "size": 87976,
+   "sha256": "806fb2b97fe902ed2b3870b1d67f78ff5d795ceeca8677c0e6ad20a15a5d9c1d"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/UnityEngine.dll",
+   "size": 196520,
+   "sha256": "a3cd4b3bb8d4ed8ba0a2953bc6f6f40afcb3c0ea6d7357f20275c671e9b97aaa"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/mscorlib.dll",
+   "size": 4632064,
+   "sha256": "c18ce37d14ac391ad399bbe0a6c784937895b6b2a5f7187d5d275b6c04c4bf50"
+  },
+  {
+   "path": "Dino Cap 2_Data/Managed/netstandard.dll",
+   "size": 90112,
+   "sha256": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
+  },
+  {
+   "path": "Dino Cap 2_Data/Resources/unity default resources",
+   "size": 5923140,
+   "sha256": "0f926eca5a119ba2c41320348b29b8ddf4d59242cdf43d40a4c77f3044eecf8f"
+  },
+  {
+   "path": "Dino Cap 2_Data/Resources/unity_builtin_extra",
+   "size": 396332,
+   "sha256": "46c80cbb92c86dbcb5095a0cb65a43eac0741573cf28ba6780d4a3f39178fabc"
+  },
+  {
+   "path": "Dino Cap 2_Data/RuntimeInitializeOnLoads.json",
+   "size": 149,
+   "sha256": "6321f7ae7b492479a8a989a9e6b084e7bd227bde04b1828e68bc578ff6ac8da4"
+  },
+  {
+   "path": "Dino Cap 2_Data/ScriptingAssemblies.json",
+   "size": 3204,
+   "sha256": "3b9e440b0472adf12dd15fb525141d13bebdef42c6be1f52415cddd47cf0e0f9"
+  },
+  {
+   "path": "Dino Cap 2_Data/app.info",
+   "size": 16,
+   "sha256": "c138885e9928a9da2198393384e67aec9c6a7339a7a5452afac36f65a1df7c76"
+  },
+  {
+   "path": "Dino Cap 2_Data/boot.config",
+   "size": 156,
+   "sha256": "ccf6d8c6a66891c3ad35545e45be56c4140e90945d1cda77a55453c8a8fc0b67"
+  },
+  {
+   "path": "Dino Cap 2_Data/globalgamemanagers",
+   "size": 46308,
+   "sha256": "643f4e86ce12b7ec098e0afa5c946cd2ac04ed21df075f65973cb096aec6c9d1"
+  },
+  {
+   "path": "Dino Cap 2_Data/globalgamemanagers.assets",
+   "size": 7792,
+   "sha256": "96fdcf4e0ba9c8cabf2678fdf150a58f474141d31fe4c0b15080ec4d81cfde93"
+  },
+  {
+   "path": "Dino Cap 2_Data/level0",
+   "size": 764,
+   "sha256": "09f402abcc1d1f4ae0a9f727c08d1055672ce28c50da4d1ac24b29f2ed1dc176"
+  },
+  {
+   "path": "Dino Cap 2_Data/resources.assets",
+   "size": 2784990,
+   "sha256": "ad0810654819977ff27b74e00e92751ebf5cb3fa593dd5ca220289682ce20bed"
+  },
+  {
+   "path": "Dino Cap 2_Data/resources.assets.resS",
+   "size": 187826208,
+   "sha256": "90a7475ba78583ca9a319fabb7ceec95be0734094aa9eb3fc9a260425bb522e9"
+  },
+  {
+   "path": "Dino Cap 2_Data/resources.resource",
+   "size": 4400928,
+   "sha256": "2dcd08c06229393a95f777a9d5ffeb3ca2313f869cf834992d59bcbf9d645460"
+  },
+  {
+   "path": "Dino Cap 2_Data/sharedassets0.assets",
+   "size": 7856,
+   "sha256": "3e5bbbc6ef8988c90b25fc10bfd499cc07ad2f0a675cd7830e4cd6bb9ebb650c"
+  },
+  {
+   "path": "Dino Cap 2_Data/sharedassets0.assets.resS",
+   "size": 524288,
+   "sha256": "393efe6399536384aa91bdfc4e64f244b4d3e1fbb6a4ff145c483ffee64ccb36"
+  },
+  {
+   "path": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+   "size": 611248,
+   "sha256": "1f2d8c2391494216a1505b702deeb75d1b75024c09b6009c290000de8155a9a2"
+  },
+  {
+   "path": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+   "size": 7828904,
+   "sha256": "d9aef2e4ef3b6755d659b329377b4d7fb9001249ce1ac1340e6cfcba92544c4b"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+   "size": 1605,
+   "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+   "size": 60575,
+   "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+   "size": 29066,
+   "sha256": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+   "size": 2622,
+   "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/2.0/web.config",
+   "size": 11635,
+   "sha256": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+   "size": 1605,
+   "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+   "size": 60575,
+   "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+   "size": 33598,
+   "sha256": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+   "size": 2622,
+   "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.0/web.config",
+   "size": 18802,
+   "sha256": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+   "size": 1605,
+   "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+   "size": 60575,
+   "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+   "size": 34056,
+   "sha256": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+   "size": 2622,
+   "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/4.5/web.config",
+   "size": 18811,
+   "sha256": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/browscap.ini",
+   "size": 311984,
+   "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/config",
+   "size": 3815,
+   "sha256": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
+  },
+  {
+   "path": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+   "size": 25817,
+   "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
+  },
+  {
+   "path": "UnityCrashHandler64.exe",
+   "size": 1609640,
+   "sha256": "c0bf87e17767f609d0f7855c1ff66b4e8945eb6ffab451cb0a6ee4df86de2b34"
+  },
+  {
+   "path": "UnityPlayer.dll",
+   "size": 35794864,
+   "sha256": "b9f19aef68d27042174d130d05681b92a87f4842e206cb6693805b45c092872e"
+  }
+ ],
+ "android": {
+  "path": "Dino Cap 2.apk",
+  "size": 52137158,
+  "sha256": "08b67ec47998dadd65c46afa3b076b8d11320276a171e8d5e4d719b3e917a9a7"
+ }
+}

@@ -1,0 +1,718 @@
+{
+ "themes": [
+  {
+   "arg": 1,
+   "stride": 960.0,
+   "countOffset": 380.0,
+   "countDivisor": 960.0,
+   "countPlus": 1,
+   "jitterRange": 0,
+   "patternRange": 4,
+   "templates": [
+    {
+     "objects": [
+      {
+       "frame": "beijing2_3_2Frame",
+       "w": 262.0,
+       "h": 202.0,
+       "x": -344.0,
+       "y": 91.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_3_1Frame",
+       "w": 390.0,
+       "h": 196.0,
+       "x": 288.0,
+       "y": 88.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_2Frame",
+       "w": 188.0,
+       "h": 214.0,
+       "x": 144.0,
+       "y": 97.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tanke_2Frame",
+       "w": 426.0,
+       "h": 156.0,
+       "x": -180.0,
+       "y": 68.0,
+       "layer": 2,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing2_3_2Frame",
+       "w": 262.0,
+       "h": 202.0,
+       "x": 304.0,
+       "y": 91.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_2Frame",
+       "w": 188.0,
+       "h": 214.0,
+       "x": -240.0,
+       "y": 97.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_1Frame",
+       "w": 220.0,
+       "h": 98.0,
+       "x": 356.0,
+       "y": 39.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tanke_1Frame",
+       "w": 372.0,
+       "h": 146.0,
+       "x": -326.0,
+       "y": 63.0,
+       "layer": 2,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing2_3_1Frame",
+       "w": 390.0,
+       "h": 196.0,
+       "x": -94.0,
+       "y": 88.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_3_2Frame",
+       "w": 262.0,
+       "h": 202.0,
+       "x": -344.0,
+       "y": 91.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_2Frame",
+       "w": 188.0,
+       "h": 214.0,
+       "x": 392.0,
+       "y": 97.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_3Frame",
+       "w": 182.0,
+       "h": 224.0,
+       "x": 422.0,
+       "y": 102.0,
+       "layer": 2,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing2_tree_2Frame",
+       "w": 188.0,
+       "h": 214.0,
+       "x": -390.0,
+       "y": 97.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_3_1Frame",
+       "w": 390.0,
+       "h": 196.0,
+       "x": -94.0,
+       "y": 88.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tanke_1Frame",
+       "w": 372.0,
+       "h": 146.0,
+       "x": -290.0,
+       "y": 63.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_1Frame",
+       "w": 220.0,
+       "h": 98.0,
+       "x": 328.0,
+       "y": 39.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing2_tree_3Frame",
+       "w": 182.0,
+       "h": 224.0,
+       "x": 402.0,
+       "y": 102.0,
+       "layer": 2,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ]
+    }
+   ]
+  },
+  {
+   "arg": 4,
+   "stride": 1360.0,
+   "countOffset": 380.0,
+   "countDivisor": 1360.0,
+   "countPlus": 1,
+   "jitterRange": 200,
+   "patternRange": 4,
+   "templates": [
+    {
+     "objects": [
+      {
+       "frame": "beijing4_obj_3Frame",
+       "w": 294.0,
+       "h": 168.0,
+       "x": 300.0,
+       "y": 54.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing4_obj_2Frame",
+       "w": 290.0,
+       "h": 176.0,
+       "x": 174.0,
+       "y": 58.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing4_obj_4Frame",
+       "w": 182.0,
+       "h": 174.0,
+       "x": -376.0,
+       "y": 57.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing4_obj_1Frame",
+       "w": 354.0,
+       "h": 188.0,
+       "x": 296.0,
+       "y": 64.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing4_obj_3Frame",
+       "w": 294.0,
+       "h": 168.0,
+       "x": -358.0,
+       "y": 54.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing4_obj_1Frame",
+       "w": 354.0,
+       "h": 188.0,
+       "x": 272.0,
+       "y": 64.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing4_obj_4Frame",
+       "w": 182.0,
+       "h": 174.0,
+       "x": -62.0,
+       "y": 57.0,
+       "layer": 2,
+       "order": 5
+      },
+      {
+       "frame": "beijing4_obj_1Frame",
+       "w": 354.0,
+       "h": 188.0,
+       "x": 272.0,
+       "y": 64.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing4_obj_2Frame",
+       "w": 290.0,
+       "h": 176.0,
+       "x": 370.0,
+       "y": 58.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    }
+   ]
+  },
+  {
+   "arg": 5,
+   "stride": 1360.0,
+   "countOffset": 0.0,
+   "countDivisor": 1360.0,
+   "countPlus": 1,
+   "jitterRange": 200,
+   "patternRange": 3,
+   "templates": [
+    {
+     "objects": [
+      {
+       "frame": "beijing5_obj1Frame",
+       "w": 640.0,
+       "h": 340.0,
+       "x": 980.0,
+       "y": 160.0,
+       "layer": 1,
+       "order": 5
+      },
+      {
+       "frame": "beijing5_obj2Frame",
+       "w": 608.0,
+       "h": 304.0,
+       "x": 300.0,
+       "y": 142.0,
+       "layer": 1,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing5_obj1Frame",
+       "w": 640.0,
+       "h": 340.0,
+       "x": 920.0,
+       "y": 160.0,
+       "layer": 1,
+       "order": 5
+      },
+      {
+       "frame": "beijing5_obj2Frame",
+       "w": 608.0,
+       "h": 304.0,
+       "x": 320.0,
+       "y": 142.0,
+       "layer": 1,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0
+     ]
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing5_obj1Frame",
+       "w": 640.0,
+       "h": 340.0,
+       "x": 920.0,
+       "y": 160.0,
+       "layer": 1,
+       "order": 5
+      },
+      {
+       "frame": "beijing5_obj2Frame",
+       "w": 608.0,
+       "h": 304.0,
+       "x": 340.0,
+       "y": 142.0,
+       "layer": 1,
+       "order": 5
+      }
+     ],
+     "jitter": [
+      1.0,
+      1.0
+     ]
+    }
+   ]
+  },
+  {
+   "arg": 3,
+   "stride": 960.0,
+   "countOffset": 380.0,
+   "countDivisor": 960.0,
+   "countPlus": 0,
+   "jitterRange": 0,
+   "patternRange": 0,
+   "templates": [
+    {
+     "objects": [
+      {
+       "frame": "beijing3_shu_3Frame",
+       "w": 442.0,
+       "h": 332.0,
+       "x": -240.0,
+       "y": 136.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": -380.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": 440.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": 400.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_shu_2Frame",
+       "w": 290.0,
+       "h": 358.0,
+       "x": -334.0,
+       "y": 149.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shu_3Frame",
+       "w": 442.0,
+       "h": 332.0,
+       "x": 272.0,
+       "y": 136.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shu_2Frame",
+       "w": 290.0,
+       "h": 358.0,
+       "x": 344.0,
+       "y": 149.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": 152.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_dizangFrame",
+       "w": 62.0,
+       "h": 102.0,
+       "x": 108.0,
+       "y": 21.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": -130.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": -420.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_3_1Frame",
+       "w": 482.0,
+       "h": 320.0,
+       "x": 182.0,
+       "y": 128.0,
+       "layer": 2,
+       "order": 10
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": -130.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": -420.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_3_2Frame",
+       "w": 482.0,
+       "h": 320.0,
+       "x": 182.0,
+       "y": 128.0,
+       "layer": 2,
+       "order": 10
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": -130.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": -420.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_3_3Frame",
+       "w": 482.0,
+       "h": 320.0,
+       "x": 182.0,
+       "y": 128.0,
+       "layer": 2,
+       "order": 10
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_3_1Frame",
+       "w": 482.0,
+       "h": 320.0,
+       "x": -40.0,
+       "y": 128.0,
+       "layer": 2,
+       "order": 10
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": 340.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": 440.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_3_2Frame",
+       "w": 482.0,
+       "h": 320.0,
+       "x": -40.0,
+       "y": 128.0,
+       "layer": 2,
+       "order": 10
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": 340.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": 440.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": []
+    },
+    {
+     "objects": [
+      {
+       "frame": "beijing3_3_3Frame",
+       "w": 482.0,
+       "h": 320.0,
+       "x": -40.0,
+       "y": 128.0,
+       "layer": 2,
+       "order": 10
+      },
+      {
+       "frame": "beijing3_shitouFrame",
+       "w": 126.0,
+       "h": 52.0,
+       "x": 340.0,
+       "y": -4.0,
+       "layer": 4,
+       "order": 5
+      },
+      {
+       "frame": "beijing3_shuFrame",
+       "w": 292.0,
+       "h": 368.0,
+       "x": 440.0,
+       "y": 154.0,
+       "layer": 4,
+       "order": 5
+      }
+     ],
+     "jitter": []
+    }
+   ]
+  }
+ ],
+ "note": "themes[arg]: arg 1/4/5 = independent groups (templates by pattern draw, x += jitter*j); arg 3 = templates [A, C, B(v0,s1), B(v0,s2), B(v0,s3), B(v1,s1), B(v1,s2), B(v1,s3)], cycle A,B,C,B. Source: Dev/Recovered/Backgrounds/mainscene_scenery_spec.r119.json (g_ground_y -110.0)"
+}

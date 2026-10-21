@@ -1,0 +1,5 @@
+[Frame]
+Count = 2
+Frame0 = (ui_p2_info 0 0 515 357)
+Frame1 = (ui_p5_info 0 359 515 357)
+

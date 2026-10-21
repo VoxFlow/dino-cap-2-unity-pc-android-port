@@ -1,0 +1,66 @@
+[
+ {
+  "id": "DH-001",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "HOffset128, previous map y606/player panel76",
+  "reason": "FALSIFIED by initialized native float64 and RectOffset consumer",
+  "replacement": "dc2.layout.ipad_offsets.r4"
+ },
+ {
+  "id": "DH-002",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "PA-002 guessed atlas crops and options text stand-ins",
+  "reason": "Replaced by212 native CreateFrame registrations",
+  "replacement": "dc2.asset.native_highres_frame_table"
+ },
+ {
+  "id": "DH-003",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "PA-006 combined NN% label",
+  "reason": "Recovered native number label63 and separate sprite90",
+  "replacement": "dc2.select.map_ui_layout"
+ },
+ {
+  "id": "DH-004",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "r10 Conf/iPad gameplay source inference;25-weapon/3-dinosaur test oracles; five PlayerWeapons records excluding jinweapon; omitted jigsaw objectScale",
+  "reason": "Native paths/sibling loop/component scale contradict these assumptions. Legacy assets/tests retained as historical, not runtime truth.",
+  "replacement": "dc2.data.native_paths.r13;dc2.data.player_weapon_siblings.r13;dc2.jigsaw.effect_object_scale.r13"
+ },
+ {
+  "id": "DH-005",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "Unadjusted Girl HP; implicit host float bonus rounding; reset-warning hardcoded for short cash dialog",
+  "reason": "Native Girl HP/current-player bands; failing249vs250 ammo; shared dialog ignored native caller text.",
+  "replacement": "dc2.hero.girl_hp.r14;dc2.numeric.binary32_bonus.r14;dc2.dialog.message_adapter.r15"
+ },
+ {
+  "id": "DH-006",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "r17 universal viewport clip/two cameras; HUD art centred at guessed native-frame size inside touch rect; old five-tile always-city repeater; per-filename trust in mixed bgv manifests; variant2=wooden arena",
+  "reason": "Claude r18 reverted clip; hardcoded native display rects replace HUD workaround. r19/r20 isolate native background branches, crops, layout and arena7 override.",
+  "replacement": "report.r19/report.r20; dc2.background.*"
+ },
+ {
+  "id": "DH-007",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "GameScene hero origin236 fitted from lowest art; r16 -240 interpreted as spawn Y",
+  "reason": "Native vector components and g_ground_y addition independently traced r22.",
+  "replacement": "dc2.game.hero_spawn_vector.r22; Girl/Dino/camera stay OPEN"
+ },
+ {
+  "id": "DH-008",
+  "status": "DISARMED",
+  "provenance": "PILOT_ASSUMPTION",
+  "value": "Bounded hero0..3 life2/3/7/8 fixed .4 hurt recovery, ordinary-prefix/normal-head hurt source, guessed -150 term and Wudi countdown timing",
+  "reason": "Native stage recipes, +/-100, marked stop/CA-end recovery and absolute-clock deadline replace these terms. Legacy outside this scope remains labelled unresolved; do not extrapolate closure.",
+  "replacement": "dc2.game.player_hurt_runtime.r52"
+ }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>61</x>
+        <y>-237</y>
+        <width>0.449383</width>
+        <height>0.111111</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_bottom</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="8">
+    <Sprite name="com1">
+        <x>61</x>
+        <y>-237</y>
+        <width>1.49877</width>
+        <height>0.395062</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>affffff</color>
+        <image>levelup_bottom</image>
+    </Sprite>
+</AnimFrame>

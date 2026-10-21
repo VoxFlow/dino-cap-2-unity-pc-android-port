@@ -1,0 +1,11 @@
+[Frame]
+Count = 8
+Frame0 = (eggs_truck_1 0 0 315 239)
+Frame1 = (eggs_truck_yingzi 317 0 299 36)
+Frame2 = (eggs_suidan_4 618 0 236 81)
+Frame3 = (eggs_suidan_3 856 0 147 24)
+Frame4 = (eggs_truck_2 856 26 124 124)
+Frame5 = (eggs_egg_a 317 38 74 96)
+Frame6 = (eggs_suidan_1 393 38 77 74)
+Frame7 = (eggs_suidan_2 472 38 68 76)
+

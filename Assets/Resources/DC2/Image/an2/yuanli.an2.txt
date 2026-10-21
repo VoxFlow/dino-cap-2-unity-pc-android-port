@@ -1,0 +1,56 @@
+<AnimFrame frame="0">
+    <Sprite name="com15">
+        <x>627.5</x>
+        <y>-141.5</y>
+        <width>0.996206</width>
+        <height>0.357143</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>10</layer>
+        <color>ffffffff</color>
+        <image>yuanli0001</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="1">
+    <Sprite name="com15">
+        <x>619.4</x>
+        <y>-144</y>
+        <width>0.996965</width>
+        <height>1.30159</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>357.398</rotation>
+        <layer>10</layer>
+        <color>ffffffff</color>
+        <image>yuanli0001</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="3">
+    <Sprite name="com15">
+        <x>621.4</x>
+        <y>-133</y>
+        <width>1</width>
+        <height>1.50794</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>358.686</rotation>
+        <layer>10</layer>
+        <color>ffffffff</color>
+        <image>yuanli0001</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="10">
+    <Sprite name="com15">
+        <x>622.4</x>
+        <y>-143</y>
+        <width>0.996965</width>
+        <height>0.444444</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>359.755</rotation>
+        <layer>10</layer>
+        <color>ffffffff</color>
+        <image>yuanli0001</image>
+    </Sprite>
+</AnimFrame>

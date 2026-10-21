@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><-- skin is 1,2,3,5 | max type is 13-->
+<Dinosaur type="1">
+	<HP>8</HP>
+	<SPD>80</SPD>
+	<EXP>6</EXP>
+	<FRQ>3</FRQ>
+	<ATK>11</ATK>
+	<ADIS>100</ADIS>
+	<SKIN>1</SKIN>
+	<SURFACE>10</SURFACE>
+</Dinosaur>
+<Dinosaur type="2">
+	<HP>5</HP>
+	<SPD>70</SPD>
+	<EXP>4</EXP>
+	<FRQ>3.2</FRQ>
+	<ATK>10</ATK>
+	<ADIS>100</ADIS>
+	<SKIN>1</SKIN>
+	<SURFACE>11</SURFACE>
+</Dinosaur>
+<Dinosaur type="3">
+	<HP>10</HP>
+	<SPD>85</SPD>
+	<EXP>8</EXP>
+	<FRQ>3</FRQ>
+	<ATK>12</ATK>
+	<ADIS>100</ADIS>
+	<SKIN>1</SKIN>
+	<SURFACE>101</SURFACE>
+</Dinosaur>
+<Dinosaur type="4">
+	<HP>11</HP>
+	<SPD>85</SPD>
+	<EXP>10</EXP>
+	<FRQ>3</FRQ>
+	<ATK>13</ATK>
+	<ADIS>100</ADIS>
+	<SKIN>1</SKIN>
+	<SURFACE>111</SURFACE>
+</Dinosaur>
+<Dinosaur type="5">
+	<HP>3</HP>
+	<SPD>210</SPD>
+	<EXP>3</EXP>
+	<FRQ>9</FRQ>
+	<ATK>9</ATK>
+	<ADIS>90</ADIS>
+	<SKIN>2</SKIN>
+	<SURFACE>20</SURFACE>
+</Dinosaur>
+<Dinosaur type="6">
+	<HP>1</HP>
+	<SPD>200</SPD>
+	<EXP>2</EXP>
+	<FRQ>8</FRQ>
+	<ATK>7</ATK>
+	<ADIS>100</ADIS>
+	<SKIN>2</SKIN>  
+	<SURFACE>21</SURFACE>
+</Dinosaur>
+<Dinosaur type="7">
+	<HP>7</HP>
+	<SPD>200</SPD>
+	<EXP>7</EXP>
+	<FRQ>8</FRQ>
+	<ATK>10</ATK>
+	<ADIS>120</ADIS>
+	<SKIN>2</SKIN>
+	<SURFACE>211</SURFACE>
+</Dinosaur>
+<Dinosaur type="8">
+	<HP>11</HP>
+	<SPD>100</SPD>
+	<EXP>5</EXP>
+	<FRQ>9</FRQ>
+	<ATK>12 </ATK>
+	<ADIS>110</ADIS>
+	<SKIN>5</SKIN>
+	<SURFACE>50</SURFACE>
+  </Dinosaur>
+<Dinosaur type="9">
+	<HP>14</HP>
+	<SPD>100</SPD>
+	<EXP>6</EXP>
+	<FRQ>10</FRQ>
+	<ATK>13</ATK>
+	<ADIS>100</ADIS>
+	<SKIN>5</SKIN>
+	<SURFACE>51</SURFACE>
+</Dinosaur>
+<Dinosaur type="10">
+	<HP>15</HP>
+	<SPD>100</SPD>
+	<EXP>8</EXP>
+	<FRQ>11</FRQ>
+	<ATK>14</ATK>
+	<ADIS>110</ADIS>
+	<SKIN>5</SKIN>
+	<SURFACE>52</SURFACE>
+</Dinosaur>
+<Dinosaur type="11">
+	<HP>17</HP>
+	<SPD>100</SPD>
+	<EXP>12</EXP>
+	<FRQ>12</FRQ>
+	<ATK>15</ATK>
+	<ADIS>110</ADIS>
+	<SKIN>5</SKIN>
+	<SURFACE>501</SURFACE>
+</Dinosaur>
+<Dinosaur type="12">
+	<HP>19</HP>
+	<SPD>100</SPD>
+	<EXP>16</EXP>
+	<FRQ>12</FRQ>
+	<ATK>16</ATK>
+	<ADIS>110</ADIS>
+	<SKIN>5</SKIN>
+	<SURFACE>511</SURFACE>
+</Dinosaur>
+<Dinosaur type="13">
+	<HP>21</HP>
+	<SPD>110</SPD>
+	<EXP>20</EXP>
+	<FRQ>12</FRQ>
+	<ATK>16</ATK>
+	<ADIS>110</ADIS>
+	<SKIN>5</SKIN>
+	<SURFACE>521</SURFACE>
+</Dinosaur>
+<Dinosaur type="14">
+	<HP>30</HP>
+	<SPD>35</SPD>
+	<EXP>17</EXP>
+	<FRQ>18</FRQ>
+	<ATK>23</ATK>
+	<ADIS>150</ADIS>
+	<SKIN>3</SKIN>
+	<SURFACE>30</SURFACE>
+</Dinosaur>
+<Dinosaur type="15">
+	<HP>35</HP>
+	<SPD>35</SPD>
+	<EXP>25</EXP>
+	<FRQ>19</FRQ>
+	<ATK>25</ATK>
+	<ADIS>150</ADIS>
+	<SKIN>3</SKIN>
+	<SURFACE>301</SURFACE>
+</Dinosaur>
+<Dinosaur type="16">
+	<HP>40</HP>
+	<SPD>35</SPD>
+	<EXP>30</EXP>
+	<FRQ>20</FRQ>
+	<ATK>25</ATK>
+	<ADIS>150</ADIS>
+	<SKIN>3</SKIN>
+	<SURFACE>31</SURFACE>
+</Dinosaur>
+<Dinosaur type="17">
+	<HP>45</HP>
+	<SPD>40</SPD>
+	<EXP>40</EXP>
+	<FRQ>21</FRQ>
+	<ATK>27</ATK>
+	<ADIS>150</ADIS>
+	<SKIN>3</SKIN>
+	<SURFACE>311</SURFACE>
+</Dinosaur>
+<Dinosaur type="18">
+	<HP>50</HP>
+	<SPD>40</SPD>
+	<EXP>60</EXP>
+	<FRQ>22</FRQ>
+	<ATK>29</ATK>
+	<ADIS>150</ADIS>
+	<SKIN>3</SKIN>
+	<SURFACE>32</SURFACE>
+</Dinosaur>
+<Dinosaur type="19">
+	<HP>55</HP>
+	<SPD>40</SPD>
+	<EXP>60</EXP>
+	<FRQ>23</FRQ>
+	<ATK>30</ATK>
+	<ADIS>150</ADIS>
+	<SKIN>3</SKIN>
+	<SURFACE>321</SURFACE>
+</Dinosaur>

@@ -1,0 +1,6 @@
+[Frame]
+Count = 3
+Frame0 = (ui_maptype8 0 0 702 166)
+Frame1 = (ui_maptype7 0 168 702 166)
+Frame2 = (ui_maptype5 0 336 702 166)
+

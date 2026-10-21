@@ -1,0 +1,9 @@
+[Frame]
+Count = 6
+Frame0 = (huoyan_xiaohuo0001 0 0 39 60)
+Frame1 = (huoyan_xiaohuo0002 41 0 39 60)
+Frame2 = (huoyan_xiaohuo0003 82 0 39 60)
+Frame3 = (huoyan_xiaohuo0004 123 0 39 60)
+Frame4 = (huoyan_xiaohuo0005 164 0 39 60)
+Frame5 = (huoyan_xiaohuo0006 0 62 39 60)
+

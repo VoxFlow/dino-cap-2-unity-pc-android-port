@@ -1,0 +1,52 @@
+{
+ "entries": [
+  {
+   "id": 0,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_City",
+   "nativeCall": "0xddb06"
+  },
+  {
+   "id": 1,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Shamo",
+   "nativeCall": "0xdd46a"
+  },
+  {
+   "id": 2,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Conglin",
+   "nativeCall": "0xde1ba"
+  },
+  {
+   "id": 3,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Renzhe",
+   "nativeCall": "0xdea64"
+  },
+  {
+   "id": 4,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Xingzhan",
+   "nativeCall": "0xdf344"
+  },
+  {
+   "id": 5,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Shendan",
+   "nativeCall": "0xdfdf8"
+  },
+  {
+   "id": 7,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Conglin",
+   "nativeCall": "0xe051a"
+  },
+  {
+   "id": 8,
+   "key": "Music_Bg_Audio",
+   "resource": "DC2/Audio/Music_Bg_Boss",
+   "nativeCall": "0xe0fec"
+  }
+ ]
+}

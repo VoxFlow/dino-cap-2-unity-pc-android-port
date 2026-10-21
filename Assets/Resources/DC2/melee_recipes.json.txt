@@ -1,0 +1,423 @@
+{
+ "binary_sha256": "0ba6bc2b2c92a045a13af1ca37af9389f81f8848ae81bcb892423e7eae01cdd8",
+ "scope": "Actual ARM GenComAnim6 / ChangeWeapon6 for four configured melee bindings.\nLoader identities from r48/r73b; external transforms symbolic, image helpers executed separately.\n",
+ "recipes": [
+  {
+   "hero": 0,
+   "weapon_type": 6,
+   "weapon_subtype": 0,
+   "source": "Image/an2/p_hit.an2",
+   "loader": "0xf4b0",
+   "events": [
+    {
+     "action": "expand",
+     "bits": 1065353216,
+     "pc": "0x69ee6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G1",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ],
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation6ExpandEf",
+     "arg_word": 1065353216,
+     "pc": "0x69ee6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap17g_ca_pBaseHitDataE",
+     "pc": "0x188fc"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13t_ca_pHitDataE",
+     "pc": "0x19208"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13g_ca_pHitDataE",
+     "pc": "0xba3ea"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G1",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ]
+  },
+  {
+   "hero": 1,
+   "weapon_type": 6,
+   "weapon_subtype": 4,
+   "source": "Image/an2/p_hit.an2",
+   "loader": "0xf4b0",
+   "events": [
+    {
+     "action": "expand",
+     "bits": 1065353216,
+     "pc": "0x69ee6"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xce4a"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0002",
+     "scale": 1.0,
+     "pc": "0xce58"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20002",
+     "scale": 1.0,
+     "pc": "0xce68"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0002",
+     "scale": 1.0,
+     "pc": "0xce78"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0002",
+     "scale": 1.0,
+     "pc": "0xce88"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0002",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G5",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ],
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation6ExpandEf",
+     "arg_word": 1065353216,
+     "pc": "0x69ee6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap17g_ca_pBaseHitDataE",
+     "pc": "0x6a010"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation17PlayerChangeImageEi",
+     "arg_word": 1,
+     "pc": "0x6a0c0"
+    },
+    {
+     "clone_from": "__ZN7DinoCap18g_ca_2pBaseHitDataE",
+     "pc": "0x18996"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13t_ca_pHitDataE",
+     "pc": "0x19208"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13g_ca_pHitDataE",
+     "pc": "0xba3ea"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G5",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ]
+  },
+  {
+   "hero": 2,
+   "weapon_type": 6,
+   "weapon_subtype": 2,
+   "source": "Image/an2/p_hit.an2",
+   "loader": "0xf4b0",
+   "events": [
+    {
+     "action": "expand",
+     "bits": 1065353216,
+     "pc": "0x69ee6"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf5e"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0003",
+     "scale": 1.0,
+     "pc": "0xcf6c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20003",
+     "scale": 1.0,
+     "pc": "0xcf7c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0003",
+     "scale": 1.0,
+     "pc": "0xcf8c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0003",
+     "scale": 1.0,
+     "pc": "0xcf9c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0003",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G3",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ],
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation6ExpandEf",
+     "arg_word": 1065353216,
+     "pc": "0x69ee6"
+    },
+    {
+     "clone_from": "__ZN7DinoCap17g_ca_pBaseHitDataE",
+     "pc": "0x6a14e"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation17PlayerChangeImageEi",
+     "arg_word": 4,
+     "pc": "0x6a1fe"
+    },
+    {
+     "clone_from": "__ZN7DinoCap18g_ca_3pBaseHitDataE",
+     "pc": "0x18a30"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13t_ca_pHitDataE",
+     "pc": "0x19208"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13g_ca_pHitDataE",
+     "pc": "0xba3ea"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G3",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ]
+  },
+  {
+   "hero": 3,
+   "weapon_type": 6,
+   "weapon_subtype": 5,
+   "source": "Image/an2/p_hit.an2",
+   "loader": "0xf4b0",
+   "events": [
+    {
+     "action": "expand",
+     "bits": 1061997773,
+     "pc": "0x6d85a"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian1",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd07c"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian2",
+     "reference": "tui0004",
+     "scale": 1.0,
+     "pc": "0xd08a"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian3",
+     "reference": "shou20004",
+     "scale": 1.0,
+     "pc": "0xd09a"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian4",
+     "reference": "shenti0004",
+     "scale": 1.0,
+     "pc": "0xd0aa"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian5",
+     "reference": "koushou0004",
+     "scale": 1.0,
+     "pc": "0xd0ba"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian6",
+     "reference": "tou0004",
+     "scale": 1.0,
+     "pc": "0xd44e"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G6",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ],
+   "source_events": [
+    {
+     "call": "__ZN7DinoCap16CombineAnimation6ExpandEf",
+     "arg_word": 1061997773,
+     "pc": "0x6d85a"
+    },
+    {
+     "call": "__ZN7DinoCap16CombineAnimation17PlayerChangeImageEi",
+     "arg_word": 7,
+     "pc": "0x6d862"
+    },
+    {
+     "clone_from": "__ZN7DinoCap18g_ca_4pBaseHitDataE",
+     "pc": "0x18aca"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13t_ca_pHitDataE",
+     "pc": "0x19208"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0x19210"
+    },
+    {
+     "clone_from": "__ZN7DinoCap13g_ca_pHitDataE",
+     "pc": "0xba3ea"
+    },
+    {
+     "action": "image",
+     "part": "yuanjian7",
+     "reference": "G6",
+     "scale": 1.0,
+     "pc": "0xba3f6"
+    },
+    {
+     "action": "key",
+     "frame": 10,
+     "pc": "0xba3fe"
+    }
+   ]
+  }
+ ]
+}

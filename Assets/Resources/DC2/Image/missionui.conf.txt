@@ -1,0 +1,20 @@
+[Frame]
+Count = 17
+Frame0 = (mission_complete 0 0 426 93)
+Frame1 = (mission_failed 428 0 381 111)
+Frame2 = (new_weapons_unlocked_55 0 95 326 23)
+Frame3 = (missionfailbg 328 95 30 320)
+Frame4 = (fail_z 360 113 314 282)
+Frame5 = (new_weapons_unlocked_48 676 113 281 22)
+Frame6 = (gain_a_new_jigsaw_55 0 120 279 24)
+Frame7 = (total_money_72 676 137 248 29)
+Frame8 = (dinos_killed_72 0 146 241 29)
+Frame9 = (total_money_55 811 0 192 23)
+Frame10 = (dinos_killed_55 811 25 188 24)
+Frame11 = (total_money_48 811 51 167 21)
+Frame12 = (dinos_killed_48 811 74 162 21)
+Frame13 = (boss_blood_bg 676 168 160 39)
+Frame14 = (comp_done 838 168 110 49)
+Frame15 = (fail_line 281 120 6 82)
+Frame16 = (boss_blood 1006 0 4 10)
+

@@ -1,0 +1,42 @@
+<config>
+  <player id="0" hire="2000" hp="100" df="2" baseexp="150">  小黑人
+    <weapon type="0" subtype="0" curlevel="1" maxlevel="20" ammoprice="150" ammoadd="40"></weapon>
+    <weapon type="2" subtype="0" curlevel="1" maxlevel="20" ammoprice="150" ammoadd="30"></weapon>
+    <weapon type="3" subtype="1" curlevel="1" maxlevel="20" ammoprice="350" ammoadd="60"></weapon>
+    <weapon type="4" subtype="1" curlevel="1" maxlevel="20" ammoprice="350" ammoadd="10"></weapon>
+	<weapon type="5" subtype="1" curlevel="1" maxlevel="20" ammoprice="400" ammoadd="40"></weapon>
+    <jinweapon type="6" subtype="0" curlevel="1" maxlevel="20"></jinweapon>
+  </player>
+  <player id="1" hire="25000" hp="100" df="1" baseexp="170">   光剑
+    <weapon type="0" subtype="1" curlevel="1" maxlevel="20" ammoprice="200" ammoadd="30"></weapon>
+    <weapon type="1" subtype="3" curlevel="1" maxlevel="20" ammoprice="700" ammoadd="10"></weapon>
+    <weapon type="3" subtype="3" curlevel="1" maxlevel="20" ammoprice="700" ammoadd="60"></weapon>
+	<weapon type="4" subtype="1" curlevel="1" maxlevel="20" ammoprice="700" ammoadd="10"></weapon>
+    <weapon type="5" subtype="4" curlevel="1" maxlevel="20" ammoprice="900" ammoadd="40"></weapon>
+    <jinweapon type="6" subtype="4" curlevel="1" maxlevel="20"></jinweapon>
+  </player>
+  <player id="2" hire="15000" hp="120" df="4" baseexp="200">  大兵
+    <weapon type="0" subtype="3" curlevel="1" maxlevel="20" ammoprice="400" ammoadd="40"></weapon>
+    <weapon type="2" subtype="1" curlevel="1" maxlevel="20" ammoprice="400" ammoadd="30"></weapon>
+    <weapon type="3" subtype="2" curlevel="1" maxlevel="20" ammoprice="600" ammoadd="60"></weapon>
+    <weapon type="4" subtype="0" curlevel="1" maxlevel="20" ammoprice="1000" ammoadd="10"></weapon>
+	<weapon type="5" subtype="2" curlevel="1" maxlevel="20" ammoprice="900" ammoadd="30"></weapon>
+    <jinweapon type="6" subtype="2" curlevel="1" maxlevel="20"></jinweapon>
+  </player>
+  <player id="3" hire="20000" hp="80" df="2" baseexp="190">  忍者
+    <weapon type="0" subtype="1" curlevel="1" maxlevel="20" ammoprice="300" ammoadd="30"></weapon>
+    <weapon type="1" subtype="2" curlevel="1" maxlevel="20" ammoprice="400" ammoadd="10"></weapon>
+    <weapon type="3" subtype="0" curlevel="1" maxlevel="20" ammoprice="600" ammoadd="60"></weapon>
+    <weapon type="4" subtype="1" curlevel="1" maxlevel="20" ammoprice="700" ammoadd="10"></weapon>
+    <weapon type="5" subtype="3" curlevel="1" maxlevel="20" ammoprice="800" ammoadd="50"></weapon>
+    <jinweapon type="6" subtype="5" curlevel="1" maxlevel="20"></jinweapon>
+  </player>
+  <player id="4" hire="50000" hp="100" df="2" baseexp="300">  兔子
+    <weapon type="0" subtype="4" curlevel="1" maxlevel="20" ammoprice="400" ammoadd="30"></weapon>
+    <weapon type="1" subtype="4" curlevel="1" maxlevel="20" ammoprice="500" ammoadd="10"></weapon>
+    <weapon type="3" subtype="4" curlevel="1" maxlevel="20" ammoprice="700" ammoadd="60"></weapon>
+    <weapon type="4" subtype="2" curlevel="1" maxlevel="20" ammoprice="800" ammoadd="10"></weapon>
+    <weapon type="5" subtype="5" curlevel="1" maxlevel="20" ammoprice="900" ammoadd="40"></weapon>
+    <jinweapon type="6" subtype="6" curlevel="1" maxlevel="20"></jinweapon>
+  </player>
+</config>

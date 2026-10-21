@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Interval time="0">
+	<Dinosaur type="1">
+		<HP>13</HP>
+		<SPD>50</SPD>
+		<EXP>20</EXP>
+		<FRQ>1.3</FRQ>
+		<ATK>8</ATK>
+		<ADIS>200</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="2">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>17</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>200</ADIS>
+	</Dinosaur>
+	
+	<Dinosaur type="3">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>200</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="4">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>	
+</Interval>
+
+<Interval time="30">
+	<Dinosaur type="1">
+		<HP>20</HP> 
+		<SPD>60</SPD>
+		<EXP>35</EXP>
+		<FRQ>1.7</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="2">
+		<HP>7</HP>
+		<SPD>200</SPD>
+		<EXP>30</EXP>
+		<FRQ>6</FRQ>
+		<ATK>7</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+       <Dinosaur type="3">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="4">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	
+</Interval>
+
+<Interval time="60">
+	<Dinosaur type="1">
+		<HP>27</HP>
+		<SPD>70</SPD>
+		<EXP>45</EXP>
+		<FRQ>2</FRQ>
+		<ATK>13</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="2">
+		<HP>13</HP>
+		<SPD>200</SPD>
+		<EXP>41</EXP>
+		<FRQ>4.5</FRQ>
+		<ATK>5</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+
+        <Dinosaur type="3">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+	<Dinosaur type="4">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	
+</Interval>
+
+<Interval time="190">
+	<Dinosaur type="1">
+		<HP>35</HP>
+		<SPD>55</SPD>
+		<EXP>61</EXP>
+		<FRQ>2</FRQ>
+		<ATK>15</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="2">
+		<HP>19</HP>
+		<SPD>200</SPD>
+		<EXP>58</EXP>
+		<FRQ>3</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+    <Dinosaur type="3">
+		<HP>5</HP>
+		<SPD>50</SPD>
+		<EXP>7</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="4">
+		<HP>25</HP>
+		<SPD>190</SPD>
+		<EXP>59</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>5</ATK>
+		<ADIS>200</ADIS>
+	</Dinosaur>	
+</Interval>
+
+<Interval time="150">
+	<Dinosaur type="1">
+		<HP>42</HP>
+		<SPD>50</SPD>
+		<EXP>78</EXP>
+		<FRQ>2</FRQ>
+		<ATK>12</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="2">
+		<HP>20</HP>
+		<SPD>200</SPD>
+		<EXP>73</EXP>
+		<FRQ>4</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+
+	<Dinosaur type="3">
+		<HP>45</HP>
+		<SPD>30</SPD>
+		<EXP>90</EXP>
+		<FRQ>7</FRQ>
+		<ATK>13</ATK>
+		<ADIS>280</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="4">
+		<HP>30</HP>
+		<SPD>50</SPD>
+		<EXP>77</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>200</ADIS>
+	</Dinosaur>
+</Interval>
+
+<Interval time="200">
+	<Dinosaur type="1">
+		<HP>50</HP>
+		<SPD>50</SPD>
+		<EXP>103</EXP>
+		<FRQ>2</FRQ>
+		<ATK>15</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+
+	<Dinosaur type="2">
+		<HP>25</HP>
+		<SPD>200</SPD>
+		<EXP>90</EXP>
+		<FRQ>4</FRQ>
+		<ATK>10</ATK>
+		<ADIS>190</ADIS>
+	</Dinosaur>
+	<Dinosaur type="3">
+		<HP>60</HP>
+		<SPD>30</SPD>
+		<EXP>120</EXP>
+		<FRQ>4</FRQ>
+		<ATK>20</ATK>
+		<ADIS>280</ADIS>
+	</Dinosaur>
+	<Dinosaur type="4">
+		<HP>36</HP>
+		<SPD>50</SPD>
+		<EXP>87</EXP>
+		<FRQ>9999</FRQ>
+		<ATK>10</ATK>
+		<ADIS>200</ADIS>
+	</Dinosaur>
+</Interval>

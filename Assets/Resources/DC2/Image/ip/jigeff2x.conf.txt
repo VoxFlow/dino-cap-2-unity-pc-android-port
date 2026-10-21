@@ -1,0 +1,5 @@
+[Frame]
+Count = 2
+Frame0 = (jigsaw_1 0 0 158 155)
+Frame1 = (jigsaw_2 160 0 19 128)
+

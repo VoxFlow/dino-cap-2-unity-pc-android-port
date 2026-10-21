@@ -1,0 +1,86 @@
+# selectScene::UpgradeWeapon
+
+> *AI-reviewed content: may change at any time and should not be fully trusted. See the [disclaimer](../../../../start/disclaimer.md).*
+
+| Field | Value |
+|---|---|
+| Function ID | `FUN-0F52C2` |
+| Binary | [`DC2-IOS13-ARM32-SUB6`](../../../binary/ADDRESS_CONVENTIONS.md) |
+| Static address (EA) | `0xF52C2` |
+| RVA (EA - 0x1000) | `0xF42C2` |
+| File offset | `0xF42C2` |
+| Size | 682 code bytes in 1 chunk(s), 302 instructions |
+| Instruction set | THUMB |
+| Name | `__ZN7DinoCap11selectScene13UpgradeWeaponEi` (symbol in the binary (nlist)) |
+| Demangled | `DinoCap::selectScene::UpgradeWeapon(int)` |
+| Bytes SHA-256 | `b417a0efb811e7336a6b857265b895ef2b4826ad70682cb2a58a14d8232354c1` |
+| Direct code callers | 1 (virtual-table and function-pointer calls are not counted) |
+| Ledger verdict / status | UNSET / PORTED_OR_TRACED |
+| Depth | generated from the database export; interpretation limited to the cited rules and code comments |
+
+## What it does
+
+- Rule `dc2.hero.payment_operators.r7` (PROVEN, NATIVE): ARM hero hire OnUIEvent0x10d1aa CMPcash,cost/BLTfailure: equality succeeds. Hero upgrade0x10d560 CMPcost,cash/BGEskip: equality fails. Weapon upgrade0xf5472 CMPcost,cash/BGTfailure: equality succeeds. Hero dispatch subtracts6 before table, so index33 mapsUI39; do not use IDA table-relative labels as control IDs. Scope only operators; full formula numeric proof remains granular.
+
+## Where the port implements or cites it
+
+**Unmapped**: no Unity code comment cites this function. Unmapped is not proof that the behaviour is absent.
+
+## Callers and callees (direct code references)
+
+Callers: [`selectScene::OnUIEvent`](../../../functions/dossiers/selectScene/FUN-10B93A.md)
+
+Callees: [`PlaySound`](../../../functions/dossiers/DinoCap/FUN-01A448.md), `SaveFile`, `subWeaponClass::~subWeaponClass`, `weaponClass::~weaponClass`, `playerTypeClass::~playerTypeClass`, [`selectScene::OnNoMoney`](../../../functions/dossiers/selectScene/FUN-0F3F50.md), [`selectScene::UpdateExp`](../../../functions/dossiers/selectScene/FUN-0F45DC.md), `___switch32`, `___save_vfp_d8_d15_regs`, `___restore_vfp_d8_d15_regs`, `__Unwind_SjLj_Register`, `__Unwind_SjLj_Resume`, `__Unwind_SjLj_Unregister`
+
+## Strings it references
+
+- `0x20483C` "Audio_button2Audio"
+- `0x204850` "Audio_Button1Audio"
+
+## Named data it references
+
+- `0x22A0B0` ___gxx_personality_sj0_ptr
+- `0x241618` ___gxx_personality_sj0
+- `0x227F7E` GCC_except_table23_7
+- `0x22A24C` __ZN7DinoCap15g_player_vectorE_ptr
+- `0x2404AC` DinoCap::g_player_vector
+- `0x22A2A4` __ZN7DinoCap15playerTypeClassC2ERKS0__ptr
+- `0x22A0C4` __ZN7DinoCap16g_manager_WeaponE_ptr
+- `0x2404B8` DinoCap::g_manager_Weapon
+- `0x22A2F4` __ZN7DinoCap11weaponClassC2ERKS0__ptr
+- `0x22A2DC` __ZN7DinoCap13g_prop_PlayerE_ptr
+- `0x240474` DinoCap::g_prop_Player
+
+## Native instructions (excerpts)
+
+Exact bytes and IDA 9.4 rendering of the analysed binary. Interpretation is in the rules and notes above, not in the listing.
+
+**Entry (first instructions)**
+
+```
+0xF52C2   f0b5       PUSH    {R4-R7,LR}
+0xF52C4   5e46       MOV     R6, R11
+0xF52C6   5546       MOV     R5, R10
+0xF52C8   4446       MOV     R4, R8
+0xF52CA   70b4       PUSH    {R4-R6}
+0xF52CC   f2f008ee   BLX     ___save_vfp_d8_d15_regs
+0xF52D0   16af       ADD     R7, SP, #arg_38
+0xF52D2   c3b0       SUB     SP, SP, #0x10C
+0xF52D4   a54b       LDR     R3, =(___gxx_personality_sj0_ptr - 0xF52DE)
+0xF52D6   0122       MOVS    R2, #1
+0xF52D8   0290       STR     R0, [SP,#0x10C+var_104]
+0xF52DA   7b44       ADD     R3, PC; ___gxx_personality_sj0_ptr
+0xF52DC   6846       MOV     R0, SP
+0xF52DE   1b68       LDR     R3, [R3]; /usr/lib/libstdc++.6.dylib
+0xF52E0   1090       STR     R0, [SP,#0x10C+var_CC]
+0xF52E2   06a8       ADD     R0, SP, #0x10C+fctx; lpfctx
+0xF52E4   0c93       STR     R3, [SP,#0x10C+fctx.personality]
+0xF52E6   a24b       LDR     R3, =(GCC_except_table23_7 - 0xF52F0)
+0xF52E8   0191       STR     R1, [SP,#0x10C+var_108]
+0xF52EA   0e97       STR     R7, [SP,#0x10C+fctx.jbuf]
+0xF52EC   7b44       ADD     R3, PC; GCC_except_table23_7
+0xF52EE   0d93       STR     R3, [SP,#0x10C+fctx.lsda]
+0xF52F0   a04b       LDR     R3, =(loc_F54F6 - 0xF52F6)
+0xF52F2   7b44       ADD     R3, PC; loc_F54F6
+```
+

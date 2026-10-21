@@ -1,0 +1,19 @@
+{
+ "functions": 8503,
+ "core": 416,
+ "core_with_rules": 100,
+ "core_mapped": 314,
+ "deep": 12,
+ "edges": 56541,
+ "core_edges": 2422,
+ "vtables": 116,
+ "unity_citations": 1034,
+ "assets": 388,
+ "ledger": {
+  "PORTED_OR_TRACED": 106,
+  "TEST_EXECUTED": 244,
+  "VERIFIED": 31,
+  "PORTED": 30,
+  "TRACED": 5
+ }
+}

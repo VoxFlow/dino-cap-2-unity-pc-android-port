@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>7</x>
+        <y>-170</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>78ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-16</x>
+        <y>-139</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-17.5</x>
+        <y>-172.5</y>
+        <width>0.484848</width>
+        <height>0.545455</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>11</x>
+        <y>-117</y>
+        <width>0.69697</width>
+        <height>0.636364</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-5</x>
+        <y>-206</y>
+        <width>0.757576</width>
+        <height>0.636364</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="6">
+    <Sprite name="com1">
+        <x>8</x>
+        <y>-133.5</y>
+        <width>1.12121</width>
+        <height>1.27273</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>297.763</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-17</x>
+        <y>-114</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>313.836</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-17</x>
+        <y>-143.5</y>
+        <width>0.515152</width>
+        <height>0.484848</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>12</x>
+        <y>-69</y>
+        <width>0.454545</width>
+        <height>0.454545</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>-5</x>
+        <y>-147</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>25.5</x>
+        <y>-166.5</y>
+        <width>0.606061</width>
+        <height>0.363636</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="15">
+    <Sprite name="com1">
+        <x>7</x>
+        <y>-47</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>216.853</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>-16</x>
+        <y>-80</y>
+        <width>1</width>
+        <height>1</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>314.26</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>-16.5</x>
+        <y>-86</y>
+        <width>0.545455</width>
+        <height>0.393939</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+    <Sprite name="com6">
+        <x>27</x>
+        <y>-105</y>
+        <width>0.575758</width>
+        <height>0.515152</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>330.068</rotation>
+        <layer>0</layer>
+        <color>32ffffff</color>
+        <image>levelup_star</image>
+    </Sprite>
+</AnimFrame>

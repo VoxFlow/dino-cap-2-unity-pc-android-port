@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="LEGACY" ?>
+<AnimFrame frame="0">
+    <Sprite name="com1">
+        <x>19</x>
+        <y>-180</y>
+        <width>1</width>
+        <height>0.714286</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>50ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>52</x>
+        <y>-149.5</y>
+        <width>1</width>
+        <height>0.571428</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>50ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>12</x>
+        <y>-132</y>
+        <width>1</width>
+        <height>0.942857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>50ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>2</x>
+        <y>-160</y>
+        <width>1</width>
+        <height>0.942857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>50ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>37</x>
+        <y>-98</y>
+        <width>1</width>
+        <height>0.942857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>50ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="2">
+    <Sprite name="com1">
+        <x>18</x>
+        <y>-99.5</y>
+        <width>2</width>
+        <height>3.14285</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>51.5</x>
+        <y>-111.5</y>
+        <width>1.5</width>
+        <height>1.88571</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>11.5</x>
+        <y>-111</y>
+        <width>1.5</width>
+        <height>1.85714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>2.5</x>
+        <y>-138.5</y>
+        <width>1.5</width>
+        <height>1.08571</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>36.5</x>
+        <y>-61</y>
+        <width>1.5</width>
+        <height>1.85714</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+</AnimFrame>
+<AnimFrame frame="18">
+    <Sprite name="com1">
+        <x>15.5</x>
+        <y>55.5</y>
+        <width>1.5</width>
+        <height>5.88572</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com2">
+        <x>51</x>
+        <y>-43.5</y>
+        <width>1</width>
+        <height>3.82857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com3">
+        <x>10.5</x>
+        <y>-31.5</y>
+        <width>0.5</width>
+        <height>3.02857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com4">
+        <x>2</x>
+        <y>-104.5</y>
+        <width>1</width>
+        <height>3.02857</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+    <Sprite name="com5">
+        <x>38.5</x>
+        <y>-7</y>
+        <width>1.5</width>
+        <height>3.17143</height>
+        <offsetX>0</offsetX>
+        <offsetY>0</offsetY>
+        <rotation>0</rotation>
+        <layer>0</layer>
+        <color>ffffff</color>
+        <image>levelup_line</image>
+    </Sprite>
+</AnimFrame>
