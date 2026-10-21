@@ -63,10 +63,12 @@ namespace Dc2Pilot
                 d.rig.Play(d.aShao, -1, 0, 0.025f);
                 if (d.burnFx == null)
                 {
+                    // BeDamaged 0x11e94..0x11f20 (and the same block per hit at 0x11f70..0x1201c): skins 1, 2, 5 -> objectScale 0.8 (0x3F4CCCCD),
+                    // y = S*160*0.8 + g_ground_y (0x43200000 = 160), iPad y -= 70 (0x11f1a 0x428C0000); skin 3 -> scale 1.0, y kept; x = dinosaur x.
+                    // r119z2 FALSIFIED: the port used 150 and 72 here (the dahuo fire 18 px too low on iPad), the twin of the DieShaoSi ash error fixed in r119w.
                     float s = N.S;
                     float y = d.y; float scale = 1f;
-                    if (d.skin == 1) { scale = 0.8f; y = N.Add32(N.Mul32(N.Mul32(s, 150f), 0.8f), GroundY); y = N.Add32(y, -72f); }
-                    else if (d.skin == 2 || d.skin == 5) { scale = 0.8f; y = N.Add32(N.Mul32(N.Mul32(s, 150f), 0.8f), GroundY); y = N.Add32(y, -72f); }
+                    if (d.skin == 1 || d.skin == 2 || d.skin == 5) { scale = 0.8f; y = N.Add32(N.Mul32(N.Mul32(s, 160f), 0.8f), GroundY); y = N.Add32(y, -70f); }
                     d.burnFx = SpawnCaFx("dahuo", FxAnimation("DC2/Image/a2b/dahuo.a2b", false), d.x, y, d.faceRight, 9, scale, -1);
                 }
                 d.state = 5; d.legacyHit = false; BurnStarts++;
@@ -252,6 +254,8 @@ namespace Dc2Pilot
         /// next key frame, drawing the flame as bursts (user report); the held laser / yuanli were hidden at frame 6 the same way.</summary>
         public int BeamFrameForTest(int mode) { var b = mode == 4 ? laserBeam : mode == 5 ? flameBeam : yuanliBeam; return b != null && b.enabled ? b.fx.ca.CurrentFrame : -1; }   // DEBUG_ONLY probe (-1 = hidden)
         public int BurnFxCountForTest() { int n = 0; foreach (var f in fxList) if (f.tag == "dahuo") n++; return n; }   // DEBUG_ONLY probe
+        public Vector2 BurnFxPosForTest(DinoActor d) { return d.burnFx != null ? new Vector2(d.burnFx.x, d.burnFx.y) : new Vector2(float.NaN, float.NaN); }   // DEBUG_ONLY probe
+        public float BurnFxScaleForTest(DinoActor d) { return d.burnFx != null && d.burnFx.ca != null ? d.burnFx.ca.objectScale : float.NaN; }   // DEBUG_ONLY probe
         void BeamAnimationEnd(HeroBeam b)
         {
             int f = b.fx.ca.CurrentFrame;

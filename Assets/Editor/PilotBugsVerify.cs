@@ -379,6 +379,13 @@ namespace Dc2Pilot.EditorTools
                         {
                             var bd = fsc.CreateEnemy(1); bd.hp = 100000f; bd.x = fsc.heroX + 200f; bd.state = 0; bd.velocityX = 0f; bd.targetable = true; fsc.facingLeft = false;
                             fsc.fireDown = true; g.StepFor(1f); int burning = fsc.BurnFxCountForTest(); log.AppendLine("INFO burn fixture: dino state " + bd.state + " hp " + bd.hp + " x " + bd.x + " hero " + fsc.heroX + " flame frame " + fsc.BeamFrameForTest(5) + " firing " + fsc.firing + " slot " + fsc.weaponSlot + " inView " + fsc.InViewportForTest(bd));
+                            {   // r119z2: dahuo placement per BeDamaged 0x11e94..0x11f20 (skins 1/2/5: S*160*0.8 + ground, iPad -70, scale 0.8; skin 3: dinosaur y, scale 1)
+                                Vector2 fp = fsc.BurnFxPosForTest(bd); float burnScale = fsc.BurnFxScaleForTest(bd);
+                                bool low = bd.skin == 1 || bd.skin == 2 || bd.skin == 5;
+                                float ey = low ? N.Add32(N.Add32(N.Mul32(N.Mul32(N.S, 160f), 0.8f), GameScene.GroundY), -70f) : bd.y;
+                                check("r119z2 burning dahuo (skin " + bd.skin + ") at x " + fp.x + " = dino x " + bd.x + ", y " + fp.y + " = " + ey + ", scale " + burnScale + " = " + (low ? 0.8f : 1f),
+                                      Mathf.Abs(fp.x - bd.x) < 0.01f && Mathf.Abs(fp.y - ey) < 0.01f && Mathf.Abs(burnScale - (low ? 0.8f : 1f)) < 1e-6f);
+                            }
                             bd.hp = 0.5f; g.StepFor(4f); fsc.fireDown = false; g.StepFor(3f);
                             check("r119j burning dinosaur killed by the flame: Dahuo shown while burning (" + burning + "), none left after the dinosaur is gone (" + fsc.BurnFxCountForTest() + ", dino alive " + fsc.dinos.Contains(bd) + ")", burning == 1 && !fsc.dinos.Contains(bd) && fsc.BurnFxCountForTest() == 0);
                         }
